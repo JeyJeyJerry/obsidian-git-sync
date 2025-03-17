@@ -2,4 +2,6 @@
 
 ### Contents:
 - school notes
-- personal pr
+- personal projects
+- daily thoughts
+- programming notes
