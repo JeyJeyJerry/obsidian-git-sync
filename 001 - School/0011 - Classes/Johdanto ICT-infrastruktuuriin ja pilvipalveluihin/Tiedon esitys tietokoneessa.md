@@ -20,4 +20,6 @@ Muita tietotekniikassa käytettäviä numerojärjestelmiä ovat nykyisin harvina
 Tavun (byte) lyhenteenä käytetään isoa b-kirjainta (**B**) ja bitin (bit) lyhenteenä käytetään vastaavasti pientä b-kirjainta (**b**). On siis tärkeää kiinnittää huomiota siihen käytetäänkö lyhenteenä isoa vai pientä b-kirjainta, koska **1B** = **8b**.
 
 - esim. tiedonsiirrossa **100 MB/s = 800 Mb/s (8Mbit/sec)**
-- tiedon koossa
+- tiedon koossa vastaavasti esim. **100 MB = 800 Mb**
+
+Tieto tallennetaan muistiin tavuina: tästä syystä muistin koosta
