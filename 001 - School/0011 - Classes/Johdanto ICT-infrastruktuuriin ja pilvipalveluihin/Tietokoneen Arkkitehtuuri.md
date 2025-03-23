@@ -5,5 +5,4 @@
 ## Sisältö
 - [[Toiminnan periaate]]
 - [[Eri osien toiminta]]
-- [[Osien fysikaaliset ominaisuudet]]
 - [[Kuinka PC käynnistyy]]
