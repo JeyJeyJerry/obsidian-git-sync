@@ -9,4 +9,4 @@
 - **Muisti** (RAM): CPU:n työtila.
 - **Kovalevy** (disk drive): varasto, yksinkertaiset tietokoneet käyttävät flash-muistia kovalevyn sijaan.
 - **Liitännät** (connections): kommunikointi ulkomaailmaan, näppäimistöille, näytöille jne.
-- **Väylä** (BUS): siirt''
+- **Väylä** (BUS): siirtää tietoa ja kontrollisignaaleja osien välillä. Väyliä on useita, eri tarkoituksiin, esim. lajennusväylät, osoite- ja dataväylät.
