@@ -13,4 +13,4 @@
 - Kantatyyppejä on useita. Uudet prosessorit käyttävät yleensä uusia kantatyyppejä.
 - Kanta määrää, mitkä prosessorit voidaan asentaa tietokoneeseen.
 - Intelillä ja AMD:llä on omat prosessorikantansa, joten Intelin prosessoria ei voi korvata AMD:llä. Tai päin vastoin.
-- CPU:t tuottavat paljon lämpöä. CPU tarvitsee tehokkaan jäähdytyksen. CPU on yleensä ison jäähdytysrivan ja tuulettimen alla. Joissakin tietokoneissa käytetään eksoottisempia jäähdytysmenetelmiä, kut
+- CPU:t tuottavat paljon lämpöä. CPU tarvitsee tehokkaan jäähdytyksen. CPU on yleensä ison jäähdytysrivan ja tuulettimen alla. Joissakin tietokoneissa käytetään eksoottisempia jäähdytysmenetelmiä, kuten vesijäähdytystä.

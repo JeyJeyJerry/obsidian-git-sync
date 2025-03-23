@@ -9,3 +9,5 @@
 - ## [[CPUn toiminta]]
 - ## [[CPUn kello]]
 - ## [[CPU moniydin, hyperthreading]]
+
+![[Pasted image 20250324001152.png]]
