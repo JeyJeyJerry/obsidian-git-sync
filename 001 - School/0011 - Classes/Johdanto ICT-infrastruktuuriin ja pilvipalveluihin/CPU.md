@@ -7,4 +7,4 @@
 - ## [[Prosessorin toiminta]]
 - ## [[CPUn historia]]
 - ## [[CPUn toiminta]]
-- ## CPU:n kello
+- ## [[CPUn kello]]
