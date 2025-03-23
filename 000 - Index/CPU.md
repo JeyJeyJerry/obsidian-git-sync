@@ -10,7 +10,7 @@
 - Monet käyttöjärjestelmät ovat moniajojärjestelmiä. Se tarkoittaa, että useita ohjelmia ajetaan samanaikaisesti.
 	- Itse asiassa CPU ajaa ainoastaan yhtä ohjelmaa kerrallaan. Järjestelmä vaihtaa ohjelmien välillä niin nopeasti, (n. 100 kertaa sekunnissa) että ohjelmat näyttävät olevan käynnissä yhtä aikaa.
 
-## CPU
+## CPU:n historia
 - Ensimmäinen PC:n CPU oli Intel 8088. se oli yksinkertainen 16 bitin prosessori.
 - Ensimmäinen 32 bitin prosessori oli Intel 80386 (or i386). Nykyiset prosessorit ovat tavallaan paranneltuja i386 prosessoreita. I386:n voi edelleen nähdä prosessoriperheen nimenä.
 	- Intel Itanum on ensimmäinen 64 bittinen PC:n prosessori. Se ei ole yhteensopiva i368:n kanssa, eikä siitä syystä ole laajasti käytetty.
@@ -23,4 +23,5 @@
 	- Muut koot ovat harvinaisia. Ensimmäinen prosessori oli 4 bittinen.
 - Bittien määrä (sananpituus) kertoo, kuinka suuren datamäärän CPU voi käsitellä kerrallaan.
 	- Esim. 32 bittinen CPU voi käsitellä 64 bittiä tietoa, mutta se tehdään kahdessa osassa.
-- 64 Bittinen 
+- 64 Bittinen CPU voi toimia kuten 32 tai 16 bittinen CPU.
+- Tärkein etu suuremmasta CPU:sta on parempi muistinhallinta
