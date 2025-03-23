@@ -13,4 +13,6 @@ Bitti on numerisen tiedon pienin yksikkö, sillä voidaan ilmaista kahta tilaa:
 - jännite "0V" tai "5V"
 - jne.
 
-Muita tietotekniikassa käytettäviä numerojärjestelmiä ovat nykyisin harvinainen 8-kantajärjestelmä (octal), sekä usein esiintyvä 16-kantajärjestelmä (hexadecimal). Eri numerojärjestelmien luvut 
+Muita tietotekniikassa käytettäviä numerojärjestelmiä ovat nykyisin harvinainen 8-kantajärjestelmä (octal), sekä usein esiintyvä 16-kantajärjestelmä (hexadecimal). Eri numerojärjestelmien luvut ovat muunnettavissa kannasta toiseen yksinkertaisella matematiikalla.
+
+**Tavu**, englanniksi **byte** 
