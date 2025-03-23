@@ -5,4 +5,6 @@
 ![[Pasted image 20250323231600.png]]
 
 - Samat periaatteet pätevät kaikkiin tietokoneisiin.
-- **CPU** (prosessori): ajaa ohjelmia. Tekee suurimman osan 
+- **CPU** (prosessori): ajaa ohjelmia. Tekee suurimman osan työstä ja kontrolloi muita osia
+- **Muisti** (RAM): CPU:n työtila
+- **Kovalevy**: varasto, yksinkertaiset tietokoneet k
