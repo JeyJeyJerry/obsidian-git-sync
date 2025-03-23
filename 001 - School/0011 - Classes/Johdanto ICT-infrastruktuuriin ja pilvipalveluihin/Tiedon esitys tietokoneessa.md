@@ -24,4 +24,4 @@ Tavun (byte) lyhenteenä käytetään isoa b-kirjainta (**B**) ja bitin (bit) ly
 
 Tieto tallennetaan muistiin tavuina: tästä syystä muistin koko normaalisti tavuiva (**B**). Tietoliikenteessä taas tyypillisesti käytetään bittejä (**b**) mm. liittymän nopeuden ilmoittamisessa (bit/s), mutta mm. Windows esittää tiedonsiirrossa nopeudet tavuina (MB/s), joten on syytä kiinnittää huomiota ilmoitetaanko tieto biitteinä (**b**) vai tavuina (**B**).
 
-**Sana**, eli **word** on käsite, jolla kuvataan tietokoneen kerralla 
+**Sana**, eli **word** on käsite, jolla kuvataan tietokoneen kerralla käsittelemää tietomäärää. Sanan pituus on tavallisesti tavun monikerta, esim. 8, 16, 32 tai 64 bittiä.
