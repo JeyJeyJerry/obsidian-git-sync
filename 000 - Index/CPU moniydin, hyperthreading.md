@@ -3,4 +3,5 @@
 **Topics**: #computer-architecture 
 
 - Moniydin CPU tarkoittaa, että sama piiri sisältää useita prosessoreita. Esim. kaksiytiminen prosessori työskentelee kuten kaksi prosessoria.
-- Moniydin CPU voi ajaa useaa ohjelmaa samanaikaisesti. Käyttöjärjestelmä hyödyntää SMP:tä (symmetric multiproce)
+- Moniydin CPU voi ajaa useaa ohjelmaa samanaikaisesti. Käyttöjärjestelmä hyödyntää SMP:tä (symmetric multiprocessing), joka pyrkii jakamaan kuorman tasaisesti useille ytimille tai prosessoreille.
+- *Hyperthreading* on Intelin järjestelmä
