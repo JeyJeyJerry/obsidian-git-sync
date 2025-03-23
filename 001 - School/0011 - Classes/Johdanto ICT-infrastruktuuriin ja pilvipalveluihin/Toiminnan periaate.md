@@ -7,5 +7,6 @@
 - Samat periaatteet pätevät kaikkiin tietokoneisiin.
 - **CPU** (prosessori): ajaa ohjelmia. Tekee suurimman osan työstä ja kontrolloi muita osia.
 - **Muisti** (RAM): CPU:n työtila.
-- **Kovalevy**: varasto, yksinkertaiset tietokoneet käyttävät flash-muistia kovalevyn sijaan.
-- **Liitännät**: kommunikointi ulkomaailmaan, näppäimistöil
+- **Kovalevy** (disk drive): varasto, yksinkertaiset tietokoneet käyttävät flash-muistia kovalevyn sijaan.
+- **Liitännät** (connections): kommunikointi ulkomaailmaan, näppäimistöille, näytöille jne.
+- **Väylä** (BUS): siirt''
