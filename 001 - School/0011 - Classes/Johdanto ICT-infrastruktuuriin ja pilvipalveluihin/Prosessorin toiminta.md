@@ -9,4 +9,7 @@
 - Monet käyttöjärjestelmät ovat moniajojärjestelmiä. Se tarkoittaa, että useita ohjelmia ajetaan samanaikaisesti.
 	- Itse asiassa CPU ajaa ainoastaan yhtä ohjelmaa kerrallaan. Järjestelmä vaihtaa ohjelmien välillä niin nopeasti, (n. 100 kertaa sekunnissa) että ohjelmat näyttävät olevan käynnissä yhtä aikaa.
 
-- CPU asennetaan emolevyllä olevaan kantaan
+- CPU asennetaan emolevyllä olevaan kantaan.
+- Kantatyyppejä on useita. Uudet prosessorit käyttävät yleensä uusia kantatyyppejä.
+- Kanta määrää, mitkä prosessorit voidaan asentaa tietokoneeseen.
+- Intelillä ja AMD:llä on omat 
