@@ -28,4 +28,6 @@
 	- 8 bitin prosessori saattoi käyttää ainoastaan 64 kB (kilotavua) muistia.
 	- 32 bittinen voi käyttää ainoastaan 4 GB (gigatavua)
 	- 64 bittisissä CPU:ssa teoreettinen raja on hyvin suuri, mutta suurin osa prosessoreista rajoittaa muistin koon 256 GB:n tai pienemmäksi
-	- (16 bitin prosessori saattoi hyödyntää 1 MB (megatavua) muistia, mutta ne käsittelevät )
+	- (16 bitin prosessori saattoi hyödyntää 1 MB (megatavua) muistia, mutta ne käsittelivät muistin 64 kB paloissa tai segmenteissä)
+
+## CPU:n kello
