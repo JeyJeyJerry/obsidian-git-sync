@@ -18,3 +18,6 @@
 - Intel ja  AMD ovat pääasialliset PC prosessoreiden valmistajat
 - ARM prosessori on Arm Ltd:n omistama teknologia, jota yritys lisenssoi muille  piirivalmistajille. ARM prosessoreita käytetään mm. mobiililaitteissa, sekä Applen tietokoneissa.
 
+## CPU:n toiminta
+- CPU voi olla 8, 16, 32 tai 64 bittinen.
+	- Muut koot ovat harvinaisia. Ensimmäinen prosessori oli 4 bittinen
