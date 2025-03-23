@@ -20,4 +20,6 @@
 
 ## CPU:n toiminta
 - CPU voi olla 8, 16, 32 tai 64 bittinen.
-	- Muut koot ovat harvinaisia. Ensimmäinen prosessori oli 4 bittinen
+	- Muut koot ovat harvinaisia. Ensimmäinen prosessori oli 4 bittinen.
+- Bittien määrä (sananpituus) kertoo, kuinka suuren datamäärän CPU voi käsitellä kerrallaan
+	- Esim. 
