@@ -2,10 +2,9 @@
 **Date**: 23.03.2025
 **Topics**: #computer-architecture 
 
+# Sisältö:
+
 - ## [[Prosessorin toiminta]]
 - ## [[CPUn historia]]
-
-
-## [[CPUn toiminta]]
-
-## CPU:n kello
+- ## [[CPUn toiminta]]
+- ## CPU:n kello
