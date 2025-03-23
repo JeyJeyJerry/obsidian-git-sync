@@ -4,3 +4,4 @@
 
 Tietokone käsittelee tietoa numeerisesti, eli **digitaalisesti**. Numerojärjestelmiä on useita, ihmiset käyttävät kymmenkantajärjestelmää, eli käytännössä on numerot 0...9.
 
+Kaiken yksinkertaisin numerojärjestelmä on se
