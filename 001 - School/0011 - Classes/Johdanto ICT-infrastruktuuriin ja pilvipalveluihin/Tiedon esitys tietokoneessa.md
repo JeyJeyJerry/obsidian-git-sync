@@ -22,4 +22,4 @@ Tavun (byte) lyhenteenä käytetään isoa b-kirjainta (**B**) ja bitin (bit) ly
 - esim. tiedonsiirrossa **100 MB/s = 800 Mb/s (8Mbit/sec)**
 - tiedon koossa vastaavasti esim. **100 MB = 800 Mb**
 
-Tieto tallennetaan muistiin tavuina: tästä syystä muistin koko normaalisti tavuiva (**B**). Tietoliikenteessä taas tyypillisesti käytetään bittejä (**b**) mm
+Tieto tallennetaan muistiin tavuina: tästä syystä muistin koko normaalisti tavuiva (**B**). Tietoliikenteessä taas tyypillisesti käytetään bittejä (**b**) mm. liittymän nopeuden ilmoittamisessa (bit/s), mutta mm. Windows esittää tiedonsiirrossa nopeudet tavuina (MB/s), joten on syytä kiinnittä
