@@ -7,6 +7,10 @@ Tietokone käsittelee tietoa numeerisesti, eli **digitaalisesti**. Numerojärjes
 Kaiken yksinkertaisin numerojärjestelmä on sellainen, missä käytössä on kaksi numeroa, 0 ja 1. Puhutaan kaksikantaisesta eli binaarisesta järjestelmästä. Muissa numerojärjestelmissä numeroita nimitetään numeroiksi, mutta binaarijärjestelmässä numeroita nimitetään **biteiksi**, englanniksi **bit** eli binary digit.
 
 Bitti on numerisen tiedon pienin yksikkö, sillä voidaan ilmaista kahta tilaa:
+
 - "on" tai "ei"
 - "tosi" tai "epätosi"
-- 
+- jännite "0V" tai "5V"
+- jne.
+
+Muita tietotekniikassa käytettäviä numerojärjestelmiä ovat nykyisin harvinainen 
