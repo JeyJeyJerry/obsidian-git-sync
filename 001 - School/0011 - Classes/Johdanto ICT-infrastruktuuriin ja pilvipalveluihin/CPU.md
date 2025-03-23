@@ -8,3 +8,4 @@
 - ## [[CPUn historia]]
 - ## [[CPUn toiminta]]
 - ## [[CPUn kello]]
+- ## [[CPU moniydin, hyperthreading]]
