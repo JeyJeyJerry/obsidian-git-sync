@@ -15,4 +15,4 @@ Bitti on numerisen tiedon pienin yksikkö, sillä voidaan ilmaista kahta tilaa:
 
 Muita tietotekniikassa käytettäviä numerojärjestelmiä ovat nykyisin harvinainen 8-kantajärjestelmä (octal), sekä usein esiintyvä 16-kantajärjestelmä (hexadecimal). Eri numerojärjestelmien luvut ovat muunnettavissa kannasta toiseen yksinkertaisella matematiikalla.
 
-**Tavu**, englanniksi **byte** 
+**Tavu**, englanniksi **byte** tarkoittaa kahdeksan bitin kokonaisuutta. Tavun kooksi on vakiintunut kahdeksan, koska kahdeksalla bitillä voidaan kätevästi ilmaista tavallisimmat länsimaissa kä 
