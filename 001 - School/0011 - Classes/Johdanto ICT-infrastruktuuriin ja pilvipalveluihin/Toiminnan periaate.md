@@ -4,3 +4,5 @@
 
 ![[Pasted image 20250323231600.png]]
 
+- Samat periaatteet pätevät kaikkiin tietokoneisiin.
+- **CPU** (prosessori): ajaa ohjelmia. Tekee suurimman osan 
