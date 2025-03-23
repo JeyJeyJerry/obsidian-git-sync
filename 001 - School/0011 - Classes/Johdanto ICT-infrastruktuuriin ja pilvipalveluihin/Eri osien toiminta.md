@@ -4,8 +4,14 @@
 
 ## Tietokoneen osat:
 - Emolevy
-- CPU
+- [[CPU]]
 - Keskusmuisti RAM
 - Piirisarja (Chip set)
 - Levyt
-- Näytönohjai
+- Näytönohjain
+- Liitynnät
+- Kotelo
+- Tehonlähde
+- Jäähdytys
+
+![[Pasted image 20250323232753.png]]
