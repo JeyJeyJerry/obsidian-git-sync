@@ -24,4 +24,6 @@
 - Bittien määrä (sananpituus) kertoo, kuinka suuren datamäärän CPU voi käsitellä kerrallaan.
 	- Esim. 32 bittinen CPU voi käsitellä 64 bittiä tietoa, mutta se tehdään kahdessa osassa.
 - 64 Bittinen CPU voi toimia kuten 32 tai 16 bittinen CPU.
-- Tärkein etu suuremmasta CPU:sta on parempi muistinhallinta
+- Tärkein etu suuremmasta CPU:sta on parempi muistinhallinta.
+	- 8 bitin prosessori saattoi käyttää ainoastaan 64 kB (kilotavua) muistia.
+	- 32 bittinen voi käyttää ainoastaan 4 GB
