@@ -17,4 +17,7 @@ Muita tietotekniikassa käytettäviä numerojärjestelmiä ovat nykyisin harvina
 
 **Tavu**, englanniksi **byte** tarkoittaa kahdeksan bitin kokonaisuutta. Tavun kooksi on vakiintunut kahdeksan, koska kahdeksalla bitillä voidaan kätevästi ilmaista tavallisimmat länsimaissa käytössä olevat kirjoitusmerkit ja numerot.
 
-Tavun (byte) lyhenteenä käytetään isoa b-kirjainta (**B**) ja bitin (bit) lyhenteenä käytetään vastaavasti pientä b-kirjainta (**b**). On siis tärkeää kiinnittää huomiota siihen käytetäänkö lyhenteenä isoa vai pientä b-kirjainta, koska **1B** = **8b**
+Tavun (byte) lyhenteenä käytetään isoa b-kirjainta (**B**) ja bitin (bit) lyhenteenä käytetään vastaavasti pientä b-kirjainta (**b**). On siis tärkeää kiinnittää huomiota siihen käytetäänkö lyhenteenä isoa vai pientä b-kirjainta, koska **1B** = **8b**.
+
+- esim. tiedonsiirrossa **100 MB/s = 800 Mb/s (8Mbit/sec)**
+- tiedon koossa
