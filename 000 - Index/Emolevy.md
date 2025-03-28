@@ -13,4 +13,6 @@
 	- Jne
 - Emolevy myös määrittelee monia muita tietokoneen ominaisuuksia.
 	- Mitä CPU:ta voidaan käyttää
-	- Minkä tyy
+	- Minkä tyyppistä ja kuinka paljon keskusmuistia
+	- Minkä tyyppisiä kovalevyjä
+
