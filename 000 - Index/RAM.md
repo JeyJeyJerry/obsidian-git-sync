@@ -5,4 +5,4 @@
 - Keskusmuisti on yleensä RAM - muistia (Radom Access Memory).
 - RAM muisti tyhjenee, kun tietokone sammutetaan.
 - RAM on luku- ja kirjoitusmuisti, mikä tarkittaa, että molemmat toimenpiteet ovat yhtä nopeita.
-- Kun CPU
+- Kun CPU ajaa ohjelmaa, ohjelmakoodin ja tiedon 
