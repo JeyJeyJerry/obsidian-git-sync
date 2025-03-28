@@ -3,4 +3,5 @@
 **Topics**: #computer-architecture 
 
 # Sisältö
-- [[M]]
+- ## [[Muistin toiminta]]
+- 
