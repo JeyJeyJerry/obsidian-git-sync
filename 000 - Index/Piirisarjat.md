@@ -4,4 +4,7 @@
 
 - Piirisarja on "liima" emolevyn eri osien välillä.
 	- Kontrolloi väyliä
-	- Luo yht
+	- Luo yhteyksiä
+- Periteisesti piirisarja jaetaan kahteen osaan:
+	- *North bridge*
+	- Kontrolloi nopeita väyliä: CPU - RAM, PCIe
