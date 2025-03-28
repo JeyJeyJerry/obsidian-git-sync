@@ -9,4 +9,7 @@
 	- *North bridge*
 	- Kontrolloi nopeita väyliä: CPU - RAM, PCIe, ...
 	- Ennen piirisarja muodostui kahdestafyy sisestä piiristä, nykyisin vain yhdestä, silti puhutaan "sarjasta".
-- 
+- *South bridge*
+	- Kontrolloi hitaita väyliä
+	- Sisältää useimmat oheislaitteiden liitynnät
+- Nimitys "North" ja "South" t
