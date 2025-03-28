@@ -2,7 +2,7 @@
 **Date**: 23.03.2025
 **Topics**: #computer-architecture
 
-## Sisältö
-- [[Toiminnan periaate]]
-- [[Eri osien toiminta]]
-- [[Kuinka PC käynnistyy]]
+# Sisältö
+- ## [[Toiminnan periaate]]
+- ## [[Eri osien toiminta]]
+- ## [[Kuinka PC käynnistyy]]

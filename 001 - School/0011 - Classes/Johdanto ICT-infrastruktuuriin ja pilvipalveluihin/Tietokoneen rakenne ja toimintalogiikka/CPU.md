@@ -3,7 +3,6 @@
 **Topics**: #computer-architecture 
 
 # Sisältö:
-
 - ## [[Prosessorin toiminta]]
 - ## [[CPUn historia]]
 - ## [[CPUn toiminta]]
