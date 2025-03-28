@@ -5,17 +5,21 @@
 		{"id":"a39dd7cb70a4dc81","x":140,"y":-180,"width":100,"height":60,"type":"text","text":"RAM"},
 		{"id":"30f73347b067b8a7","x":-280,"y":-180,"width":120,"height":60,"type":"text","text":"PCI-E"},
 		{"id":"dc70761657d9c262","x":-57,"y":-320,"width":95,"height":60,"type":"text","text":"CPU"},
-		{"id":"9338c5db2fbbe984","x":-280,"y":70,"width":100,"height":60,"type":"text","text":"PCI"},
-		{"id":"3dbedbe2e0c7d902","x":-230,"y":150,"width":95,"height":60,"type":"text","text":"USB"},
-		{"id":"35523c84a18d4100","x":-180,"y":240,"width":105,"height":60,"type":"text","text":"ISA"},
-		{"id":"bd470f31fde6734b","x":-56,"y":270,"width":140,"height":60,"type":"text","text":"Legacy"},
-		{"id":"fd11b6d887378ae9","x":118,"y":210,"width":105,"height":60,"type":"text","text":"IDE"},
-		{"id":"fcf8013ad79b4e62","x":179,"y":70,"width":122,"height":60,"type":"text","text":"BIOS"}
+		{"id":"fd11b6d887378ae9","x":144,"y":118,"width":105,"height":60,"type":"text","text":"IDE"},
+		{"id":"fcf8013ad79b4e62","x":151,"y":39,"width":122,"height":60,"type":"text","text":"BIOS"},
+		{"id":"9338c5db2fbbe984","x":-258,"y":33,"width":100,"height":60,"type":"text","text":"PCI"},
+		{"id":"3dbedbe2e0c7d902","x":-234,"y":111,"width":95,"height":60,"type":"text","text":"USB"},
+		{"id":"35523c84a18d4100","x":-125,"y":162,"width":105,"height":60,"type":"text","text":"ISA"},
+		{"id":"bd470f31fde6734b","x":5,"y":163,"width":122,"height":60,"type":"text","text":"Legacy"}
 	],
 	"edges":[
 		{"id":"441adbd1548e6fba","fromNode":"dc70761657d9c262","fromSide":"bottom","toNode":"0e8e5d23ca772a3f","toSide":"top","label":"FSB"},
 		{"id":"eac33899d7ee010e","fromNode":"0e8e5d23ca772a3f","fromSide":"right","toNode":"a39dd7cb70a4dc81","toSide":"left","fromEnd":"arrow"},
 		{"id":"0be5b96202f57548","fromNode":"0e8e5d23ca772a3f","fromSide":"left","toNode":"30f73347b067b8a7","toSide":"right","fromEnd":"arrow"},
-		{"id":"ce66cff957a9026c","fromNode":"0e8e5d23ca772a3f","fromSide":"bottom","toNode":"fdb84ccfde916da3","toSide":"top","toEnd":"none"}
+		{"id":"ce66cff957a9026c","fromNode":"0e8e5d23ca772a3f","fromSide":"bottom","toNode":"fdb84ccfde916da3","toSide":"top","toEnd":"none"},
+		{"id":"04fbad5c73adcc58","fromNode":"9338c5db2fbbe984","fromSide":"right","toNode":"fdb84ccfde916da3","toSide":"left"},
+		{"id":"58549c5909d82d14","fromNode":"3dbedbe2e0c7d902","fromSide":"right","toNode":"fdb84ccfde916da3","toSide":"left"},
+		{"id":"2e34dcdd68fd144e","fromNode":"35523c84a18d4100","fromSide":"top","toNode":"fdb84ccfde916da3","toSide":"bottom"},
+		{"id":"888d42d048393da9","fromNode":"bd470f31fde6734b","fromSide":"top","toNode":"fdb84ccfde916da3","toSide":"bottom"}
 	]
 }
