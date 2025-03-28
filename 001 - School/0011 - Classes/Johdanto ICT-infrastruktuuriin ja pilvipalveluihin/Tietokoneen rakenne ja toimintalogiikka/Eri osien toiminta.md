@@ -5,7 +5,7 @@
 ## Tietokoneen osat:
 - Emolevy
 - [[CPU]]
-- Keskusmuisti [[Keskusmuisti]]
+-  ([[Keskusmuisti]])
 - Piirisarja (Chip set)
 - Levyt
 - Näytönohjain

@@ -11,4 +11,4 @@
 		- 800 MHz tarkoittaa, että CPU voi lukea muistista tai kirjoittaa muistiin 800 000 000 kertaa sekunnissa. Prosessori siirtää 8 tavua yhtä aikaa. Niinpä siis CPU siirtää 6400 MB/s.
 	- Koko: gigatavuja (2, 4, 8, 16, ...)
 	- Virheenkorjaus: palvelimet käyttävät moduuleja joissa on ECC (Error Correction Code). Työasemat eivät voi niitä käyttää.
-	- 
+	- Paras tapa valita moduuli on katsoa emolevyn valmistajan tai muistin valmistajan suosituksia.
