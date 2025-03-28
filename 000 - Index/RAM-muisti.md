@@ -3,4 +3,6 @@
 **Topics**: #computer-architecture 
 
 - RAM-muisti on muistimoduuleilla. Muistimoduulit asennetaan emolevyn kantoihin.
-- Pöytäkoneet käyttävät DIMM
+- Pöytäkoneet käyttävät DIMM - ja kannettavat koneet sODIMM moduuleja.
+- Moduulien valinta voi olla hankalaa. On monia parametreja, joita täytyy tarkastella.
+	- Fyysinen koko: s
