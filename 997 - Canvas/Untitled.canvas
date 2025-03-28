@@ -5,10 +5,12 @@
 		{"id":"a39dd7cb70a4dc81","x":140,"y":-180,"width":100,"height":60,"type":"text","text":"RAM"},
 		{"id":"30f73347b067b8a7","x":-280,"y":-180,"width":120,"height":60,"type":"text","text":"PCI-E"},
 		{"id":"dc70761657d9c262","x":-57,"y":-320,"width":95,"height":60,"type":"text","text":"CPU"},
-		{"id":"9338c5db2fbbe984","x":-380,"y":70,"width":100,"height":60,"type":"text","text":"PCI"},
-		{"id":"3dbedbe2e0c7d902","x":-307,"y":160,"width":95,"height":60,"type":"text","text":"USB"},
-		{"id":"35523c84a18d4100","x":-212,"y":240,"width":250,"height":60,"type":"text","text":""},
-		{"id":"fd11b6d887378ae9","x":15,"y":160,"width":250,"height":60,"type":"text","text":""}
+		{"id":"9338c5db2fbbe984","x":-259,"y":70,"width":100,"height":60,"type":"text","text":"PCI"},
+		{"id":"3dbedbe2e0c7d902","x":-202,"y":150,"width":95,"height":60,"type":"text","text":"USB"},
+		{"id":"35523c84a18d4100","x":-80,"y":150,"width":105,"height":60,"type":"text","text":"ISA"},
+		{"id":"bd470f31fde6734b","x":260,"y":150,"width":140,"height":60,"type":"text","text":"Legacy"},
+		{"id":"fcf8013ad79b4e62","x":190,"y":260,"width":122,"height":60,"type":"text","text":"BIOS"},
+		{"id":"fd11b6d887378ae9","x":38,"y":150,"width":105,"height":60,"type":"text","text":"IDE"}
 	],
 	"edges":[
 		{"id":"441adbd1548e6fba","fromNode":"dc70761657d9c262","fromSide":"bottom","toNode":"0e8e5d23ca772a3f","toSide":"top","label":"FSB"},
