@@ -15,4 +15,7 @@
 	- Mitä CPU:ta voidaan käyttää
 	- Minkä tyyppistä ja kuinka paljon keskusmuistia
 	- Minkä tyyppisiä kovalevyjä
+- Emolevyyn sisältyy myös [[Piirisarjat]]
+
+![[Pasted image 20250329004342.png]]
 
