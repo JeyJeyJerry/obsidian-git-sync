@@ -2,7 +2,4 @@
 **Date**: 29.03.2025
 **Topics**: #computer-architecture 
 
-# Sisältö
-- ## [[Muistin toiminta]]
-- ## [[RAM-muisti]]
-- ## [[Cache]]
+- Välimuistia käytetään nopeuttamaa
