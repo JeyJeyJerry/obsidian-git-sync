@@ -2,4 +2,7 @@
 **Date**: 29.03.2025
 **Topics**: #computer-architecture 
 
-- Välimuistia käytetään nopeuttamaa
+- Välimuistia käytetään nopeuttamaan tietokoneen toimintaa.
+- Monista syistä RAM - muisti ei voi toimia yhtä nopeasti kuin prosessori.
+- Välimuisti on pieni ja nopea muisti lähellä prosessoria, tai sen sisällä.
+- 
