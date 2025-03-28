@@ -6,7 +6,7 @@
 - Emolevy
 - [[CPU]]
 - [[Keskusmuisti]] (RAM)
-- Piirisarja (Chip set)
+- [[Emolevy]]
 - Levyt
 - Näytönohjain
 - Liitynnät
