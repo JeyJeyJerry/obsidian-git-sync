@@ -4,4 +4,4 @@
 
 # Sisältö
 - ## [[Muistin toiminta]]
-- 
+- ## [[RAM-muisti]]
