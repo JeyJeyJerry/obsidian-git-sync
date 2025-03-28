@@ -4,7 +4,16 @@
 		{"id":"0e8e5d23ca772a3f","x":-107,"y":-180,"width":195,"height":60,"type":"text","text":"North bridge"},
 		{"id":"a39dd7cb70a4dc81","x":140,"y":-180,"width":100,"height":60,"type":"text","text":"RAM"},
 		{"id":"30f73347b067b8a7","x":-280,"y":-180,"width":120,"height":60,"type":"text","text":"PCI-E"},
-		{"id":"dc70761657d9c262","x":-57,"y":-320,"width":95,"height":60,"type":"text","text":"CPU"}
+		{"id":"dc70761657d9c262","x":-57,"y":-320,"width":95,"height":60,"type":"text","text":"CPU"},
+		{"id":"9338c5db2fbbe984","x":-380,"y":70,"width":100,"height":60,"type":"text","text":"PCI"},
+		{"id":"3dbedbe2e0c7d902","x":-307,"y":160,"width":95,"height":60,"type":"text","text":"USB"},
+		{"id":"35523c84a18d4100","x":-212,"y":240,"width":250,"height":60,"type":"text","text":""},
+		{"id":"fd11b6d887378ae9","x":15,"y":160,"width":250,"height":60,"type":"text","text":""}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"441adbd1548e6fba","fromNode":"dc70761657d9c262","fromSide":"bottom","toNode":"0e8e5d23ca772a3f","toSide":"top","label":"FSB"},
+		{"id":"eac33899d7ee010e","fromNode":"0e8e5d23ca772a3f","fromSide":"right","toNode":"a39dd7cb70a4dc81","toSide":"left","fromEnd":"arrow"},
+		{"id":"0be5b96202f57548","fromNode":"0e8e5d23ca772a3f","fromSide":"left","toNode":"30f73347b067b8a7","toSide":"right","fromEnd":"arrow"},
+		{"id":"ce66cff957a9026c","fromNode":"0e8e5d23ca772a3f","fromSide":"bottom","toNode":"fdb84ccfde916da3","toSide":"top","toEnd":"none"}
+	]
 }
