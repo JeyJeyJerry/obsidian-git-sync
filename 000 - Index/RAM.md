@@ -7,4 +7,5 @@
 - RAM on luku- ja kirjoitusmuisti, mikä tarkittaa, että molemmat toimenpiteet ovat yhtä nopeita.
 - Kun CPU ajaa ohjelmaa, ohjelmakoodin ja tiedon pitää olla muistissa.
 - Muistin koko vaikuttaa tietokoneen nopeuteen.
-	- Mikäli ohjelma tarvitsee enemmän muistia kuin mitä on saatavana, tietokone käyttää kovalevyä muistin 
+	- Mikäli ohjelma tarvitsee enemmän muistia kuin mitä on saatavana, tietokone käyttää kovalevyä muistin laajennuksena. Tämä hidastaa tietokoneen toimintaa merkittävästi.
+- Muita muistityyppejä ovat lukumuisti (ROM,)
