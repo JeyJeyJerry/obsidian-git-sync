@@ -16,4 +16,8 @@
 
 ![[piirisarja.png]]
 
-- Piirisarja vaikut
+- Piirisarja vaikuttaa tietokoneen nopeuteen.
+- Piirisarja on prosessoririippuva.
+	- Uudet prosessoriperheet tarvitsevat uudet piirisarjat
+	- Piirisarja tukee vain rajoitettua määrää prosessorimalleja
+	- AMD:n ja Intel:
