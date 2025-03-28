@@ -20,4 +20,5 @@
 - Piirisarja on prosessoririippuva.
 	- Uudet prosessoriperheet tarvitsevat uudet piirisarjat
 	- Piirisarja tukee vain rajoitettua määrää prosessorimalleja
-	- AMD:n ja Intel:
+	- AMD:n ja Intel:n prosessorit tarvitsevat omat piirisarjansa
+- Emolevy rakentuu jonkin tietyn prosessoriperheen ja piirisarjan ympärille.
