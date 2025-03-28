@@ -4,3 +4,4 @@
 
 ![[Pasted image 20250329003825.png]]
 
+- Ensimmäisten PC:n emolevyt sisälsivät CPU:n, muistin, näppäimistön liitt
