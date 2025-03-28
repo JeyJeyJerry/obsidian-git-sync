@@ -5,4 +5,6 @@
 - Keskusmuisti on yleensä RAM - muistia (Radom Access Memory).
 - RAM muisti tyhjenee, kun tietokone sammutetaan.
 - RAM on luku- ja kirjoitusmuisti, mikä tarkittaa, että molemmat toimenpiteet ovat yhtä nopeita.
-- Kun CPU ajaa ohjelmaa, ohjelmakoodin ja tiedon 
+- Kun CPU ajaa ohjelmaa, ohjelmakoodin ja tiedon pitää olla muistissa.
+- Muistin koko vaikuttaa tietokoneen nopeuteen.
+	- Mikäli ohjelma tarvitsee enemmän muistia kuin mitä on saatavana, tietokone käyttää kovalevyä muistin 
