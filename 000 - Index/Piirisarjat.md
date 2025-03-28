@@ -12,4 +12,5 @@
 - *South bridge*
 	- Kontrolloi hitaita väyliä
 	- Sisältää useimmat oheislaitteiden liitynnät
-- Nimitys "North" ja "South" t
+- Nimitys "North" ja "South" tulevat siitä, että perinteisesti kaaviokuvassa prosessori on ylimmäisenä, sen alla north bridge ja alimmaisena south bridge.
+
