@@ -27,5 +27,4 @@
 ## Thoughts
 
 
-
 ## Quotes
