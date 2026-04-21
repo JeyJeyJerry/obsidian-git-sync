@@ -23,7 +23,8 @@
 ### Book 1, Chapter 1
 
 - In the beginning an epigraph from Princess Irulan reminds an unknown reader to locate Muad'Dib on Arrakis, the planet known as Dune
-- Fifteen-year-old Paul Atreides feigns sleep 
+- Fifteen-year-old Paul Atreides pretends to sleep as his mother, the Lady Jessica, and an old woman whom Jessica calls "Your Reverence" look into his bedroom
+	- 
 
 ## Quotes
 
