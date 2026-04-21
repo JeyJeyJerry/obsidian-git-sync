@@ -6,7 +6,8 @@
 	- He also tells of the dangers of the climate of the planet and the lack of water
 		- The Fremen use special suits called **Stillsuits** that recycle water from your bodily fluids
 	- Thufir leaves and tells Paul they'll see next time on Arrakis
-- **Gurney Halleck**, the new 
+- **Gurney Halleck** walks in, the new Atreides weapon master in charge of training Paul
+	- The two joke around and begin traini
 
 ## Quotes
 
