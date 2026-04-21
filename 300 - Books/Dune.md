@@ -29,7 +29,9 @@
 		- Paul wonders what is a gom jabbar
 - Paul falls asleep and dreams of a cavern on the planet Arrakis
 	- He knows he will remember the dream when he wakes up, because he always remembers the dreams "that are predictions"
-- The Next morning, Jessica sends Paul to meet the old woman, Reverend Mother 
+- The Next morning, Jessica sends Paul to meet the old woman, Reverend Mother Gaius Helen Mohiam
+	- The Reverend mother was Jessica's teacher at the Bene Gesserit School
+- The Reverend Mother has 
 
 ## Quotes
 
