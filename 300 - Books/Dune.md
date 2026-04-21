@@ -43,7 +43,8 @@
 	- This idea offends Paul's "instinct for rightness"
 - The Program's goal is to create the Kwisatz Haderach
 	- The Bene Gesserit Reverend Mothers are able to take a drug and look deep into "avenues of the past", but only feminine avenues
-	- They hope to breed the 
+	- They hope to breed the Kwisatz Haderach the one who can "be many places at once" and who can see into both feminine and masculine pasts
+	- So far every man who has taken the drug has died
 
 ## Quotes
 
