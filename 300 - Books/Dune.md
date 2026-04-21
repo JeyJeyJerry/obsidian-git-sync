@@ -35,7 +35,9 @@
 	- The needle is the gom jabbar, the "high handed enemy"
 	- Paul's hand in the box begins to experience terrible pain
 	- The Reverend Mother says she will kill Paul if he removes his hand
-		- She says she is testing him to dete
+		- She says she is testing him to determine if he is human or animal
+- Paul passes the test and sees his hand is unharmed
+- The Revere
 
 ## Quotes
 
