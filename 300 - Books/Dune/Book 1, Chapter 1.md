@@ -1,4 +1,10 @@
-- In the beginning an epigraph from **Princess Irulan** reminds an unknown reader to locate Muad'Dib on Arrakis, the planet known as Dune
+## Notes
+
+
+## Thoughts
+
+
+## Quotes- In the beginning an epigraph from **Princess Irulan** reminds an unknown reader to locate Muad'Dib on Arrakis, the planet known as Dune
 - Fifteen-year-old **Paul Atreides** pretends to sleep as his mother, the **Lady Jessica**, and an old woman whom Jessica calls "Your Reverence" look into his bedroom
 	- They are on the planet **Caladan**, inside a castle that has been in Paul's family for 26 generations
 	- The old woman says that tomorrow Paul will face her **gom jabbar**
