@@ -4,7 +4,9 @@
 	- The Reverend Mother is scolding Jessica for having a boy although she was told to bear only girls
 	- Jessica believes in Paul nonetheless and believes he can be the Kwisatz Haderach, but feels somewhat guilty and scared about the future of House Atreides
 - Paul comes to talk to The Reverend Mother from the meditation room
-	- The Reverend Mother asks Paul about hi
+	- The Reverend Mother asks Paul about his dreams
+	- Paul says he can remember all his dreams, but chooses to remember the important ones that he just "knows are importat"
+	- Paul says he sees dreams about things that are yet 
 
 ## Quotes
 
