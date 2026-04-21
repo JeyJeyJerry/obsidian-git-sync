@@ -33,7 +33,9 @@
 	- The Reverend mother was Jessica's teacher at the Bene Gesserit School
 - The Reverend Mother has Paul put his hand in a box while she holds a poisoned needle to his neck
 	- The needle is the gom jabbar, the "high handed enemy"
-	- Paul's hand in the box 
+	- Paul's hand in the box begins to experience terrible pain
+	- The Reverend Mother says she will kill Paul if he removes his hand
+		- She says she is testing him to dete
 
 ## Quotes
 
