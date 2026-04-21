@@ -1,7 +1,5 @@
 ## Notes
 
 
-## Thoughts
-
-
 ## Quotes
+
