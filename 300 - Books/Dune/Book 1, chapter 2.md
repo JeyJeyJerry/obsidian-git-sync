@@ -1,6 +1,7 @@
 ## Notes
 
-- The Baron Vladimir Harkon
+- **The Baron Vladimir Harkonnen** discusses his plans with his nephew **Feyd Rautha** and his assassin **Piter de Vries**
+	- The baron is a very fat man that uses anti gravity to levitate his hu
 
 ## Quotes
 
