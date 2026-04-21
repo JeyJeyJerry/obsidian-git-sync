@@ -4,7 +4,7 @@
 	- The Reverend Mother is scolding Jessica for having a boy although she was told to bear only girls
 	- Jessica believes in Paul nonetheless and believes he can be the Kwisatz Haderach, but feels somewhat guilty and scared about the future of House Atreides
 	- The Reverend Mother is angry at Jessica and blames her for having a son just for the pleasure of **Duke Leto**
-		- Jessica could've had a daughter and better their chanc
+		- Jessica could've had a daughter and better their chances of more power in Arrakis by wedding her daughter with a Harkonnen
 - Paul comes to talk to The Reverend Mother from the meditation room
 	- The Reverend Mother asks Paul about his dreams
 	- Paul says he can remember all his dreams, but chooses to remember the important ones that he just "knows are importat"
