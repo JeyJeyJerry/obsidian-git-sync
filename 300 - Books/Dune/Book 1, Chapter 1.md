@@ -1,14 +1,12 @@
 ## Notes
 
 - In the beginning an epigraph from **Princess Irulan** reminds an unknown reader to locate Muad'Dib on Arrakis, the planet known as **Dune**
-- Fifteen-year-old **Paul Atreides** pretends to sleep in his bedroom  as his mother, the **Lady Jessica**, and an old woman whom Jessica calls "Your Reverence" look into his bedroom
-	- They are on the planet **Caladan**, inside a castle that has been in Paul's family for 26 generations
+- Fifteen-year-old **Paul Atreides** pretends to sleep in his bedroom on the planet **Caladan**, inside a castle that has been in Paul's family for 26 generations. His mother, the **Lady Jessica**, and an old woman whom Jessica calls "Your Reverence" look into his bedroom
 	- The old woman says that tomorrow Paul will face her **gom jabbar**
 		- Paul wonders what is a gom jabbar
 - Paul falls asleep and dreams of a cavern on the planet **Arrakis**
 	- He knows he will remember the dream when he wakes up, because he always remembers the dreams "that are predictions"
-- The Next morning, Jessica sends Paul to meet the old woman, **Reverend Mother Gaius Helen Mohiam**
-	- The Reverend mother was Jessica's teacher at the **Bene Gesserit** School
+- The Next morning, Jessica sends Paul to meet the old woman, **Reverend Mother Gaius Helen Mohiam** who was Jessica's teacher at the **Bene Gesserit** School
 - The Reverend Mother has Paul put his hand in a box while she holds a poisoned needle to his neck
 	- The needle is the gom jabbar, the "high handed enemy"
 	- Paul's hand in the box begins to experience terrible pain
