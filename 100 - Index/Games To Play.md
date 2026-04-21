@@ -1,0 +1,10 @@
+- Dishonored
+- Dishonored 2
+- Dishonored Death of the Outsider
+- Elden ring
+- Indie stuff
+- Fallout 4
+- Fallout 3
+- Fallout new vegas
+- Far cry / elder scrolls / bioshock
+- death stranding 2 / control resonant
