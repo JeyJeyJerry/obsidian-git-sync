@@ -12,7 +12,7 @@
 		- The shields block fast moving objects, but let slow moving objects through
 		- This encourages speed in defence and slowness in attacks
 	- Paul seems unmotivated at first, but Gurney pushes him to train harder
-	- Gurney says training can no longer be play, since the threat
+	- Gurney says training can no longer be play, since the threats on Arrakis are real
 
 ## Quotes
 
