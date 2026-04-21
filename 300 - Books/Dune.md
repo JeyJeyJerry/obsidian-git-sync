@@ -20,7 +20,7 @@
 
 ## Notes
 
-### Book 1, Chapter 1
+### [Book 1, Chapter 1}
 
 - In the beginning an epigraph from **Princess Irulan** reminds an unknown reader to locate Muad'Dib on Arrakis, the planet known as Dune
 - Fifteen-year-old **Paul Atreides** pretends to sleep as his mother, the **Lady Jessica**, and an old woman whom Jessica calls "Your Reverence" look into his bedroom
@@ -41,7 +41,7 @@
 - Jessica enters the room and Paul realises shen went trough the same test in the past
 - The Bene Gesserit seperate "human stock from animal stock for breeding purposes" to advance human genetics
 	- This idea offends Paul's "instinct for rightness"
-- The Program's goal is to create the Kwisatz Haderach
+- The Program's goal is to create the **Kwisatz Haderach**
 	- The Bene Gesserit Reverend Mothers are able to take a drug and look deep into "avenues of the past", but only feminine avenues
 	- They hope to breed the Kwisatz Haderach the one who can "be many places at once" and who can see into both feminine and masculine pasts
 	- So far every man who has taken the drug has died
