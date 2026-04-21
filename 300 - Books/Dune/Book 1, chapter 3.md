@@ -16,4 +16,4 @@
 
 ## Quotes
 
-"Goodbye, young human. I hope you make it. But if you don't – well, we shall yet succeed."
+> "Goodbye, young human. I hope you make it. But if you don't – well, we shall yet succeed." (p. 29)
