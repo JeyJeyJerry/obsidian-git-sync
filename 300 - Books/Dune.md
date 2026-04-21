@@ -42,7 +42,8 @@
 - The Bene Gesserit seperate "human stock from animal stock for breeding purposes" to advance human genetics
 	- This idea offends Paul's "instinct for rightness"
 - The Program's goal is to create the Kwisatz Haderach
-	- 
+	- The Bene Gesserit Reverend Mothers are able to take a drug and look deep into "avenues of the past", but only feminine avenues
+	- They hope to breed the 
 
 ## Quotes
 
