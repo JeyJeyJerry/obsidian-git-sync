@@ -40,7 +40,9 @@
 - The Reverend Mother tells Paul that she and her Bene Gesserit sisters "sift people to find the humans"
 - Jessica enters the room and Paul realises shen went trough the same test in the past
 - The Bene Gesserit seperate "human stock from animal stock for breeding purposes" to advance human genetics
-	- Thi
+	- This idea offends Paul's "instinct for rightness"
+- The Program's goal is to create the Kwisatz Haderach
+	- 
 
 ## Quotes
 
