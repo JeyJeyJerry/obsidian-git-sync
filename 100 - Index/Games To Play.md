@@ -6,5 +6,6 @@
 - Fallout 4
 - Fallout 3
 - Fallout new vegas
-- Far cry / elder scrolls / bioshock
-- death stranding 2 / control resonant
+- Far cry / Elder scrolls / Bioshock (series)
+- Death stranding 2
+- Control resonant (TBR)
