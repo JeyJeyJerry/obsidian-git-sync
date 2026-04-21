@@ -5,6 +5,8 @@
 - The Reverend Mother says that tomorrow Paul will face her **gom jabbar**
 - Paul falls asleep and dreams of a cavern on the planet **Arrakis**
 	- Paul knows he will remember the dream, because he remembers dreams "that are predictions"
+- Paul goes to meet The Reverend Mother and faces a test
+	- He is told to put his hand in a 
 
 ## Quotes
 
