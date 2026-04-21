@@ -4,7 +4,8 @@
 	- Paul asks Thufir about different parts of Arrakis and why they are moving to Arrakis even though The Reverend Mother said it is a lost cause for his father
 	- Thurif tells Paul that they are moving on orders of **The Emperor**, but there is also hope
 	- He also tells of the dangers of the climate of the planet and the lack of water
-		- The Fremen use special suits called **Stillsuits**
+		- The Fremen use special suits called **Stillsuits** that recycle water from your bodily fluids
+	- Thufir leaves and tells Paul they'll see next time on A
 
 ## Quotes
 
