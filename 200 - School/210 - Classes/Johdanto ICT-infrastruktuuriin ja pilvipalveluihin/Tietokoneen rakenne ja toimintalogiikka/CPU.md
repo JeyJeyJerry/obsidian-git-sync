@@ -3,8 +3,8 @@
 **Topics**: #computer-architecture 
 
 # Sisältö:
-- ## [[Prosessorin toiminta]]
-- ## [[CPUn historia]]
-- ## [[CPUn toiminta]]
-- ## [[CPUn kello]]
-- ## [[CPU moniydin, hyperthreading]]
+## [[Prosessorin toiminta]]
+## [[CPUn historia]]
+## [[CPUn toiminta]]
+## [[CPUn kello]]
+## [[CPU moniydin, hyperthreading]]

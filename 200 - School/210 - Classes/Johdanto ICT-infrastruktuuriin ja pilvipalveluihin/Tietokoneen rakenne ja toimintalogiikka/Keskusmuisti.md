@@ -3,6 +3,6 @@
 **Topics**: #computer-architecture 
 
 # Sisältö
-- ## [[Muistin toiminta]]
-- ## [[RAM-muisti]]
-- ## [[Cache]]
+## [[Muistin toiminta]]
+## [[RAM-muisti]]
+## [[Cache]]
