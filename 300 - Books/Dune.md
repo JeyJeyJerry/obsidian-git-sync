@@ -31,7 +31,9 @@
 	- He knows he will remember the dream when he wakes up, because he always remembers the dreams "that are predictions"
 - The Next morning, Jessica sends Paul to meet the old woman, Reverend Mother Gaius Helen Mohiam
 	- The Reverend mother was Jessica's teacher at the Bene Gesserit School
-- The Reverend Mother has 
+- The Reverend Mother has Paul put his hand in a box while she holds a poisoned needle to his neck
+	- The needle is the gom jabbar, the "high handed enemy"
+	- Paul's hand in the box 
 
 ## Quotes
 
