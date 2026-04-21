@@ -26,6 +26,7 @@
 
 ## Thoughts
 
-- Paul is very perceptive and seems to notice a lot of little details, but is also quite confused about all the things Jessi
+- Paul is very perceptive and seems to notice a lot of little details, but is also quite confused about all the things Jessica and The Reverend Mother are up to
+- 
 
 ## Quotes
