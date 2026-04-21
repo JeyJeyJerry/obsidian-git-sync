@@ -10,7 +10,8 @@
 	- The metal box begins to inflict immense pain onto Paul's hand
 	- The Reverend Mother tells Paul he will die if he takes his hand out of the box
 - Paul passes the test and The Reverend Mother tells the purpose of the test is to "sift people to find humans"
-	- Paul realises that 
+	- Paul realises that his mother has also taken the test in the past and that 
+	- The goal of 
 
 ## Quotes
 
