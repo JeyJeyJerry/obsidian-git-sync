@@ -11,7 +11,8 @@
 	- The Reverend Mother tells Paul he will die if he takes his hand out of the box
 - Paul passes the test and The Reverend Mother tells the purpose of the test is to "sift people to find humans"
 	- Paul realises that his mother has also taken the test in the past and that The Reverend Mother was his mother's teacher in the Bene Gesserit School
-	- The goal of sifting humans is to breed the **Kwisatz**
+	- The goal of sifting humans is to breed the **Kwisatz Haderach**, one who can "be many places at once" and see feminine and masculine pasts
+	- The Reverend Mothers can take a drug to 
 
 ## Quotes
 
