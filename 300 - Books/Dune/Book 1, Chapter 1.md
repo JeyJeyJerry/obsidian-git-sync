@@ -1,10 +1,6 @@
 ## Notes
 
-
-## Thoughts
-
-
-## Quotes- In the beginning an epigraph from **Princess Irulan** reminds an unknown reader to locate Muad'Dib on Arrakis, the planet known as Dune
+- In the beginning an epigraph from **Princess Irulan** reminds an unknown reader to locate Muad'Dib on Arrakis, the planet known as Dune
 - Fifteen-year-old **Paul Atreides** pretends to sleep as his mother, the **Lady Jessica**, and an old woman whom Jessica calls "Your Reverence" look into his bedroom
 	- They are on the planet **Caladan**, inside a castle that has been in Paul's family for 26 generations
 	- The old woman says that tomorrow Paul will face her **gom jabbar**
@@ -27,3 +23,9 @@
 	- The Bene Gesserit Reverend Mothers are able to take a drug and look deep into "avenues of the past", but only feminine avenues
 	- They hope to breed the Kwisatz Haderach the one who can "be many places at once" and who can see into both feminine and masculine pasts
 	- So far every man who has taken the drug has died
+
+## Thoughts
+
+
+
+## Quotes
