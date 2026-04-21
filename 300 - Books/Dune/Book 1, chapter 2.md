@@ -13,7 +13,9 @@
 
 ## Quotes
 
+"Were the ones who tamed Arrakis ... except for the few mongrel Fremen hiding in the skirts of the desert ... and some tame smuggle"
+
 "We’re the ones
 who tamed Arrakis ... except for the few mongrel Fremen hiding in the skirts
 of the desert ... and some tame smugglers bound to the planet almost as
-tightly as the native laborpool." (p)
+tightly as the native laborpool." (p. 33)
