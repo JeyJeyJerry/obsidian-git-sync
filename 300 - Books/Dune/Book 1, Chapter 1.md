@@ -10,8 +10,8 @@
 	- The metal box begins to inflict immense pain onto Paul's hand
 	- The Reverend Mother tells Paul he will die if he takes his hand out of the box
 - Paul passes the test and The Reverend Mother tells the purpose of the test is to "sift people to find humans"
-	- Paul realises that his mother has also taken the test in the past and that 
-	- The goal of 
+	- Paul realises that his mother has also taken the test in the past and that The Reverend Mother was his mother's teacher in the Bene Gesserit School
+	- The goal of sifting humans is to breed the **Kwisatz**
 
 ## Quotes
 
