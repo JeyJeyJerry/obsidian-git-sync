@@ -22,7 +22,8 @@
 
 ### Book 1, Chapter 1
 
-- In the beginning an epigraph from Princess Irulan reminds an unknown reader to locate Muad'Dib on Arrakis
+- In the beginning an epigraph from Princess Irulan reminds an unknown reader to locate Muad'Dib on Arrakis, the planet known as Dune
+- Fifteen-year-old Paul Atreides feigns sleep 
 
 ## Quotes
 
