@@ -9,7 +9,8 @@
 	- Paul says he sees dreams about **things that will happen in the future**
 	- He tells more about the dream he had last night, that it was about a girl with blue eyes in a cavern in Arrakis
 		- The girl has appeared many times in Paul's dreams and she calls Paul **Usul**, which confuses Paul
-- The Reverend Mother tells Jessica to train Paul well
+- The Reverend Mother tells Jessica to train Paul well because he will need it
+	- The Reverend Mother leaves with a worried look
 
 ## Quotes
 
