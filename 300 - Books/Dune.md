@@ -25,7 +25,10 @@
 - In the beginning an epigraph from Princess Irulan reminds an unknown reader to locate Muad'Dib on Arrakis, the planet known as Dune
 - Fifteen-year-old Paul Atreides pretends to sleep as his mother, the Lady Jessica, and an old woman whom Jessica calls "Your Reverence" look into his bedroom
 	- They are on the planet Caladan, inside a castle that has been in Paul's family for 26 generations
-	- The old woman says that tomorrow Paul will face her 
+	- The old woman says that tomorrow Paul will face her gom jabbar
+		- Paul wonders what is a gom jabbar
+- Paul falls asleep and dreams of a cavern on the planet Arrakis
+	- He knows he will remember the dream when he wakes up, because he always 
 
 ## Quotes
 
