@@ -2,9 +2,9 @@
 
 - Jessica and The Reverend Mother are talking about Paul passing the test
 	- The Reverend Mother is scolding Jessica for having a boy although she was told to bear only girls
-	- Jessica believes in Paul nonetheless and believes he can be the Kwisatz Haderach
+	- Jessica believes in Paul nonetheless and believes he can be the Kwisatz Haderach, but feels somewhat guilty and scared about the future of House Atreides
 - Paul comes to talk to The Reverend Mother from the meditation room
-	- 
+	- The Reverend Mother asks Paul about hi
 
 ## Quotes
 
