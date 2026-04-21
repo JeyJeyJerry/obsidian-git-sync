@@ -8,8 +8,10 @@
 	- Thufir leaves and tells Paul they'll see next time on Arrakis
 - **Gurney Halleck** walks in, the new Atreides weapon master in charge of training Paul
 	- The two joke around and begin training
-	- They are using advanced shields that surround the body in a layer of ozone
-		- The shields block fast moving objects, but 
+	- They are using advanced **shields** that surround the body in a layer of ozone
+		- The shields block fast moving objects, but let slow moving objects through
+		- This encourages speed in defence and slowness in attacks
+	- 
 
 ## Quotes
 
