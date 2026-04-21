@@ -5,7 +5,7 @@
 - The Reverend Mother says that tomorrow Paul will face her **gom jabbar**
 - Paul falls asleep and dreams of a cavern on the planet **Arrakis**
 	- Paul knows he will remember the dream, because he remembers dreams "that are predictions"
-- The planet Arrakis was controlled by the **Harkonnens**, but is to be replaced by T
+- The planet Arrakis was controlled by the **Harkonnens**, but is to be replaced by **The House Atreides**
 - Paul goes to meet The Reverend Mother and faces a test
 	- He is told to put his hand in a metal box and The Reverend Mother holds a poisoned needle to his neck, the gom jabbar, the "high handed enemy"
 	- The metal box begins to inflict immense pain onto Paul's hand
