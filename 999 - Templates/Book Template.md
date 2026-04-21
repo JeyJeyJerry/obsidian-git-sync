@@ -1,3 +1,5 @@
 **Author**: 
-**Published**: {{date}}
-**Topics**: 
+**Published**:
+**Started**:
+**Finished**:
+
