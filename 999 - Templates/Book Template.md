@@ -1,4 +1,4 @@
-![[Pasted image 20260421175649.png]]
+![cover|100]()
 **Author**: 
 **Published**:
 **Started**:
