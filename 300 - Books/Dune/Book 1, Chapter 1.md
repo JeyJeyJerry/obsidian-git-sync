@@ -7,7 +7,9 @@
 	- Paul knows he will remember the dream, because he remembers dreams "that are predictions"
 - Paul goes to meet The Reverend Mother and faces a test
 	- He is told to put his hand in a metal box and The Reverend Mother holds a poisoned needle to his neck, the gom jabbar, the "high handed enemy"
-	- The Reverend Mother will kill 
+	- The metal box begins to inflict immense pain onto Paul's hand
+	- The Reverend Mother tells Paul he will die if he takes his hand out of the box
+- Paul pa
 
 ## Quotes
 
