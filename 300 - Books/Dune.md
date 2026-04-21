@@ -20,7 +20,7 @@
 
 ## Notes
 
-### Chapter 1.
+### Book 1, Chapter 1
 
 - 
 
