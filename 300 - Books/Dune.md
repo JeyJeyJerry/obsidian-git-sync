@@ -37,7 +37,8 @@
 	- The Reverend Mother says she will kill Paul if he removes his hand
 		- She says she is testing him to determine if he is human or animal
 - Paul passes the test and sees his hand is unharmed
-- The Revere
+- The Reverend Mother tells Paul that she and her Bene Gesserit sisters "sift people to find the humans"
+- Jessica enters the room and Paul realises shen went trough the same test in the past
 
 ## Quotes
 
