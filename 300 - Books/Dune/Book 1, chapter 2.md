@@ -9,7 +9,7 @@
 - The Harkonnens are planning to distracts the Atreides Mentat, **Thufir Hawat**, with an attempt to take Paul's life
 	- They will make it seem like Lady Jessica is a traitor
 		- But actually the physician **Dr. Wellington Yueh** will betray Atreides when the time is right
-- When the Harkonnens attack they will be supported by the **Sardaukar**, The Emperor's 
+- When the Harkonnens attack they will be supported by the **Sardaukar**, **The Emperor's** soldier fanatics
 
 ## Quotes
 
