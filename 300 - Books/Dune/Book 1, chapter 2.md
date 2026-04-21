@@ -6,7 +6,9 @@
 - The Harkonnens and Paul's family have a feud against eachother called **kanly**
 - The Harkonnens are being forced to hand over Arrakis to Atreides
 - The Atreides will soon move from Caladan to Arrakis
-	- The Harkonnens are planning to distracts the Atreides Mentat, **Thufir Hawat**, with an attempt to t
+- The Harkonnens are planning to distracts the Atreides Mentat, **Thufir Hawat**, with an attempt to take Paul's life
+	- They will make it seem like Lady Jessica is a traitor
+		- But actually the physici
 
 ## Quotes
 
