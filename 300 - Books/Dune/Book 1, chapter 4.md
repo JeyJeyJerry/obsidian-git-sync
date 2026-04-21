@@ -5,7 +5,8 @@
 	- Thurif tells Paul that they are moving on orders of **The Emperor**, but there is also hope
 	- He also tells of the dangers of the climate of the planet and the lack of water
 		- The Fremen use special suits called **Stillsuits** that recycle water from your bodily fluids
-	- Thufir leaves and tells Paul they'll see next time on A
+	- Thufir leaves and tells Paul they'll see next time on Arrakis
+- **Gurney Halleck**, the new 
 
 ## Quotes
 
