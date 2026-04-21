@@ -1,0 +1,13 @@
+{
+  "spellcheck": false,
+  "focusNewTab": false,
+  "showLineNumber": true,
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "attachmentFolderPath": "./Attachments",
+  "livePreview": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "100 - Index",
+  "trashOption": "none"
+}

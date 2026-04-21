@@ -13,5 +13,3 @@
 - Kotelo
 - Tehonlähde
 - Jäähdytys
-
-![[Pasted image 20250323232753.png]]

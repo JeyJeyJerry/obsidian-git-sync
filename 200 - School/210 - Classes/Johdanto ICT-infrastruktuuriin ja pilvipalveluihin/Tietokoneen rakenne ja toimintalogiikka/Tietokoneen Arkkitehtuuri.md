@@ -5,4 +5,3 @@
 # Sisältö
 - ## [[Toiminnan periaate]]
 - ## [[Eri osien toiminta]]
-- ## [[Kuinka PC käynnistyy]]

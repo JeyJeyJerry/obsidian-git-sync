@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false,
+  "baseFontSize": 18
+}

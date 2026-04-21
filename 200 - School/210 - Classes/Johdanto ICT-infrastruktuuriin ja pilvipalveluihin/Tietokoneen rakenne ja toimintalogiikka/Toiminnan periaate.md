@@ -2,8 +2,6 @@
 **Date**: 23.03.2025
 **Topics**: #computer-architecture 
 
-![[toiminperiaatemind.png]]
-
 - Samat periaatteet pätevät kaikkiin tietokoneisiin.
 - **CPU** (prosessori): ajaa ohjelmia. Tekee suurimman osan työstä ja kontrolloi muita osia.
 - **Muisti** (RAM): CPU:n työtila.

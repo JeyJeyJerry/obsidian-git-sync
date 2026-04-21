@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "1702cdc2806aa868",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfa84587c40710f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "980704d9de8118df",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38000941a01838db",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb6722e00e29dc51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a351cba6e97004d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "45979cdf0df92303",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2bce50025cfd4f61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377.5
+  },
+  "right": {
+    "id": "6d92b70d2c545d5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b2b55e1c57bd443",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c08e53243eee00d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4f251979e9ea9961",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "001 - School/0011 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Emolevy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Emolevy"
+            }
+          },
+          {
+            "id": "3a301d0b9a0c9e24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b83c5ab697b56af6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ad890279b0aef155",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "38330ca7e28b2f87",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3a301d0b9a0c9e24",
+  "lastOpenFiles": [
+    "999 - Templates/Class Template.md",
+    "999 - Templates/Daily Note Template.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Cache.md",
+    "400 - Daily Notes",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tiedon esitys tietokoneessa.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Prosessorin toiminta.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Piirisarjat.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Keskusmuisti.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Emolevy.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn kello.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn historia.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU moniydin, hyperthreading.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Eri osien toiminta.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn toiminta.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Toiminnan periaate.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/RAM-muisti.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Muistin toiminta.md",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
+    "300 - Books",
+    "100 - Index",
+    "001 - School/0011 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Attachments/Pasted image 20260421162345.png",
+    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Attachments",
+    "997 - Canvas/piirisarja.canvas",
+    "998 - Attachments/toiminperiaatemind.png",
+    "998 - Attachments/piirisarja.png",
+    "998 - Attachments/Pasted image 20250329004342.png",
+    "998 - Attachments/Pasted image 20250329003825.png",
+    "998 - Attachments/Pasted image 20250324001152.png",
+    "998 - Attachments/Pasted image 20250323232753.png",
+    "README.md"
+  ]
+}
