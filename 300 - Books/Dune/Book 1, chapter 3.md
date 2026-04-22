@@ -5,9 +5,9 @@
 	- The Reverend Mother is angry at Jessica and blames her for having a son just for the pleasure of **Duke Leto**
 		- Jessica could've had a daughter and better their chances of more power in Arrakis by wedding her daughter with a Harkonnen
 - Paul comes to talk to The Reverend Mother from the meditation room
-	- Paul says he can remember all his dreams, but chooses to remember the important ones that he just "knows are importat"
+	- Paul tells The Reverend Mother that he can remember all his dreams, but chooses to remember the important ones that he just "**knows are importat**"
 	- Paul says he sees dreams about **things that will happen in the future**
-	- He tells more about the dream he had last night, that it was about a girl with blue eyes in a cavern in Arrakis
+	- He tells more about the dream he had last night, that it was about a girl with blue eyes in a cavern in **Arrakis**
 		- The girl has appeared many times in Paul's dreams and she calls Paul **Usul**, which confuses Paul
 - The Reverend Mother tells Jessica to train Paul well because he will need it
 	- The Reverend Mother leaves with a worried look
