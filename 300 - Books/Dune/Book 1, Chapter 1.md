@@ -10,7 +10,7 @@
 	- Paul is told to place his hand in a box that starts inflicting pain. If he removes his hand The Reverend Mother will kill him with a poisoned needle, the **gom jabbar**, the "**high handed enemy**"
 - Paul passes the test and The Reverend Mother tells the purpose of the test is to "sift people to find humans"
 	- Paul realises that his mother has also taken the test in the past and that The Reverend Mother was his mother's teacher in the **Bene Gesserit** School
-		- Bene Gesserit A powerful social, religious, and political force, the Bene Gesserit are described as an exclusive sisterhood whose members train their bodies and minds through years of physical and mental conditioning to obtain superhuman powers and abilities that seem magical to outsiders.
+		- **Bene Gesserit** is a powerful social, religious, and political force and exclusive sisterhood whose members train their bodies and minds to obtain superhuman powers
 	- The goal of sifting humans is to breed the **Kwisatz Haderach**, one who can "be many places at once" and see feminine and masculine pasts
 	- The Reverend Mothers can take a drug to peek deep into "avenues of the past", but only feminine ones
 	- So far every man who has taken the drug has died
