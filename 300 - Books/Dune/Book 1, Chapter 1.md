@@ -7,9 +7,7 @@
 - The planet Arrakis was controlled by the **Harkonnens**, but is to be replaced by **The House Atreides**
 	- The current leader of House Atreides is Paul's father **Duke Leto** and Paul is his heir
 - Paul goes to meet The Reverend Mother and faces a test
-	- He is told to put his hand in a metal box and The Reverend Mother holds a poisoned needle to his neck, the gom jabbar, the "high handed enemy"
-	- The metal box begins to inflict immense pain onto Paul's hand
-	- The Reverend Mother tells Paul he will die if he takes his hand out of the box
+	- Paul is told to place his hand in a box that starts inflicting pain. If he removes his hand The Reverend Mother will kill him with a poisoned needle, the gom
 - Paul passes the test and The Reverend Mother tells the purpose of the test is to "sift people to find humans"
 	- Paul realises that his mother has also taken the test in the past and that The Reverend Mother was his mother's teacher in the **Bene Gesserit** School
 	- The goal of sifting humans is to breed the **Kwisatz Haderach**, one who can "be many places at once" and see feminine and masculine pasts
