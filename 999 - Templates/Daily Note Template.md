@@ -1,3 +1,2 @@
-**Date**: {{date}}
 **Time**: {{time}}
 
