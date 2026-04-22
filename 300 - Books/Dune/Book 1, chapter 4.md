@@ -13,6 +13,6 @@
 
 ## Quotes
 
-> *“Grave this on your memory, lad: A world is supported by four things ... the learning of the wise, the justice of the great, the prayers of the righteous and the valor of the brave. But all of these are as nothing ... without a ruler who knows the art of ruling."* (Paul (citing The Reverend Mother), p.32)
+> *“Grave this on your memory, lad: A world is supported by four things ... the learning of the wise, the justice of the great, the prayers of the righteous and the valor of the brave. But all of these are as nothing ... without a ruler who knows the art of ruling."* (Paul citing The Reverend Mother, p.32)
 
-> *“If wishes were fishes we’d all cast nets.”* (Gurney Hallep. 40) 
+> *“If wishes were fishes we’d all cast nets.”* (Gurney Halleck, p. 40) 
