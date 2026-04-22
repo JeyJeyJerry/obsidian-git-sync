@@ -8,6 +8,7 @@
 
 - Lone Rider / Rhinowalk bags
 - Puig windscreen
+- Quadlock
 
 ## Gear
-- ...
+- Cardo
