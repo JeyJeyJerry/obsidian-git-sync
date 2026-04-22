@@ -6,7 +6,7 @@
 	- He also tells that the Fremen use special suits called **Stillsuits** that recycle water from your bodily fluids to survive the weather on Arrakis
 	- Thufir leaves and tells Paul they'll see next time on Arrakis
 - **Gurney Halleck** walks in, the new Atreides weapon master in charge of training Paul
-	- They are using advanced **shields** that surround the body in a layer of ozone
+	- They are using advanced **shields** that surround the body in a layer of 
 		- The shields block fast moving objects, but let slow moving objects through
 		- This encourages speed in defence and slowness in attacks
 	- Paul seems unmotivated at first, but Gurney pushes him to train harder
