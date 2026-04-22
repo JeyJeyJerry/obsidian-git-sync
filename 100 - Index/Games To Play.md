@@ -2,7 +2,7 @@
 - Dishonored 2
 - Dishonored Death of the Outsider
 - Elden ring
-- Indie stuff
+- Misc. indie games
 - Fallout 4
 - Fallout 3
 - Fallout new vegas
