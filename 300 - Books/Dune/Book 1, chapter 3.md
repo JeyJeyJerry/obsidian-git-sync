@@ -14,4 +14,4 @@
 
 ## Quotes
 
-> *"Goodbye, young human. I hope you make it. But if you don't – well, we shall yet succeed."* (The Reverp. 29)
+> *"Goodbye, young human. I hope you make it. But if you don't – well, we shall yet succeed."* (The Reverend Mother, p. 29)
