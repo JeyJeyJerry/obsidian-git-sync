@@ -13,7 +13,7 @@
 		- **Bene Gesserit** is a powerful social, religious, and political force and exclusive sisterhood whose members train their bodies and minds to obtain superhuman powers
 	- The goal of sifting humans is to breed the **Kwisatz Haderach**, one who can "be many places at once" and see feminine and masculine pasts
 	- The Reverend Mothers can take a drug to peek deep into "avenues of the past", but only feminine ones
-	- So far every man who has taken the drug has died
+		- So far every man who has taken the drug has died
 
 ## Quotes
 
