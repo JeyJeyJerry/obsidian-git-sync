@@ -3,7 +3,7 @@
 - **Paul Atreides** pretends to be a sleep as his mother the **Lady Jessica** and **Reverend Mother Gaius Helen** look into his bedroom, on a planet called **Caladan**
 - The Reverend Mother says that tomorrow Paul will face her **gom jabbar**
 - Paul falls asleep and dreams of a cavern on the planet **Arrakis**
-	- Paul knows he will remember the dream, because he remembers dreams "that are predictions"
+	- Paul knows he will remember the dream, because he remembers dreams "**that are predictions**"
 - The planet Arrakis was controlled by the **Harkonnens**, but is to be replaced by **The House Atreides**
 	- The current leader of House Atreides is Paul's father **Duke Leto** and Paul is his heir
 - Paul goes to meet The Reverend Mother and faces a test
