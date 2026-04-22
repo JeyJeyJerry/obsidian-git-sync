@@ -1,6 +1,7 @@
-# My Obsidian Vault - By Jerry Sjövall
+# My Obsidian Vault
 
 ## Contents:
+
 - School notes
 - Personal projects
 - Daily thoughts
