@@ -21,7 +21,8 @@
 
 ## Notes
 
-#### [[Book 1, Chapter 1]]
+### Book 1
+#### [[Book 1, chapter 1]]
 #### [[Book 1, chapter 2]]
 #### [[Book 1, chapter 3]]
 #### [[Book 1, chapter 4]]

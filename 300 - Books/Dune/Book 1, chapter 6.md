@@ -8,7 +8,7 @@
 		- The Harkonnens downplayed the Fremen and are not aware of their usefulness
 	- Atreides has sent a mission headed by **Duncan Idaho** to build relations with the Fremen
 - Duke Leto also tells Paul that he might have the capabilities of becoming a **mentat**
-	- Paul is confused and unsure, bu
+	- Paul is confused and unsure, but agrees to start the training
 
 ## Quotes
 
