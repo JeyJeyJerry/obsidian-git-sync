@@ -4,7 +4,7 @@
 	- Dr. Yueh has prepared learning material for Paul about Arrakis
 	- He thinks to himself about the betrayal he is to commit and reminds himself he is doing it to save his family from the **Harkonnens**
 - Paul says he wants to learn more about the **Fremen** and the **sandworms**
-	- Dr. Yueh says arrakis has many dangers including the sandworms and the storms in the 
+	- Dr. Yueh says arrakis has many dangers including the sandworms and the storms in the **desert belt** and **south polar regions**
 
 ## Quotes
 
