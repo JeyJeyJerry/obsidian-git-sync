@@ -7,6 +7,8 @@
 	- The Harkonnens will have the support of the **Sardaukar** soldiers trained on the **Emperor's** prison planet **Salusa Secundus**, but the Atreides have a plan of working with the **Fremen** who have also been living in the harsh desert and are great fighters
 		- The Harkonnens downplayed the Fremen and are not aware of their usefulness
 	- Atreides has sent a mission headed by **Duncan Idaho** to build relations with the Fremen
+- Duke Leto also tells Paul that he might have the capabilities of becoming a **mentat**
+	- Paul is confused and unsure, bu
 
 ## Quotes
 
