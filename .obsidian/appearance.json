@@ -1,8 +1,6 @@
 {
-  "cssTheme": "Obsidian gruvbox",
   "theme": "obsidian",
-  "showViewHeader": true,
-  "showRibbon": true,
-  "nativeMenus": false,
-  "baseFontSize": 18
+  "cssTheme": "Obsidian gruvbox",
+  "baseFontSize": 18,
+  "interfaceFontFamily": "JetBrainsMono Nerd Font"
 }

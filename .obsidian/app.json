@@ -1,13 +1,11 @@
 {
-  "spellcheck": false,
   "focusNewTab": false,
-  "showLineNumber": true,
-  "showInlineTitle": true,
-  "readableLineLength": true,
-  "strictLineBreaks": false,
-  "attachmentFolderPath": "./Attachments",
   "livePreview": false,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "100 - Index",
-  "trashOption": "none"
+  "showLineNumber": true,
+  "spellcheck": false,
+  "newFileLocation": "current",
+  "newFileFolderPath": "obsidian-git-sync/100 - Index",
+  "attachmentFolderPath": "./Attachments",
+  "trashOption": "none",
+  "alwaysUpdateLinks": true
 }

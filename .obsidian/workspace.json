@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "1702cdc2806aa868",
+    "id": "ffe289655aa71866",
     "type": "split",
     "children": [
       {
-        "id": "dfa84587c40710f3",
+        "id": "4bea2e9be23171aa",
         "type": "tabs",
         "children": [
           {
-            "id": "980704d9de8118df",
+            "id": "12df92824aea29b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
+                "file": "obsidian-git-sync/300 - Books/Dune/Dune.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CPU"
+              "title": "Dune"
             }
           }
         ]
@@ -37,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "38000941a01838db",
+    "id": "ff48d56f05df2a43",
     "type": "split",
     "children": [
       {
-        "id": "eb6722e00e29dc51",
+        "id": "9a1327595405c7e9",
         "type": "tabs",
         "children": [
           {
-            "id": "8a351cba6e97004d",
+            "id": "2c395ac0a9a17361",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "45979cdf0df92303",
+            "id": "7f305f06c082908a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "2bce50025cfd4f61",
+            "id": "0f48be1a19222e69",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,23 +88,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 342.51103591918945
   },
   "right": {
-    "id": "6d92b70d2c545d5c",
+    "id": "77bcd734db37ed44",
     "type": "split",
     "children": [
       {
-        "id": "7b2b55e1c57bd443",
+        "id": "d1990c334bfe4c7f",
         "type": "tabs",
         "children": [
           {
-            "id": "c08e53243eee00d0",
+            "id": "fdf780d00fb8b9e1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
+                "file": "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CPU"
+              "title": "Backlinks for Book 1, chapter 4"
             }
           },
           {
-            "id": "4f251979e9ea9961",
+            "id": "8332d5c430364159",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 - School/0011 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Emolevy.md",
+                "file": "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Emolevy"
+              "title": "Outgoing links from Book 1, chapter 4"
             }
           },
           {
-            "id": "3a301d0b9a0c9e24",
+            "id": "ba96c66790d183cb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "b83c5ab697b56af6",
+            "id": "4779f0b936a5c0fb",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -161,32 +161,7 @@
             }
           },
           {
-            "id": "ad890279b0aef155",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of CPU"
-            }
-          },
-          {
-            "id": "38330ca7e28b2f87",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "30ada15325df0c51",
+            "id": "c8f41adb0a47b5d8",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -194,19 +169,43 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "f0deb78248cad70f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian-git-sync/300 - Books/Dune/Dune.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dune"
+            }
+          },
+          {
+            "id": "ba756d142cc6b1e6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 394.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -214,40 +213,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "980704d9de8118df",
+  "active": "2c395ac0a9a17361",
   "lastOpenFiles": [
-    "100 - Index/testi.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn kello.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Toiminnan periaate.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tiedon esitys tietokoneessa.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/RAM-muisti.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Prosessorin toiminta.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Piirisarjat.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Muistin toiminta.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Keskusmuisti.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Eri osien toiminta.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Emolevy.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn historia.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU moniydin, hyperthreading.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Cache.md",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn toiminta.md",
-    "999 - Templates/Class Template.md",
-    "999 - Templates/Daily Note Template.md",
-    "400 - Daily Notes",
-    "300 - Books",
+    "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 6.md",
+    "obsidian-git-sync/300 - Books/Dune/Dune.md",
+    "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 1.md",
+    "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 5.md",
+    "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 4.md",
+    "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 2.md",
+    "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 3.md",
+    "obsidian-git-sync/999 - Templates/Book Template.md",
+    "obsidian-git-sync/100 - Index/Untitled.md",
+    "obsidian-git-sync/999 - Templates/Class Template.md",
+    "obsidian-git-sync/999 - Templates/Chapter Template.md",
+    "obsidian-git-sync/999 - Templates/Daily Note Template.md",
+    "obsidian-git-sync/README.md",
+    "obsidian-git-sync/400 - Daily Notes/2026.04.22.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Cache.md",
+    "obsidian-git-sync/100 - Index/Games To Play.md",
+    "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
+    "obsidian-git-sync/100 - Index/Dishonored Achievements.md",
+    "obsidian-git-sync/300 - Books/Dune",
+    "obsidian-git-sync/300 - Books/Attachments/Pasted image 20260421180301.png",
+    "obsidian-git-sync/300 - Books/Attachments/Pasted image 20260421175919.png",
+    "obsidian-git-sync/300 - Books/Attachments",
+    "obsidian-git-sync/999 - Templates/Attachments/Pasted image 20260421175649.png",
+    "obsidian-git-sync/999 - Templates/Attachments",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU moniydin, hyperthreading.md",
+    "obsidian-git-sync/400 - Daily Notes",
+    "Untitled",
+    "obsidian-git-sync/300 - Books",
+    "obsidian-git-sync/100 - Index",
     "100 - Index",
-    "001 - School/0011 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Attachments/Pasted image 20260421162345.png",
-    "200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Attachments",
-    "997 - Canvas/piirisarja.canvas",
-    "998 - Attachments/toiminperiaatemind.png",
-    "998 - Attachments/piirisarja.png",
-    "998 - Attachments/Pasted image 20250329004342.png",
-    "998 - Attachments/Pasted image 20250329003825.png",
-    "998 - Attachments/Pasted image 20250324001152.png",
-    "998 - Attachments/Pasted image 20250323232753.png",
-    "README.md"
+    "obsidian-git-sync/999 - Templates",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Toiminnan periaate.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tiedon esitys tietokoneessa.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/RAM-muisti.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Prosessorin toiminta.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Piirisarjat.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka"
   ]
 }
