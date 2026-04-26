@@ -1,6 +1,7 @@
 ## Notes
 
-- Duke Leto comes into Paul's 
+- **Duke Leto** comes into Paul's room followed by his guards
+	- 
 
 ## Quotes
 
