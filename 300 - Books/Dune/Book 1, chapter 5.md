@@ -11,4 +11,4 @@
 
 ## Quotes
 
-*"I salve my own conscience. I give him the surcease of religion before betraying him. Thus may I say to myself that he has gone where I cannot go."*
+> *"I salve my own conscience. I give him the surcease of religion before betraying him. Thus may I say to myself that he has gone where I cannot go."* (Dr. Yueh, p.43)
