@@ -2,7 +2,8 @@
 
 - **Duke Leto** comes into Paul's room followed by his guards
 - Paul asks him questions about arrakis, if it's going to be as bad as The Reverend mother warned
-	- Duke Leto says they have a plan to get their way into the Combine Honnete Ober Advance 
+	- Duke Leto says they have a plan to get their way into the **Combine Honnete Ober Advancer Mercantiles (CHOAM company)**
+- Duke Leto says they are awar
 
 ## Quotes
 
