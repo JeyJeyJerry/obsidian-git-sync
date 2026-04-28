@@ -1,4 +1,4 @@
-![cover|100](!)
+![cover|100](![[Pasted image 20260428132109.png]])
 **Author**: Frank Patrick Herbert
 **Published**: 1965
 **Started**: 20.4.2026
