@@ -160,7 +160,7 @@ $ cat roles/sudoless/tasks/main.yml
 $ ansible-playbook site.yml -K
 ```
 
-
+![[h2_1.png]]
 ![[h2_2.png]]
 
 ### c)
@@ -179,11 +179,11 @@ $ ansible-playbook site.yml -K
 - Optio "state latest" varmistaa, että paketeista asennetaan uusin versio ja optio "update_cache: yes" ajaa "apt-get update" ennen pakettien asentamista
 - Ajetaan "ansible-playbook" ja varmistetaan, että muutokset meni läpi
 
-![Alt text](images/h2_kuvat/h2_3.png)
+![[h2_3.png]]
 
 - Tarkistetaan käyttäjällä bob, että paketit ovat asennettu
 
-![Alt text](images/h2_kuvat/h2_4.png)
+![[Pasted image 20260428161427.png]]
 
 ### d)
 
