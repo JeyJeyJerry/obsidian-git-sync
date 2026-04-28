@@ -43,7 +43,7 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
-        "dimension": 71.54088050314465,
+        "dimension": 71.54088050314466,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -90,7 +90,7 @@
       {
         "id": "bc7d006aef533af8",
         "type": "tabs",
-        "dimension": 28.459119496855344,
+        "dimension": 28.459119496855347,
         "children": [
           {
             "id": "2b9b56f7f2868983",
@@ -115,7 +115,7 @@
       {
         "id": "d1990c334bfe4c7f",
         "type": "tabs",
-        "dimension": 72.14611872146118,
+        "dimension": 72.14611872146119,
         "children": [
           {
             "id": "fdf780d00fb8b9e1",
@@ -207,7 +207,7 @@
       {
         "id": "a69f76ee703f1850",
         "type": "tabs",
-        "dimension": 27.85388127853881,
+        "dimension": 27.853881278538815,
         "children": [
           {
             "id": "ba756d142cc6b1e6",
@@ -232,7 +232,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
