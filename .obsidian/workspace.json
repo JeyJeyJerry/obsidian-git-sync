@@ -11,10 +11,24 @@
             "id": "8c29d6f6e3b3f0f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "H4 - Pizza Fantasia"
             }
           }
         ]
@@ -109,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for H4 - Pizza Fantasia"
             }
           },
           {
@@ -127,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from H4 - Pizza Fantasia"
             }
           },
           {
@@ -179,16 +195,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of H4 - Pizza Fantasia"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "a69f76ee703f1850",
@@ -209,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c29d6f6e3b3f0f4",
+  "active": "f0deb78248cad70f",
   "lastOpenFiles": [
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Untitled.base",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
