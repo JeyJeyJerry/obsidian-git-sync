@@ -142,12 +142,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from H2 - Voileipä"
+              "title": "Outgoing links"
             }
           },
           {
@@ -157,7 +156,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -195,17 +194,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of H2 - Voileipä"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "a69f76ee703f1850",
@@ -239,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8f41adb0a47b5d8",
+  "active": "ba96c66790d183cb",
   "lastOpenFiles": [
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
