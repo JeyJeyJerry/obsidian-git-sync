@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/300 - Books/Dune/Dune.md",
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn toiminta.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dune"
+              "title": "CPUn toiminta"
             }
           }
         ]
@@ -215,8 +215,14 @@
   },
   "active": "12df92824aea29b9",
   "lastOpenFiles": [
-    "obsidian-git-sync/300 - Books/Dune/Attachments/dune_cover.png",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn kello.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn historia.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU moniydin, hyperthreading.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Cache.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
+    "obsidian-git-sync/300 - Books/Dune/Attachments/dune_cover.png",
     "obsidian-git-sync/300 - Books/Dune/Attachments/dune_cover.png.png",
     "obsidian-git-sync/999 - Templates/Book Template.md",
     "obsidian-git-sync/300 - Books/Dune/Attachments",
@@ -233,9 +239,7 @@
     "obsidian-git-sync/999 - Templates/Daily Note Template.md",
     "obsidian-git-sync/README.md",
     "obsidian-git-sync/400 - Daily Notes/2026.04.22.md",
-    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Cache.md",
     "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
-    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/100 - Index/Dishonored Achievements.md",
     "obsidian-git-sync/300 - Books/Dune",
     "obsidian-git-sync/300 - Books/Attachments/Pasted image 20260421180301.png",
@@ -243,7 +247,6 @@
     "obsidian-git-sync/300 - Books/Attachments",
     "obsidian-git-sync/999 - Templates/Attachments/Pasted image 20260421175649.png",
     "obsidian-git-sync/999 - Templates/Attachments",
-    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU moniydin, hyperthreading.md",
     "obsidian-git-sync/400 - Daily Notes",
     "Untitled",
     "obsidian-git-sync/300 - Books",
@@ -252,8 +255,6 @@
     "obsidian-git-sync/999 - Templates",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Toiminnan periaate.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
-    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tiedon esitys tietokoneessa.md",
-    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/RAM-muisti.md",
-    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Prosessorin toiminta.md"
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tiedon esitys tietokoneessa.md"
   ]
 }
