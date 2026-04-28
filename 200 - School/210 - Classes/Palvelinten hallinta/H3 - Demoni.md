@@ -157,7 +157,7 @@ $ sudo nano /etc/nginx/sites-available/default
 - **default** tiedoston sisällä muokataan riviä **root /var/www/html;** ja muutetaan se **root /home/jerry/public_site;**
 - Käynnistetään nginx-demoni uudelleen ja varmistetaan, että nginx tunnistaa uuden sivuston juuren tarkistamalla selaimessa **http://localhost**
 
-![[h3_4.png]]
+![[h3_2.png]]
 
 - Muokataan sivustoa toisella käyttäjällä ilman sudoa
   - Hakemistojen oikeudet on jo muokattu edellisessä tehtävässä, joten voimme heti kokeilla toisella käyttäjällä muokkaamista
@@ -170,7 +170,7 @@ $ nano /home/jerry/public_site/index.html
 
 - Varmistetaan, että muutokset tulivat näkyviin **http://localhost**
 
-![Alt text](images/h3_kuvat/h3_8.png)
+![[h3_3.png]]
 
 ### c)
 
@@ -205,7 +205,7 @@ $ cat /roles/nginx/main.yml
 $ ansible-playbook site.yml -K
 ```
 
-![Alt text](images/h3_kuvat/h3_6.png)
+![[h3_5.png]]
 
 ## Lähteet
 - Tero Karvinen Apache installed with Ansible - quick notes. Luettavissa: https://terokarvinen.com/apache-ansible/ Luettu 14.4.2026
