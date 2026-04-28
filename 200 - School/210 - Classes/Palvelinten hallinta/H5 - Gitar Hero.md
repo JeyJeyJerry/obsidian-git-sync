@@ -31,19 +31,19 @@
 
 - Luodaan Githubiin varasto nimeltä **sunshine-h5**, lisätään **README.md** tiedosto ja valitaan varaston lisenssiksi **GNU General Public License 3**
 
-![Alt text](images/h5_kuvat/h5_1.png)
-![Alt text](images/h5_kuvat/h5_2.png)
+![[h5_1.png]]
+![[h5_2.png]]
 
 ### b)
 
 - Kloonataan varasto **sunshine-h5** virtuaalikoneelle komennolla `git clone` ja varaston SSH URL-osoitteella
 
-![Alt text](images/h5_kuvat/h5_3.png)
+![[h5_3.png]]
 
 - Muokataan tiedostoa **README.md** ja pusketaan ne palvelimelle
 
-![Alt text](images/h5_kuvat/h5_4.png)
-![Alt text](images/h5_kuvat/h5_5.png)
+![[h5_4.png]]
+![[h5_5.png]]
 
 - Tarkistetaan, että muutokset tulivat näkyviin weppiliittymään
 
