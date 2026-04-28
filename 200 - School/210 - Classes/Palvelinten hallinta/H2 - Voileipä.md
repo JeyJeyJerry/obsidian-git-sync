@@ -160,8 +160,8 @@ $ cat roles/sudoless/tasks/main.yml
 $ ansible-playbook site.yml -K
 ```
 
-![Alt text](images/h2_kuvat/h2_1.png)
-![Alt text](images/h2_kuvat/h2_2.png)
+
+![[h2_2.png]]
 
 ### c)
 
