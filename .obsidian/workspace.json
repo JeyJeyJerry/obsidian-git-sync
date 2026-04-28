@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
-                "mode": "preview",
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H5 - Gitar Hero.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "H3 - Demoni"
+              "title": "H5 - Gitar Hero"
             }
           }
         ]
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H5 - Gitar Hero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for H3 - Demoni"
+              "title": "Backlinks for H5 - Gitar Hero"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H5 - Gitar Hero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from H3 - Demoni"
+              "title": "Outgoing links from H5 - Gitar Hero"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H5 - Gitar Hero.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of H3 - Demoni"
+              "title": "Outline of H5 - Gitar Hero"
             }
           }
         ],
@@ -241,12 +241,13 @@
   },
   "active": "265d40df30d022ac",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/100 - Index/Attachments/gruvbox_colors.png",
     "obsidian-git-sync/100 - Index/Attachments",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/999 - Templates/Class Template.md",
     "obsidian-git-sync/999 - Templates/Daily Note Template.md",
     "obsidian-git-sync/999 - Templates/Chapter Template.md",
@@ -271,7 +272,6 @@
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H5 - Gitar Hero.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5/h5_13.png",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5/h5_12.png",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
     "images/h5_kuvat/h5_1.png.md",
     "images/h5_kuvat",
     "images",
