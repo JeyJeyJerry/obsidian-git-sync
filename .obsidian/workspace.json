@@ -11,24 +11,10 @@
             "id": "12df92824aea29b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Eri osien toiminta.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Eri osien toiminta"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -215,12 +201,13 @@
   },
   "active": "12df92824aea29b9",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Keskusmuisti.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Eri osien toiminta.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Muistin toiminta.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Prosessorin toiminta.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/RAM-muisti.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn kello.md",
-    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Eri osien toiminta.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h3_4.png",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h3_3.png",
@@ -245,7 +232,6 @@
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tiedon esitys tietokoneessa.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Piirisarjat.md",
-    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Keskusmuisti.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Emolevy.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn toiminta.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn historia.md",
