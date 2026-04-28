@@ -70,7 +70,7 @@ $ sudo systemctl start apache2
 
 - Tarkistetaan, että apache2 toimii avaamalla selaimessa **http://localhost**. Näkyviin piätisi tulla apache2 oletussivu
 
-![Alt text](images/h3_kuvat/h3_4.png)
+![[h3_1.png]]
 
 - Kun apache2 todetaan toimivaksi, niin poistetaan apache2:n konfiguraatiotiedostoista **/etc/apache2/sites-available/000-default.conf** ja lisätään tilalle oma **sivusto.com.conf** ja linkitetään se hakemistoon **/etc/apache2/sites-enabled/**
 
@@ -103,7 +103,7 @@ $ cat /etc/apache2/sites-available/sivusto.com.conf
 $ sudo systemctl restart apache2
 ```
 
-![Alt text](images/h3_kuvat/h3_7.png)
+![[h3_2.png]]
 
 - Hakemistossa **/home/jerry/public_site** sijaitsee myös nettisivun index.html, jonka sisällä on sivun HTML-koodi
 - Seuraavaksi muutetaan kotihakemiston, public_site-hakemiston sekä index.html:n oikeuksia, niin että muut käyttäjät voivat muokata niitä ilman sudo-oikeuksia
