@@ -1,4 +1,5 @@
-# H5 - Gitar Hero
+**Class**: [[Palvelinten hallinta]]
+**Date**: 28.4.2026
 
 ## Tiivistelmät
 

@@ -1,5 +1,5 @@
 **Class**: [[Palvelinten hallinta]]
-**Date**: 7.4.2026
+**Date**: 14.4.2026
 
 ## Tiivistelmät
 

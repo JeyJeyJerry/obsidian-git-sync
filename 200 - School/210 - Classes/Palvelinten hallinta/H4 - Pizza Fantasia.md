@@ -1,3 +1,6 @@
+**Class**: [[Palvelinten hallinta]]
+**Date**: 21.4.2026
+
 ## Tiivistelmät
 
 ### Size and Complexity of Some DSLs
