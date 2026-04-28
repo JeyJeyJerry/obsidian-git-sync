@@ -7,5 +7,7 @@
   "newFileFolderPath": "obsidian-git-sync/100 - Index",
   "attachmentFolderPath": "./Attachments",
   "trashOption": "none",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false
 }
