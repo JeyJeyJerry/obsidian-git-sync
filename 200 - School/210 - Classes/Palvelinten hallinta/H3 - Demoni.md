@@ -144,7 +144,7 @@ $ sudo systemctl start nginx
 
 - Varmistetaan, että nginx toimii avaamalla selaimella **http://localhost**
 
-![[h3_3.png]]
+![[h3_4.png]]
 
 - Nginx konfiguraatio tiedostot ovat lähes identtiset apache2 tiedostoihin
 - Muokataan tiedostoa **/etc/nginx/sites-available/default** siirtämään sivuston juuren kotihakemistoon
