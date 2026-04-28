@@ -47,7 +47,7 @@ $ sudo apt install samba smbclient
 $ sudo systemctl start smbd
 ```
 
-![Alt text](images/h4_kuvat/h4_2.png)
+![[h4_1.png]]
 
 ### b)
 
@@ -85,7 +85,7 @@ $ sudo apt purge samba smbclient
 $ ansible-playbook site.yml -K
 ```
 
-![Alt text](images/h4_kuvat/h4_1.png)
+
 
 - Asennus toimi ja Samba-demoni meni päälle
 
