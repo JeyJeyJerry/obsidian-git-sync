@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 16432431
       }
+    },
+    {
+      "query": "path:\"obsidian-git-sync/400 - Daily Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
