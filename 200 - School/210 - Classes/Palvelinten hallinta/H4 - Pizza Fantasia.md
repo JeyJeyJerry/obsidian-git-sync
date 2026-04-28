@@ -85,7 +85,7 @@ $ sudo apt purge samba smbclient
 $ ansible-playbook site.yml -K
 ```
 
-
+![[h4_2.png]]
 
 - Asennus toimi ja Samba-demoni meni päälle
 
@@ -151,9 +151,9 @@ become: true
 - Nyt samba-rooli varmistaa että molemmat tarvittavat paketit asentuvat, /etc/samba hakemisto on olemassa ja lisää muokatun smb.conf tiedoston oikeaan paikkaan
 - Ajetaan ansible-playbook ja tarkistetaan tilanne
 
-![Alt text](images/h4_kuvat/h4_3.png)
-![Alt text](images/h4_kuvat/h4_7.png)
-![Alt text](images/h4_kuvat/h4_2.png)
+![[h4_3.png]]
+![[h4_4.png]]
+![[h4_5.png]]
 
 - Paketit asentuivat, muokkaus tuli näkyviin oikeaan paikkaan ja samba uudelleenkäynnistyi
 
@@ -166,7 +166,7 @@ $ sudo apt purge samba smbclient
 $ sudo rm -r /etc/samba
 ```
 
-![Alt text](images/h4_kuvat/h4_4.png)
+![[Pasted image 20260428163715.png]]
 ![Alt text](images/h4_kuvat/h4_5.png)
 
 - Ajetaan ansible-playbook ja varmistetaan, että tilanne korjaantuu
