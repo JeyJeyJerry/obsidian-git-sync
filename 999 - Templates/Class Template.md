@@ -1,6 +1,5 @@
 **Class**: 
 **Date**: {{date}}
-**Topics**: 
 
 
 

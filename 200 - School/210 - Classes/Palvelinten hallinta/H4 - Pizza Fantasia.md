@@ -77,7 +77,7 @@ roles/samba/
 
 - Ensin poistetaan Samba-paketit ja ajetaan ansible-playbook tarkistaakseen toimiiko asennus
 
- ```bash
+```bash
 $ sudo apt purge samba smbclient
 $ ansible-playbook site.yml -K
 ```
