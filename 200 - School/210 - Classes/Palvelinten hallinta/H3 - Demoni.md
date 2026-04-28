@@ -1,4 +1,5 @@
-# H3 - Demoni
+**Class**: [[Palvelinten hallinta]]
+**Date**: 7.4.2026
 
 ## Tiivistelmät
 
