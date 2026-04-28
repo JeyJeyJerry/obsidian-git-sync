@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/100 - Index/Untitled.md",
+                "file": "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Gruvbox color palette"
             }
           }
         ]
@@ -215,7 +215,9 @@
   },
   "active": "2b9b56f7f2868983",
   "lastOpenFiles": [
-    "obsidian-git-sync/100 - Index/Untitled.md",
+    "obsidian-git-sync/100 - Index/Attachments/gruvbox_colors.png",
+    "obsidian-git-sync/100 - Index/Attachments",
+    "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/999 - Templates/Class Template.md",
     "obsidian-git-sync/999 - Templates/Daily Note Template.md",
@@ -258,8 +260,6 @@
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Toiminnan periaate.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
-    "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tiedon esitys tietokoneessa.md",
-    "obsidian-git-sync/300 - Books/Dune/Attachments",
-    "obsidian-git-sync/300 - Books/Dune"
+    "obsidian-git-sync/300 - Books/Dune/Attachments"
   ]
 }

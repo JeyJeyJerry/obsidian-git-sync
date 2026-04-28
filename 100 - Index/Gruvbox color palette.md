@@ -1,0 +1,1 @@
+![[gruvbox_colors.png]]
