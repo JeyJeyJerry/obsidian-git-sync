@@ -11,10 +11,24 @@
             "id": "213c629c0630854d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "H3 - Demoni"
             }
           }
         ]
@@ -202,9 +216,9 @@
   "active": "213c629c0630854d",
   "lastOpenFiles": [
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Cache.md",
     "obsidian-git-sync/400 - Daily Notes/2026.04.22.md",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
     "images/h5_kuvat/h5_1.png.md",
     "images/h5_kuvat",
     "images",
