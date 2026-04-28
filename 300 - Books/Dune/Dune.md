@@ -4,6 +4,7 @@
 **Started**: 20.4.2026
 **Finished**:
 **Rating**:
+**Tag**: #book
 
 ## Summary
 
