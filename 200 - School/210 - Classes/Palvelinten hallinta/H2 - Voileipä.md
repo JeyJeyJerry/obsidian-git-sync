@@ -12,7 +12,7 @@
 
 ### xkcd 149: Sandwich
 
-![Alt text](images/h2_kuvat/sandwich.png)
+![[sandwich.png]]
 
 - Sarjakuva kertoo, että sudo komento on kuin taikasana, jolla saa järjestelmän tekemään, mitä haluaa
 
