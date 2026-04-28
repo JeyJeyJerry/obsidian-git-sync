@@ -11,12 +11,24 @@
             "id": "2b9b56f7f2868983",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h2/h2_1.png"
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "h2_1"
+              "icon": "lucide-file",
+              "title": "H2 - Voileipä"
             }
           }
         ]
@@ -201,22 +213,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c395ac0a9a17361",
+  "active": "2b9b56f7f2868983",
   "lastOpenFiles": [
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/Untitled",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5_11.png",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h2",
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5/h5_1.png",
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h4/h4_1.png",
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5",
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h3/h3_1.png",
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h4",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h2/h2_1.png",
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h3",
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5/h5_11.png",
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h2",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h2/h2_3.png",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h2/h2_2.png",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Palvelinten hallinta.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H5 - Gitar Hero.md",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5_13.png",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5_12.png",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5_10.png",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5_9.png",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5_8.png",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5_7.png",
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5/h5_13.png",
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5/h5_12.png",
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5/h5_10.png",
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5/h5_9.png",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
@@ -245,9 +260,6 @@
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn toiminta.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn historia.md",
     "obsidian-git-sync/300 - Books/Dune/Attachments",
-    "obsidian-git-sync/300 - Books/Dune",
-    "obsidian-git-sync/300 - Books/Attachments",
-    "obsidian-git-sync/999 - Templates/Attachments",
-    "obsidian-git-sync/400 - Daily Notes"
+    "obsidian-git-sync/300 - Books/Dune"
   ]
 }
