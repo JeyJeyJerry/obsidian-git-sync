@@ -25,7 +25,14 @@
       "query": "path:\"obsidian-git-sync/400 - Daily Notes\"  ",
       "color": {
         "a": 1,
-        "rgb": 8627608
+        "rgb": 6856042
+      }
+    },
+    {
+      "query": "[\"tags\":",
+      "color": {
+        "a": 1,
+        "rgb": 13378589
       }
     }
   ],

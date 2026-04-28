@@ -41,8 +41,7 @@
               "title": "Gruvbox color palette"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gruvbox color palette"
+              "title": "Backlinks"
             }
           },
           {
@@ -153,12 +151,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gruvbox color palette"
+              "title": "Outgoing links"
             }
           },
           {
@@ -206,13 +203,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gruvbox color palette"
+              "title": "Outline"
             }
           }
         ],
@@ -250,7 +246,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52bd14fbe96a2533",
+  "active": "8c29d6f6e3b3f0f4",
   "lastOpenFiles": [
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
