@@ -18,7 +18,7 @@
       "query": "tag:#course  ",
       "color": {
         "a": 1,
-        "rgb": 16432431
+        "rgb": 14129441
       }
     },
     {
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1571292631028655,
-  "close": true
+  "scale": 0.6906395020147815,
+  "close": false
 }
