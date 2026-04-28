@@ -1,7 +1,7 @@
 {
-  "imageNamePattern": "{{fileName}}",
+  "imageNamePattern": "{{imageNameKey}}",
   "dupNumberAtStart": false,
-  "dupNumberDelimiter": "-",
+  "dupNumberDelimiter": "_",
   "dupNumberAlways": false,
   "autoRename": false,
   "handleAllAttachments": false,
