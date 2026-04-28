@@ -78,7 +78,7 @@
 
 - Tehdään kansiosta `~/ansible/roles` git-varasto komennolla `git init`
 
-![Alt text](images/h5_kuvat/h5_10.png)
+![[h5_10.png]]
 
 - Tehdään ensimmäinen commit **(Initial commit)** heti varaston luomisen jälkeen, koska varasto ei toimi jos se on tyhjä
 
@@ -89,15 +89,15 @@ $ git commit
 
 - Tiedosto `hello/tasks/main.yml` tekee tiedoston hakemistoon `/tmp/hei_ansible`, jossa lukee "Hei Maailma". Muokataan se sanomaan "Hei Git"
 
-![Alt text](images/h5_kuvat/h5_11.png)
+![[h5_11.png]]
 
 - Ajetaan ensin komento `ansible-playbook site.yml -K` ja varmistetaan, että muutokset menevät läpi
 
-![Alt text](images/h5_kuvat/h5_12.png)
+![[h5_12.png]]
 
 - Kun muutokset ovat menneet läpi, tehdään niistä myös commit
 
-![Alt text](images/h5_kuvat/h5_13.png)
+![[Pasted image 20260428164122.png]]
 
 ### f)
 
