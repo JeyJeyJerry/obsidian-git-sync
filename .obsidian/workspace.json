@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H5 - Gitar Hero.md",
-                "mode": "source",
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "H5 - Gitar Hero"
+              "title": "H4 - Pizza Fantasia"
             }
           }
         ]
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H5 - Gitar Hero.md",
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for H5 - Gitar Hero"
+              "title": "Backlinks for H4 - Pizza Fantasia"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H5 - Gitar Hero.md",
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from H5 - Gitar Hero"
+              "title": "Outgoing links from H4 - Pizza Fantasia"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H5 - Gitar Hero.md",
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of H5 - Gitar Hero"
+              "title": "Outline of H4 - Pizza Fantasia"
             }
           }
         ],
@@ -241,6 +241,7 @@
   },
   "active": "265d40df30d022ac",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H5 - Gitar Hero.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
@@ -269,7 +270,6 @@
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h2",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h2/h2_3.png",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h2/h2_2.png",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H5 - Gitar Hero.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5/h5_13.png",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5/h5_12.png",
     "images/h5_kuvat/h5_1.png.md",
