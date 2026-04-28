@@ -47,17 +47,17 @@
 
 - Tarkistetaan, että muutokset tulivat näkyviin weppiliittymään
 
-![Alt text](images/h5_kuvat/h5_6.png)
+![[h5_6.png]]
 
 ### c)
 
 - Luodaan virtuaalikoneella varastoon **tyhmä-tiedosto** ja lisätään sen sisälle hieman tekstiä
 
-![Alt text](images/h5_kuvat/h5_7.png)
+![[h5_7.png]]
 
 - Lisätään muutokset komennolla `git add --all`, mutta ei tehdä commit:tia vaan tuhotaan tyhmä muutos komennolla `git reset --hard`
 
-![Alt text](images/h5_kuvat/h5_8.png)
+![[h5_8.png]]
 
 - Ajamalla komennon `git status` näämme, että muutokset ovat poistuneet ja varaston tila on siirtynyt siihen, missä se oli edellisen commitin jälkeen
 
@@ -66,7 +66,7 @@
 - Tarkastellaan varaston **lokia** komennolla `git log -p`
   - `-p` on lyhenne optiosta `--patch`
 
-![Alt text](images/h5_kuvat/h5_9.png)
+![[h5_9.png]]
 
 - Lokissa näkyy ensin alkuperäinen committi **(Initial commit)**, jossa luotiin **README.md** tiedosto ja lisättiin lisenssi
 - Seuraavana lokissa näkyy muokkaus **README.md** tiedostoon
