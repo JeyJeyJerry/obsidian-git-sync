@@ -123,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for H3 - Demoni"
+              "title": "Backlinks"
             }
           },
           {
@@ -142,12 +141,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from H3 - Demoni"
+              "title": "Outgoing links"
             }
           },
           {
@@ -195,13 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of H3 - Demoni"
+              "title": "Outline"
             }
           }
         ],
@@ -239,14 +236,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3c1c422dfdfa029",
+  "active": "2b9b56f7f2868983",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/Pasted image 20260429023323.png",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Untitled.base",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H5 - Gitar Hero.md",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
     "obsidian-git-sync/100 - Index/Attachments/gruvbox_colors.png",
