@@ -11,10 +11,24 @@
             "id": "2b9b56f7f2868983",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/999 - Templates/Chapter Template.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter Template"
             }
           }
         ]
@@ -201,11 +215,11 @@
   },
   "active": "2b9b56f7f2868983",
   "lastOpenFiles": [
+    "obsidian-git-sync/999 - Templates/Book Template.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Palvelinten hallinta.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/400 - Daily Notes/2026.04.22.md",
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
-    "obsidian-git-sync/999 - Templates/Book Template.md",
     "obsidian-git-sync/999 - Templates/Chapter Template.md",
     "obsidian-git-sync/999 - Templates/Daily Note Template.md",
     "obsidian-git-sync/999 - Templates/Class Template.md",

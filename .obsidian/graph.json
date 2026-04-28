@@ -25,7 +25,7 @@
       "query": "path:\"obsidian-git-sync/400 - Daily Notes\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 8627608
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000007,
-  "close": false
+  "scale": 1.0000000000000009,
+  "close": true
 }
