@@ -183,7 +183,7 @@ $ ansible-playbook site.yml -K
 
 - Tarkistetaan käyttäjällä bob, että paketit ovat asennettu
 
-![[Pasted image 20260428161427.png]]
+![[h2_4.png]]
 
 ### d)
 
@@ -202,7 +202,7 @@ $ ansible-playbook site.yml -K
   - Tämä tarkoittaa, että tiedoston omistajalla on oikeus lukea ja muokata tiedostoa ja ryhmällä sudoless ja muilla käyttäjillä on vain oikeus lukea
 - Ajetaan "ansible-playbook" ja tarkistetaan käyttäjän bob /tmp hakemistosta onko tiedosto luotu oikein
 
-![Alt text](images/h2_kuvat/h2_5.png)
+![[h2_5.png]]
 
 ### e)
 
@@ -218,7 +218,7 @@ $ ansible-playbook site.yml -K
     dest: /tmp/ansible_uptime
 ```
 
-![Alt text](images/h2_kuvat/h2_6.png)
+![[h2_6.png]]
 
 ## Lähteet
 - Tero Karvinen Sudo without password. Luettavissa: https://terokarvinen.com/passwordless-sudo/ Luettu 7.4.2026
