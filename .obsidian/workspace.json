@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 4.md",
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Book 1, chapter 4"
+              "title": "Backlinks for H2 - Voileipä"
             }
           },
           {
@@ -142,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from H2 - Voileipä"
             }
           },
           {
@@ -156,7 +157,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -194,16 +195,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of H2 - Voileipä"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "a69f76ee703f1850",
@@ -237,8 +239,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba96c66790d183cb",
+  "active": "c8f41adb0a47b5d8",
   "lastOpenFiles": [
+    "obsidian-git-sync/300 - Books/Dune/Dune.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/100 - Index/Attachments/gruvbox_colors.png",
@@ -251,7 +254,6 @@
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Palvelinten hallinta.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/400 - Daily Notes/2026.04.22.md",
-    "obsidian-git-sync/300 - Books/Dune/Dune.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Cache.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU moniydin, hyperthreading.md",
