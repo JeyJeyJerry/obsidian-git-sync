@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c105d539137e9246",
+        "id": "b5901e74b96e8dfd",
         "type": "tabs",
         "children": [
           {
-            "id": "8c29d6f6e3b3f0f4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "52bd14fbe96a2533",
+            "id": "c3c1c422dfdfa029",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -38,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gruvbox color palette"
+              "title": "H3 - Demoni"
             }
           }
         ]
@@ -133,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for H3 - Demoni"
             }
           },
           {
@@ -151,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from H3 - Demoni"
             }
           },
           {
@@ -203,12 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of H3 - Demoni"
             }
           }
         ],
@@ -246,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c29d6f6e3b3f0f4",
+  "active": "c3c1c422dfdfa029",
   "lastOpenFiles": [
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
