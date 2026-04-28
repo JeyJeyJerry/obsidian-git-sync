@@ -7,5 +7,6 @@
 - Fallout 3
 - Fallout new vegas
 - Far cry / Elder scrolls / Bioshock (series)
+- Persona 5
 - Death stranding 2
 - Control resonant (TBR)
