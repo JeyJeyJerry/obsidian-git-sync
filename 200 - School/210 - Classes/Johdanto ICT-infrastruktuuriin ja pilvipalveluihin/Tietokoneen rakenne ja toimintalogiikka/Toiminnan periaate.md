@@ -1,6 +1,5 @@
 **Class**: [[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]
 **Date**: 23.03.2025
-**Topics**: #computer-architecture 
 
 - Samat periaatteet pätevät kaikkiin tietokoneisiin.
 - **CPU** (prosessori): ajaa ohjelmia. Tekee suurimman osan työstä ja kontrolloi muita osia.

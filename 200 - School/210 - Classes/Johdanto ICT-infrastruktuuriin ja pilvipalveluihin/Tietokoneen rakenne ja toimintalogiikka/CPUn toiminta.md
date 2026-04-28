@@ -1,6 +1,5 @@
 **Class**: [[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]
 **Date**: 23.03.2025
-**Topics**: #computer-architecture 
 
 - CPU voi olla 8, 16, 32 tai 64 bittinen.
 	- Muut koot ovat harvinaisia. Ensimmäinen prosessori oli 4 bittinen.
