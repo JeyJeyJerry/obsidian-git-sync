@@ -166,12 +166,12 @@ $ sudo apt purge samba smbclient
 $ sudo rm -r /etc/samba
 ```
 
-![[Pasted image 20260428163715.png]]
-![Alt text](images/h4_kuvat/h4_5.png)
+![[h4_6.png]]
+![[h4_7.png]]
 
 - Ajetaan ansible-playbook ja varmistetaan, että tilanne korjaantuu
 
-![Alt text](images/h4_kuvat/h4_6.png)
+![[h4_8.png]]
 
 - Paketit asentuvat uudelleen, /etc/samba hakemisto luodaan ja muokkaukset edelleen tulevat näkyviin
 
@@ -179,7 +179,7 @@ $ sudo rm -r /etc/samba
 
 - Ajetaan ansible-playbook vielä kerran, että tiedämme tilan olevan idempotentti
 
-![Alt text](images/h4_kuvat/h4_8.png)
+![[h4_9.png]]
 
 ## Lähteet
 - Tero Karvinen 2023 Configuration Management of Distributed Systems over Unreliable and Hostile Networks. Luettavissa: [Configuration Management of Distributed Systems over Unreliable and Hostile Networks](https://westminsterresearch.westminster.ac.uk/item/w7vvz/configuration-management-of-distributed-systems-over-unreliable-and-hostile-networks) Luettu 21.4.2026
