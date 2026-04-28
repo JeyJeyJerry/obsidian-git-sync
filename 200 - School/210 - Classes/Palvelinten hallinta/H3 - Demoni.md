@@ -157,7 +157,7 @@ $ sudo nano /etc/nginx/sites-available/default
 - **default** tiedoston sisällä muokataan riviä **root /var/www/html;** ja muutetaan se **root /home/jerry/public_site;**
 - Käynnistetään nginx-demoni uudelleen ja varmistetaan, että nginx tunnistaa uuden sivuston juuren tarkistamalla selaimessa **http://localhost**
 
-
+![[h3_3.png]]
 
 - Muokataan sivustoa toisella käyttäjällä ilman sudoa
   - Hakemistojen oikeudet on jo muokattu edellisessä tehtävässä, joten voimme heti kokeilla toisella käyttäjällä muokkaamista
