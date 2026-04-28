@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path:Templates",
   "showTags": false,
   "showAttachments": false,
