@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "78b1a7254e5ef74d",
+        "id": "1e99dd4937d384e9",
         "type": "tabs",
         "children": [
           {
-            "id": "2b9b56f7f2868983",
+            "id": "265d40df30d022ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
-                "mode": "preview",
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gruvbox color palette"
+              "title": "H2 - Voileipä"
             }
           }
         ]
@@ -43,6 +43,7 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
+        "dimension": 73.97798742138365,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -85,6 +86,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "bc7d006aef533af8",
+        "type": "tabs",
+        "dimension": 26.022012578616355,
+        "children": [
+          {
+            "id": "2b9b56f7f2868983",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,6 +115,7 @@
       {
         "id": "d1990c334bfe4c7f",
         "type": "tabs",
+        "dimension": 72.14611872146118,
         "children": [
           {
             "id": "fdf780d00fb8b9e1",
@@ -123,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 4.md",
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Book 1, chapter 4"
+              "title": "Outgoing links from H2 - Voileipä"
             }
           },
           {
@@ -184,7 +203,15 @@
               "icon": "lucide-list",
               "title": "Outline of Dune"
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "a69f76ee703f1850",
+        "type": "tabs",
+        "dimension": 27.85388127853881,
+        "children": [
           {
             "id": "ba756d142cc6b1e6",
             "type": "leaf",
@@ -195,8 +222,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,11 +239,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b9b56f7f2868983",
+  "active": "265d40df30d022ac",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
+    "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/100 - Index/Attachments/gruvbox_colors.png",
     "obsidian-git-sync/100 - Index/Attachments",
-    "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/999 - Templates/Class Template.md",
     "obsidian-git-sync/999 - Templates/Daily Note Template.md",
@@ -227,7 +254,6 @@
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/400 - Daily Notes/2026.04.22.md",
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H2 - Voileipä.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Cache.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU moniydin, hyperthreading.md",
@@ -245,7 +271,6 @@
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H5 - Gitar Hero.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5/h5_13.png",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5/h5_12.png",
-    "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h5/h5_10.png",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H4 - Pizza Fantasia.md",
     "images/h5_kuvat/h5_1.png.md",
     "images/h5_kuvat",
