@@ -11,7 +11,14 @@
       "query": "tag:#book  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 10000154
+      }
+    },
+    {
+      "query": "tag:#course  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
