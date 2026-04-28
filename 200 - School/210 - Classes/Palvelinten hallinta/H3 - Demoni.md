@@ -124,7 +124,7 @@ $ nano /home/jerry/public_site/index.html
 
 - Varmistetaan, että muutokset tulivat näkyviin **http://localhost**
 
-![Alt text](images/h3_kuvat/h3_8.png)
+![[h3_3.png]]
 
 ### b)
 
@@ -144,7 +144,7 @@ $ sudo systemctl start nginx
 
 - Varmistetaan, että nginx toimii avaamalla selaimella **http://localhost**
 
-![Alt text](images/h3_kuvat/h3_5.png)
+![[h3_4.png]]
 
 - Nginx konfiguraatio tiedostot ovat lähes identtiset apache2 tiedostoihin
 - Muokataan tiedostoa **/etc/nginx/sites-available/default** siirtämään sivuston juuren kotihakemistoon
@@ -157,7 +157,7 @@ $ sudo nano /etc/nginx/sites-available/default
 - **default** tiedoston sisällä muokataan riviä **root /var/www/html;** ja muutetaan se **root /home/jerry/public_site;**
 - Käynnistetään nginx-demoni uudelleen ja varmistetaan, että nginx tunnistaa uuden sivuston juuren tarkistamalla selaimessa **http://localhost**
 
-![Alt text](images/h3_kuvat/h3_7.png)
+
 
 - Muokataan sivustoa toisella käyttäjällä ilman sudoa
   - Hakemistojen oikeudet on jo muokattu edellisessä tehtävässä, joten voimme heti kokeilla toisella käyttäjällä muokkaamista
