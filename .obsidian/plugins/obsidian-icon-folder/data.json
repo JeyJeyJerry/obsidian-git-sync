@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiVault",
       "LiBookTemplate",
       "LiCalendarDays",
       "LiBookMarked",
-      "LiSchool2",
-      "LiNotepadText"
+      "LiSchool2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "obsidian-git-sync/200 - School": "LiSchool2",
   "obsidian-git-sync/300 - Books": "LiBookMarked",
   "obsidian-git-sync/400 - Daily Notes": "LiCalendarDays",
-  "obsidian-git-sync/999 - Templates": "LiBookTemplate"
+  "obsidian-git-sync/999 - Templates": "LiBookTemplate",
+  "obsidian-git-sync": "LiVault"
 }
