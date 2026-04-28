@@ -71,7 +71,7 @@
 
 - Ensin luodaan käyttäjä **jerry**, luodaan ryhmä **sudoless** ja lisätään käyttäjä ryhmään
 
-```console
+```bash
 $ sudo adduser jerry
 $ sudo groupadd sudoless
 $ sudo adduser jerry sudoless
@@ -79,13 +79,13 @@ $ sudo adduser jerry sudoless
 
 - Avataan erillisessä terminaali-ikkunassa **root shell** sitä varten jos asiat menevät rikki ja täytyy tehdä korjauksia
 
-```console
+```bash
 $ sudo -i
 ```
 
 - Lisätään **sudoers** sääntö, joka antaa sudoless-ryhmälle oikeudet käyttää sudoa ilman salasanaa
 
-```console
+```bash
 $ sudo visudo /etc/sudoers.d/sudoless
 
 %sudoless ALL = (ALL) NOPASSWD: ALL
@@ -93,7 +93,7 @@ $ sudo visudo /etc/sudoers.d/sudoless
 
 - Testataan käyttäjällä jerry sudo-komentoa
 
-```console
+```bash
 $ ssh jerry@localhost
 $ sudo -k
 $ sudo echo "testi moi"
@@ -104,7 +104,7 @@ testi moi
 
 - Ensin varmistetaan, että on olemassa toimiva Ansible järjestelmä ja hakemistorakenne
 
-```console
+```bash
 $ tree -F
 ./
 ├── ansible.cfg
@@ -121,7 +121,7 @@ $ tree -F
 
 - Lisätään rooliin sudoless komennot, jotka luovat uuden käyttäjän, lisäävät käyttäjän sudoless-ryhmään ja antaa oikeudet käyttää sudoa ilman salasanaa
 
-```console
+```bash
 $ cat roles/sudoless/tasks/main.yml
 ```
 
@@ -156,7 +156,7 @@ $ cat roles/sudoless/tasks/main.yml
 
 - Ajetaan ansible-playbook ja kysytään sudo salasana
 
-```console
+```bash
 $ ansible-playbook site.yml -K
 ```
 
