@@ -97,7 +97,7 @@ $ git commit
 
 - Kun muutokset ovat menneet läpi, tehdään niistä myös commit
 
-![[Pasted image 20260428164122.png]]
+![[h5_13.png]]
 
 ### f)
 
