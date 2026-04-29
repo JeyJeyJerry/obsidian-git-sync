@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "082130dc7647bc4c",
+        "id": "99f72716c2c95264",
         "type": "tabs",
         "children": [
           {
-            "id": "3e75f29d18e9bd20",
+            "id": "d1e99fa2d6df9050",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -221,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e75f29d18e9bd20",
+  "active": "d1e99fa2d6df9050",
   "lastOpenFiles": [
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
