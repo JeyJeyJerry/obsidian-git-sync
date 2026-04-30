@@ -3,12 +3,13 @@ cover: "[[dune_cover.png]]"
 Authors:
   - Frank Patrick Herbert
 Published: 1965-06-01
-Started: 20.4.2026
+Started: 2026-4-20
 Finished:
-Rating: ⭐⭐⭐⭐⭐
+Rating:
 tags:
   - book
 Goodreads: https://www.goodreads.com/book/show/25772375-dune
+Date:
 ---
 
 ## Summary

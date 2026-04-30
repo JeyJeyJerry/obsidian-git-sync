@@ -4,7 +4,7 @@ Authors:
 Published:
 Started:
 Finished:
-Rating: ⭐⭐⭐⭐⭐
+Rating:
 Tags:
   - book
 Goodreads:
