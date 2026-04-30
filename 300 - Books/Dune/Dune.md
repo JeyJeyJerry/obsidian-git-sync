@@ -1,10 +1,13 @@
+---
+Author: Frank Patrick Herbert
+Published: 1965
+Started: 20.4.2026
+Finished:
+Rating:
+Tag: #book
+---
+
 ![cover|100](dune_cover.png)
-**Author**: Frank Patrick Herbert
-**Published**: 1965
-**Started**: 20.4.2026
-**Finished**:
-**Rating**:
-**Tag**: #book
 
 ## Summary
 
