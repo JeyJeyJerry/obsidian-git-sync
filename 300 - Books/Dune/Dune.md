@@ -1,11 +1,8 @@
 ---
-Author: Frank Patrick Herbert
-Year: "1965"
-Started: 20.4.2026
-Finished:
-Rating:
-Tag:
+tags:
+date:
 ---
+
 
 Author: Frank Patrick Herbert
 Year: "1965"
