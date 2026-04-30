@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "99f72716c2c95264",
+        "id": "fc789653dc7d820a",
         "type": "tabs",
         "children": [
           {
-            "id": "d1e99fa2d6df9050",
+            "id": "4832e20b2626e1a6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -29,7 +29,7 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
-        "dimension": 71.54088050314465,
+        "dimension": 71.54088050314466,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -76,7 +76,7 @@
       {
         "id": "bc7d006aef533af8",
         "type": "tabs",
-        "dimension": 28.459119496855344,
+        "dimension": 28.459119496855347,
         "children": [
           {
             "id": "2b9b56f7f2868983",
@@ -221,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1e99fa2d6df9050",
+  "active": "4832e20b2626e1a6",
   "lastOpenFiles": [
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
