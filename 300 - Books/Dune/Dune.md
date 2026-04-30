@@ -3,7 +3,7 @@ cover: "[[dune_cover.png]]"
 Authors:
   - Frank Patrick Herbert
 Published: 1965-06-01
-Started: 2026-04-20
+Started: 20.4.2026
 Finished:
 Rating: ⭐⭐⭐⭐⭐
 tags:
