@@ -83,7 +83,7 @@ cat roles/hello/tasks/main.yml
 
 ![[h1_9.png]]
 
-
+- Lopputuloksena meillä on toimiva Ansible ympäristö ja oikea hakemistorakenne jatkoa varten
 
 ## Lähteet
 - Tero Karvinen SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/ Luettu 31.3.2026
