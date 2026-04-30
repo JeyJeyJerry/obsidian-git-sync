@@ -7,6 +7,9 @@ Rating:
 Tag:
 ---
 
+Author: Frank Patrick Herbert
+Year: "1965"
+Started: 20.4.2026
 ![cover|100](dune_cover.png)
 
 ## Summary
