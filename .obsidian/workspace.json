@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8774a7fe537b5c83",
+        "id": "40b0c45b76705138",
         "type": "tabs",
         "children": [
           {
-            "id": "93e62a070c3e4d42",
+            "id": "05543593afd594f5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -221,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93e62a070c3e4d42",
+  "active": "05543593afd594f5",
   "lastOpenFiles": [
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H1 - Hei Ansiblen maailma.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H3 - Demoni.md",
