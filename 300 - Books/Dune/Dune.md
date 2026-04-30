@@ -9,7 +9,6 @@ Rating:
 tags:
   - book
 Goodreads: https://www.goodreads.com/book/show/25772375-dune
-Date:
 ---
 
 ## Summary
