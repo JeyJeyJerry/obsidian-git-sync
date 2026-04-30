@@ -1,10 +1,13 @@
-![cover|100]()
-**Author**: 
-**Published**:
-**Started**:
-**Finished**:
-**Rating**:
-**Tag**:
+---
+cover: "[[]]"
+Authors:
+Published:
+Started:
+Finished:
+Rating: ⭐⭐⭐⭐⭐
+tags:
+  - book
+---
 
 ## Summary
 
