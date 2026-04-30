@@ -7,6 +7,7 @@ Finished:
 Rating: ⭐⭐⭐⭐⭐
 tags:
   - book
+
 ---
 
 ## Summary
