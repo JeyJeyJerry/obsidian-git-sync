@@ -79,7 +79,11 @@ cat roles/hello/tasks/main.yml
 - Luodaan tiedosto **site.yml** ansible-hakemistoon
 	- Tässä tiedostossa määritellään koneet joihin halutaan muutosten tulevan voimaan, sekä roolit joista Ansible saa tehtävät
 - Lisätään tiedostoon site.yml hello-rooli
-- Tämän jälkeen ajetaan komento ``
+- Tämän jälkeen ajetaan komento `ansible-playbook site.yml` ansible-hakemiston sisällä ja varmistetaan, että muutokset menevät läpi
+
+![[h1_9.png]]
+
+
 
 ## Lähteet
 - Tero Karvinen SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/ Luettu 31.3.2026
