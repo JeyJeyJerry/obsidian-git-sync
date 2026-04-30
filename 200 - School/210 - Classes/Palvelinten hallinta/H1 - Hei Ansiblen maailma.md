@@ -64,7 +64,8 @@
 - Luodaan ansible-kansion sisälle kansio **roles**, jossa sijaitsee kaikki roolit
 - Luodaan roles-kansion sisälle rooli **hello**, jonka avulla teemme "Hei Maailma"- testin
 - hello-roolin sisälle tulee kansio **tasks** ja sen sisälle tiedosto **main.yml**
-	- Tää
+	- Täällä sijaitsee kaikki roolikohtaiset konfiguraatiot
+- 
 
 ## Lähteet
 - Tero Karvinen SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/ Luettu 31.3.2026
