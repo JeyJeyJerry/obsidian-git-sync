@@ -56,7 +56,8 @@
 
 ![[h1_7.png]]
 
-
+- Testataan, että Ansible toimii ajamalla jokaisella koneella (eli vain localhost) komento `uptime`
+	- Tämä tehdään Ansiblella ajamalla komento `ansible all -a ¨`
 
 ## Lähteet
 - Tero Karvinen SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/ Luettu 31.3.2026
