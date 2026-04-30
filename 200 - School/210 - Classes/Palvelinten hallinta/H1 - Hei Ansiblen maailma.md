@@ -26,7 +26,11 @@
 
 ![[h1_2.png]]
 
-- Varmistetaan, että SSH-demoni toimii ottamalla SSH-yhteys localhostii
+- Varmistetaan, että SSH-demoni toimii ottamalla SSH-yhteys localhostiin komennolla `ssh localhost`
+
+![[h1_3.png]]
+
+- Seuraavaksi automatisoidaan SSH-yhte
 
 ## Lähteet
 - Tero Karvinen SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/ Luettu 31.3.2026
