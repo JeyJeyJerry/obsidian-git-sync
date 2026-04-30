@@ -61,7 +61,8 @@
 
 ![[h1_8.png]]
 
-
+- Luodaan ansible-kansion sisälle kansio **roles**, jossa sijaitsee kaikki roolit
+- luodaan roles-kansion sisälle rooli 
 
 ## Lähteet
 - Tero Karvinen SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/ Luettu 31.3.2026
