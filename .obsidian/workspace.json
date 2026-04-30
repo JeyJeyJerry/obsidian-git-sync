@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa50ba5a75121f78",
+        "id": "e8629f95d72e6116",
         "type": "tabs",
         "children": [
           {
-            "id": "c593a65c0042f778",
+            "id": "095315aeeffb68ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/100 - Index/test.md",
+                "file": "obsidian-git-sync/999 - Templates/Book Template.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "Book Template"
             }
           }
         ]
@@ -236,11 +236,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c593a65c0042f778",
+  "active": "095315aeeffb68ec",
   "lastOpenFiles": [
+    "obsidian-git-sync/100 - Index/test.md",
     "obsidian-git-sync/999 - Templates/Book Template.md",
-    "obsidian-git-sync/100 - Index/test.md",
-    "obsidian-git-sync/100 - Index/test.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Palvelinten hallinta.md",

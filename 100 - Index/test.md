@@ -1,8 +1,8 @@
 ---
-Author: 
+Author:
 Published:
 Started:
-**Finished**:
-**Rating**:
-**Tag**:
+Finished:
+Rating:
+Tag:
 ---
