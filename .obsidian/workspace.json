@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn historia.md",
-                "mode": "source",
+                "file": "obsidian-git-sync/999 - Templates/Book Template.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CPUn historia"
+              "title": "Book Template"
             }
           }
         ]
@@ -43,7 +43,7 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
-        "dimension": 71.54088050314465,
+        "dimension": 71.54088050314466,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -90,7 +90,7 @@
       {
         "id": "bc7d006aef533af8",
         "type": "tabs",
-        "dimension": 28.459119496855344,
+        "dimension": 28.459119496855347,
         "children": [
           {
             "id": "2b9b56f7f2868983",
@@ -236,8 +236,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c8f41adb0a47b5d8",
+  "active": "095315aeeffb68ec",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn historia.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Palvelinten hallinta.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H5 - Gitar Hero.md",
@@ -274,7 +275,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Piirisarjat.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Emolevy.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn toiminta.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn kello.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Untitled.base",
     "obsidian-git-sync/100 - Index/Attachments",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h5",
