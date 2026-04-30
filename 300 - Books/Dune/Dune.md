@@ -1,10 +1,12 @@
 ---
 Authors:
   - Frank Patrick Herbert
-Published:
+Published: 1965-06-01
 Started:
 Finished:
 Rating:
+tags:
+  - book
 ---
 
 
