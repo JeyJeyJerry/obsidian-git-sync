@@ -70,7 +70,7 @@
   "enableCustomDateFormat": true,
   "enableCustomDateFormatInBases": false,
   "enableRelativeDateColors": false,
-  "settingsTab": "COVERS",
+  "settingsTab": "DATES",
   "enableTaskNotesCount": false,
   "allTNTasksCount": "tn_tasks",
   "completedTNTasksCount": "tn_tasks_completed",
