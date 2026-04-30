@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fc789653dc7d820a",
+        "id": "8774a7fe537b5c83",
         "type": "tabs",
         "children": [
           {
-            "id": "4832e20b2626e1a6",
+            "id": "93e62a070c3e4d42",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -221,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4832e20b2626e1a6",
+  "active": "93e62a070c3e4d42",
   "lastOpenFiles": [
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/H1 - Hei Ansiblen maailma.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Attachments/h1/h1_1.png",
