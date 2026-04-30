@@ -4,17 +4,20 @@
 ## Tiivistelmät
 
 ### SSH public key
+
 - Kirjautumisen automatisointi toimii niin, että ensin päivitetään järjestelmä ja sitten asennetaan open-ssh-server
 - SSH-serveri laitetaan päälle komennolla "sudo systemctl enable --now ssh"
 - Seuraavaksi testataan toimiiko serveri ottamalla yhteyttä localhostiin SSH:n avulla
 - Lopuksi generoidaan avainpari ja kopioidaan se localhostiin, jotta kirjautuminen automatisoituu
 
 ### Hello Ansible
+
 - Ansible on työkalu, jolla voi tehokkaasti konfiguroida suurta määrää tietokoneita samanaikaisesti
 - Ansible toimii niin, että luodaan erilaisia ryhmiä, joihin lisätään tiettyjä tietokoneita
 - Ryhmiin voi sitten ajaa erilaisia komentoja, jotka tekevät muokkauksia koneisiin SSH-yhteyden avulla
 
 ## Tehtävä
+
 
 
 ## Lähteet
