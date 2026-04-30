@@ -46,7 +46,11 @@
 ### c)
 
 - Seuraavaksi valmistaudutaan tekemään Ansiblella "Hei Maailma"-testi asentamalla Ansible ja tarvittavat hyödylliset ohjelmat
-	- ****
+	- `ansible`, `micro`, `bash-completion` ja `tree`
+
+![[h1_6.png]]
+
+
 
 ## Lähteet
 - Tero Karvinen SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/ Luettu 31.3.2026
