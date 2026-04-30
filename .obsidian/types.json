@@ -6,6 +6,7 @@
     "published": "date",
     "Author": "multitext",
     "Started": "date",
-    "Finished": "date"
+    "Finished": "date",
+    "Rating": "text"
   }
 }
