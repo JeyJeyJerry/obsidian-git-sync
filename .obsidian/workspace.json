@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/999 - Templates/Daily Note Template.md",
-                "mode": "source",
+                "file": "obsidian-git-sync/400 - Daily Notes/2026.04.22.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Daily Note Template"
+              "title": "2026.04.22"
             }
           }
         ]
@@ -238,6 +238,7 @@
   },
   "active": "095315aeeffb68ec",
   "lastOpenFiles": [
+    "obsidian-git-sync/999 - Templates/Daily Note Template.md",
     "obsidian-git-sync/999 - Templates/Class Template.md",
     "obsidian-git-sync/999 - Templates/Chapter Template.md",
     "obsidian-git-sync/999 - Templates/Book Template.md",
@@ -251,7 +252,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H2 - Voileipä.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H1 - Hei Ansiblen maailma.md",
-    "obsidian-git-sync/999 - Templates/Daily Note Template.md",
     "obsidian-git-sync/100 - Index/Games To Play.md",
     "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",

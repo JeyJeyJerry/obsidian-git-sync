@@ -9,6 +9,6 @@
     "Finished": "date",
     "Rating": "text",
     "cover": "text",
-    "Date": "date"
+    "Date": "datetime"
   }
 }
