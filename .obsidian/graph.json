@@ -5,27 +5,27 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#book  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 10000154
       }
     },
     {
       "query": "tag:#course  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16432431
       }
     },
     {
-      "query": "path:",
+      "query": "path:\"obsidian-git-sync/400 - Daily Notes\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 8627608
       }
     }
   ],
@@ -34,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 0,
   "linkDistance": 250,
   "scale": 0.4769829217432253,
-  "close": false
+  "close": true
 }
