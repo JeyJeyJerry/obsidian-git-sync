@@ -8,6 +8,7 @@
     "Started": "date",
     "Finished": "date",
     "Rating": "text",
-    "cover": "text"
+    "cover": "text",
+    "Date": "date"
   }
 }
