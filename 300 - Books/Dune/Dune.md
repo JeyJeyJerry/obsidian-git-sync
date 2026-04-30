@@ -1,6 +1,6 @@
 ---
 Author: Frank Patrick Herbert
-Published: 1965
+Year
 Started: 20.4.2026
 Finished:
 Rating:
