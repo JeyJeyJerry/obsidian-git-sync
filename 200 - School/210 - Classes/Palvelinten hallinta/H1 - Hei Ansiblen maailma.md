@@ -50,7 +50,8 @@
 
 ![[h1_6.png]]
 
-
+- Luodaan Ansiblen tarvittava hakemistorakenne ja tiedosto `hosts.ini`
+	- `host`
 
 ## Lähteet
 - Tero Karvinen SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/ Luettu 31.3.2026
