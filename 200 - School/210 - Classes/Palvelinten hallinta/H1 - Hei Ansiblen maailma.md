@@ -61,9 +61,9 @@
 
 ![[h1_8.png]]
 
-- Luodaan ansible-kansion sisälle kansio **roles**, jossa sijaitsee kaikki roolit
-- Luodaan roles-kansion sisälle rooli **hello**, jonka avulla teemme "Hei Maailma"- testin
-- hello-roolin sisälle tulee kansio **tasks** ja sen sisälle tiedosto **main.yml**
+- Luodaan ansible-kansion sisälle hakemisto **roles**, jossa sijaitsee kaikki roolit
+- Luodaan roles-hakemiston sisälle rooli **hello**, jonka avulla teemme "Hei Maailma"- testin
+- hello-roolin sisälle tulee hakemisto **tasks** ja sen sisälle tiedosto **main.yml**
 	- Täällä sijaitsee kaikki roolikohtaiset konfiguraatiot
 - main.yml-tiedoston sisälle kirjoitetaan koodia, joka käskee Ansiblea luomaan tiedoston **/tmp/hei_ansible** kaikille koneille ja kirjoittaa tiedoston sisälle "Hei Maailma!"
 
@@ -84,6 +84,8 @@ cat roles/hello/tasks/main.yml
 ![[h1_9.png]]
 
 - Lopputuloksena meillä on toimiva Ansible ympäristö ja oikea hakemistorakenne jatkoa varten
+
+![[h1_10.png]]
 
 ## Lähteet
 - Tero Karvinen SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/ Luettu 31.3.2026
