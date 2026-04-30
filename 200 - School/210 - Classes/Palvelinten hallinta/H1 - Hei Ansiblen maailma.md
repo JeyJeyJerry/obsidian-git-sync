@@ -18,6 +18,8 @@
 
 ## Tehtävä
 
+### a)
+
 - Ensimmäisenä asennetaan **SSH-demoni**
 
 ![[h1_1.png]]
@@ -27,6 +29,8 @@
 ![[h1_2.png]]
 
 - Varmistetaan, että SSH-demoni toimii ottamalla SSH-yhteys localhostiin komennolla `ssh localhost`
+
+### b)
 
 ![[h1_3.png]]
 
@@ -39,7 +43,7 @@
 
 ![[h1_5.png]]
 
-
+### c)
 
 ## Lähteet
 - Tero Karvinen SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/ Luettu 31.3.2026
