@@ -223,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,7 +236,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "095315aeeffb68ec",
+  "active": "c8f41adb0a47b5d8",
   "lastOpenFiles": [
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Palvelinten hallinta.md",
