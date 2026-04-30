@@ -5,9 +5,9 @@ Published:
 Started:
 Finished:
 Rating: ⭐⭐⭐⭐⭐
-tags:
+Tags:
   - book
-
+Goodreads:
 ---
 
 ## Summary

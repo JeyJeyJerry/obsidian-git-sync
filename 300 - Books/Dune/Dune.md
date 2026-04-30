@@ -8,6 +8,7 @@ Finished:
 Rating: ⭐⭐⭐⭐⭐
 tags:
   - book
+Goodreads:
 ---
 
 ## Summary
