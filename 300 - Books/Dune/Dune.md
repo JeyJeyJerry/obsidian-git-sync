@@ -1,7 +1,7 @@
 ---
 Authors:
   - Frank Patrick Herbert
-Published: 1965-06-01
+Published:
 Started:
 Finished:
 Rating:
@@ -11,7 +11,7 @@ tags:
 
 
 Author: Frank Patrick Herbert
-Year: "1965"
+Year: 1965-06-01
 Started: 20.4.2026
 Finished:
 Rating:
