@@ -1,10 +1,10 @@
 ---
 Author: Frank Patrick Herbert
-Year
+Year: "1965"
 Started: 20.4.2026
 Finished:
 Rating:
-Tag: #book
+Tag:
 ---
 
 ![cover|100](dune_cover.png)
