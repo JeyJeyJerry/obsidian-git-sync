@@ -11,10 +11,24 @@
             "id": "bcc2c7d486620a4d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Palvelinten hallinta.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Palvelinten hallinta"
             }
           }
         ]
@@ -29,7 +43,7 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
-        "dimension": 71.54088050314465,
+        "dimension": 71.54088050314466,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -76,7 +90,7 @@
       {
         "id": "bc7d006aef533af8",
         "type": "tabs",
-        "dimension": 28.459119496855344,
+        "dimension": 28.459119496855347,
         "children": [
           {
             "id": "2b9b56f7f2868983",
