@@ -232,10 +232,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "b5f8b4f7481bc101",
+  "active": "2c395ac0a9a17361",
   "lastOpenFiles": [
     "obsidian-git-sync/200 - School/210 - Classes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/200 - School/210 - Classes/Palvelinten hallinta/Palvelinten hallinta.md",
