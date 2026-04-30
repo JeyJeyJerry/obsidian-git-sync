@@ -7,5 +7,14 @@
       ],
       "key": "T"
     }
+  ],
+  "editor:save-file": [],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }
