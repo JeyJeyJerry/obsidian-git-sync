@@ -5,7 +5,7 @@ Authors:
 Published: 1965-06-01
 Started: 2026-04-20
 Finished:
-Rating:
+Rating: ⭐⭐⭐⭐⭐
 tags:
   - book
 ---

@@ -3,7 +3,11 @@
     "cover"
   ],
   "propertyPillColors": {},
-  "propertyLongtextColors": {},
+  "propertyLongtextColors": {
+    "⭐⭐⭐⭐⭐": {
+      "textColor": "default"
+    }
+  },
   "tagColors": {},
   "enableBanner": true,
   "enableIcon": true,

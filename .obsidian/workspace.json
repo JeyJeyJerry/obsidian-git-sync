@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/300 - Books/Dune/Dune.md",
-                "mode": "preview",
+                "file": "obsidian-git-sync/999 - Templates/Book Template.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dune"
+              "title": "Book Template"
             }
           }
         ]
@@ -238,8 +238,8 @@
   },
   "active": "095315aeeffb68ec",
   "lastOpenFiles": [
-    "obsidian-git-sync/100 - Index/Untitled.md",
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
+    "obsidian-git-sync/100 - Index/Untitled.md",
     "obsidian-git-sync/100 - Index/Games To Play.md",
     "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
