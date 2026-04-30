@@ -31,7 +31,15 @@
 ![[h1_3.png]]
 
 - Seuraavaksi automatisoidaan SSH-yhteys localhostiin kopioimalla julkinen SSH-avain
-	- Localhostin, eli minun oman koneen SSH-avaimen kopioidaan komenn
+	- Localhostin, eli minun oman koneen SSH-avaimen kopioidaan komennolla `ssh-copy-id localhost`
+
+![[h1_4.png]]
+
+- Nyt SSH kirjautuminen pitäisi onnistua ilman salasanaa
+
+![[h1_5.png]]
+
+
 
 ## Lähteet
 - Tero Karvinen SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/ Luettu 31.3.2026
