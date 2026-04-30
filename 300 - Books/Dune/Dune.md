@@ -1,5 +1,10 @@
 ---
-Author:
+Authors:
+  - Frank Patrick Herbert
+Published:
+Started:
+Finished:
+Rating:
 ---
 
 
