@@ -24,7 +24,7 @@
 
 ![[h1_1.png]]
 
-- Generoidaan SSH-avain komennolla {bash}ssh-keygen)
+- Generoidaan SSH-avain komennolla `ssh-keygen`
 
 ![[h1_2.png]]
 
