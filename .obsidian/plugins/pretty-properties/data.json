@@ -1,5 +1,7 @@
 {
-  "hiddenProperties": [],
+  "hiddenProperties": [
+    "cover"
+  ],
   "propertyPillColors": {},
   "propertyLongtextColors": {},
   "tagColors": {},
