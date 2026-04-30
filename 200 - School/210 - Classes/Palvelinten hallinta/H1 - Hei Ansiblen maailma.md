@@ -30,7 +30,8 @@
 
 ![[h1_3.png]]
 
-- Seuraavaksi automatisoidaan SSH-yhte
+- Seuraavaksi automatisoidaan SSH-yhteys localhostiin kopioimalla julkinen SSH-avain
+	- Localhostin, eli minun oman koneen SSH-avaimen kopioidaan komenn
 
 ## Lähteet
 - Tero Karvinen SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/ Luettu 31.3.2026
