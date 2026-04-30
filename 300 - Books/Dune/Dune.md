@@ -8,7 +8,7 @@ Finished:
 Rating: ⭐⭐⭐⭐⭐
 tags:
   - book
-Goodreads:
+Goodreads: https://www.goodreads.com/book/show/25772375-dune
 ---
 
 ## Summary
