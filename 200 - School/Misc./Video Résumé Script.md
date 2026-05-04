@@ -30,3 +30,10 @@ Recently I even did a personal project where I made my own home server where I u
 
 This project helped me understand real-world DevOps workflows and cloud architecture.
 
+## Why me?
+
+I’m particularly excited about this role because it combines cloud architecture, DevOps practices, and Linux administration, these are all areas I’ve been actively interested in.
+
+My skills in cloud services, Linux, and automation align well with your requirements, and I’m eager to continue my learning.
+
+## Closing
