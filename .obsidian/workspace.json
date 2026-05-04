@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e8629f95d72e6116",
+        "id": "7691810a0995209e",
         "type": "tabs",
         "children": [
           {
-            "id": "095315aeeffb68ec",
+            "id": "8300ad68ee4df565",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/300 - Books/Dune/Dune.md",
-                "mode": "preview",
+                "file": "obsidian-git-sync/200 - School/Misc./Untitled.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dune"
+              "title": "Untitled"
             }
           }
         ]
@@ -236,15 +236,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "095315aeeffb68ec",
+  "active": "8300ad68ee4df565",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/Misc./Untitled.md",
+    "obsidian-git-sync/200 - School/Misc.",
+    "obsidian-git-sync/100 - Index/Untitled.md",
+    "obsidian-git-sync/300 - Books/Dune/Dune.md",
     "obsidian-git-sync/999 - Templates/Daily Note Template.md",
     "obsidian-git-sync/999 - Templates/Class Template.md",
     "obsidian-git-sync/999 - Templates/Chapter Template.md",
     "obsidian-git-sync/999 - Templates/Book Template.md",
     "obsidian-git-sync/400 - Daily Notes/2026.04.22.md",
-    "obsidian-git-sync/300 - Books/Dune/Dune.md",
-    "obsidian-git-sync/100 - Index/Untitled.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn historia.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Palvelinten hallinta.md",
@@ -274,7 +276,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/RAM-muisti.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Prosessorin toiminta.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Piirisarjat.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Emolevy.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Untitled.base",
     "obsidian-git-sync/100 - Index/Attachments",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h5",
@@ -282,7 +283,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h3",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h2",
     "images/h5_kuvat",
-    "images",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments"
+    "images"
   ]
 }
