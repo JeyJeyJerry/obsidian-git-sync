@@ -14,8 +14,8 @@ My studies have provided me with both theoretical knowledge and hands-on experie
 
 I have hands-on experience with:
 
-- **Cloud platforms**, especially AWS, where I’ve worked with services like EC2, S3, and IAM
-- **Linux systems**, including installation, configuration, shell scripting, and troubleshooting
+- **Cloud platforms** like Azure
+- **Linux systems** like Debian, Ubuntu and Arch Linux. including installation, configuration, shell scripting, and troubleshooting
 - **Infrastructure as Code**, using Terraform to automate deployments
 - **Containers**, using Docker and basic Kubernetes concepts
 - **CI/CD pipelines**, using Git and automation tools
