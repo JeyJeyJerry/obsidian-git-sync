@@ -11,24 +11,10 @@
             "id": "8300ad68ee4df565",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gruvbox color palette"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -106,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.51103591918945
+    "width": 343.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "77bcd734db37ed44",
@@ -201,8 +188,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "a69f76ee703f1850",
@@ -223,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 355.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,6 +225,7 @@
   },
   "active": "8300ad68ee4df565",
   "lastOpenFiles": [
+    "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H2 - Voileipä.md",
     "obsidian-git-sync/200 - School/Misc./Video Résumé Script.md",
     "obsidian-git-sync/200 - School/Misc.",
@@ -257,7 +245,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H1 - Hei Ansiblen maailma.md",
     "obsidian-git-sync/100 - Index/Games To Play.md",
     "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
-    "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/100 - Index/test.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_1.png",
