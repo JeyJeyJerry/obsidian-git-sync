@@ -14,10 +14,18 @@ My studies have provided me with both theoretical knowledge and hands-on experie
 
 I have hands-on experience with:
 
-- **Cloud platforms** like Azure
+- **Cloud platforms** like Azure and AWS
 - **Linux systems** like Debian, Ubuntu and Arch Linux. including installation, configuration, shell scripting, and troubleshooting
-- **Infrastructure as Code**, using Terraform to automate deployments
-- **Containers**, using Docker and basic Kubernetes concepts
+- **Infrastructure as Code**, using Terraform for automation
+- **Containers**, using Docker
 - **CI/CD pipelines**, using Git and automation tools
 
-I am also familiar with monitoring tools and understand the importance of system reliability, scalability, and security.
+## Projects
+
+Recently I even did 
+
+- Deployed a Linux server
+- Automated infrastructure setup using Terraform
+- Implemented basic monitoring and security practices
+
+This project helped me understand real-world DevOps workflows and cloud architecture.
