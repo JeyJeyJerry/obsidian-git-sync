@@ -18,7 +18,7 @@ I have hands-on experience with:
 - **Linux systems** like Debian, Ubuntu and Arch Linux. including installation, configuration, shell scripting, and troubleshooting
 - **Infrastructure as Code**, using Terraform for automation
 - **Containers**, using Docker
-- **CI/CD pipelines**, using Git and automation tools
+- **CI/CD pipelines**, using Git and ansible as automation tools
 
 ## Projects
 
