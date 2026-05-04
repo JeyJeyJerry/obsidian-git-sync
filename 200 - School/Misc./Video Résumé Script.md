@@ -22,10 +22,11 @@ I have hands-on experience with:
 
 ## Projects
 
-Recently I even did 
+Recently I even did a personal project where I made my own home server where I used a lot of skills I think will be important in this position
 
 - Deployed a Linux server
-- Automated infrastructure setup using Terraform
+- Automated infrastructure setup
 - Implemented basic monitoring and security practices
 
 This project helped me understand real-world DevOps workflows and cloud architecture.
+
