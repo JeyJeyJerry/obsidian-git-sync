@@ -37,3 +37,7 @@ I’m particularly excited about this role because it combines cloud architectur
 My skills in cloud services, Linux, and automation align well with your requirements, and I’m eager to continue my learning.
 
 ## Closing
+
+Thank you for considering my application.
+
+I would be very excited to be a part of your team and grow as a cloud engineer
