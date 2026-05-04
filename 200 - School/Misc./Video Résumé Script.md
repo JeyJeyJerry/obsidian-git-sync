@@ -1,6 +1,6 @@
 ## Introduction
 
-Hello, my name is Jerry, and I’m applying for the Cloud Infrastructure Engineer at Eclaro.
+Hello, my name is Jerry, and I’m applying for the Cloud Infrastructure Engineer at System one.
 
 I’m very interested about cloud technologies, Linux systems, and automation, and I’m excited about the opportunity to join your team
 
