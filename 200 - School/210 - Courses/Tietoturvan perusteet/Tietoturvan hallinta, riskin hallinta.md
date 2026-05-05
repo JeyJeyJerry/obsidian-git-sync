@@ -92,8 +92,13 @@ Date: 2026-05-05T19:28:00
 - Yksityisen sektorin tiedon luokittelu on aina organisaatiokohtaista:
 	- Julkinen (Public)
 		- Voidaan julkaista julkisissa medioissa
-	- Sisäinen (Sensitive): ei haluta päästää organisaation ulkopuolelle
-	- Luottamuksellinen (Private): ei saa päästää organisaation ulkopuolelle
+	- Sisäinen (Sensitive)
+		- Ei haluta päästää organisaation ulkopuolelle
+	- Luottamuksellinen (Private)
+		- Ei saa päästää organisaation ulkopuolelle
+		- Ei kuitenkaan täytä salaisen tiedon vaatimuksia
+	- Salainen (Confidential, Proprietary)
+		- Tiedon vuoto aiheuttaa erittäin vakava
 
 ## References
 
