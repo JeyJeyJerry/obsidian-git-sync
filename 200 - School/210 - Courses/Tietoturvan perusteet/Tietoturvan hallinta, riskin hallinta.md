@@ -111,5 +111,9 @@ Date: 2026-05-05T19:28:00
 	- Pitämällä suunnitelman ja ohjeet ajantasaisena
 	- Tietoturvakoulutuksella
 
+![[riskienhallinta_graph.png]]
+
+
+
 ## References
 
