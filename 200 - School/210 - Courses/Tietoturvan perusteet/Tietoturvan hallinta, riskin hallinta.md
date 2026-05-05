@@ -103,7 +103,9 @@ Date: 2026-05-05T19:28:00
 
 ### Riskienhallinta
 
-- 
+- Riskienhallinta on järjestelmällistä toimintaa riskien rajoittamiseksi niin, että ne ovat optimisuhteessa riskien rajoittamisen kustannuksiin samalla kun organisaation toiminnalle asetetut tavoitteet voidaan saavuttaa
+- Tietoturvariskeihin voi varautua:
+	- 
 
 ## References
 
