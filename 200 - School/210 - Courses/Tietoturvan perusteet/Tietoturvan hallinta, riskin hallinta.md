@@ -114,6 +114,8 @@ Date: 2026-05-05T19:28:00
 ![[riskienhallinta_graph.png]]
 
 - Riskien suuruutta voi arvioida käyttämällä **Kvalitatiivista riskinanalyysiä**
+	- Arvio ja tulokset ovat subjektiivisia ja perustuvat mielipiteisiin
+	- Ei anna rahallista arvoa kustannus / hyöty-analyysiin
 - Riskin suuruus = vakavuus * todennäköisyys
 
 ![[kvali_1.png]]
@@ -121,6 +123,9 @@ Date: 2026-05-05T19:28:00
 ![[kvali_3.png]]
 
 - Kvantitatiivinen riskianalyysi on menetelmä, jolla arvioidaan riskin toteutumisen aiheuttamat **kustannukset**
+	- Laskelmat voivat olla monimutkaisia
+	- Vaaditaan enemmän työtä yksityiskohtaisen tiedon saamiseksi
+	- 
 
 ## References
 
