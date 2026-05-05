@@ -49,7 +49,8 @@ Date: 2026-05-05T19:28:00
 
 ![[tietoturva_graph.png]]
 
-
+- **AAA -prosessi**
+	- Identification - tunnistaminen. Toimija ilmoittaa identiteettinsä järjestelmälle, jolloin AA
 
 ## References
 
