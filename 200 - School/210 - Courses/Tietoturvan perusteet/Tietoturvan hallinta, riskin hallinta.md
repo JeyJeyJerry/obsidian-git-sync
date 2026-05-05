@@ -113,7 +113,7 @@ Date: 2026-05-05T19:28:00
 
 ![[riskienhallinta_graph.png]]
 
-
+- Riskien suuruutta voi arvioida käyttämällä **Kvalitatiivista riskinanalyysiä**
 
 ## References
 
