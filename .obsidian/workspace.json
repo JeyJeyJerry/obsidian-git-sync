@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan perusteet.md",
+                "file": "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Mitä tietoturva tarkoittaa?.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tietoturvan perusteet"
+              "title": "Mitä tietoturva tarkoittaa?"
             }
           }
         ]
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan perusteet.md",
+                "file": "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Mitä tietoturva tarkoittaa?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tietoturvan perusteet"
+              "title": "Backlinks for Mitä tietoturva tarkoittaa?"
             }
           },
           {
@@ -238,8 +238,9 @@
   },
   "active": "394c6cfe6aa20447",
   "lastOpenFiles": [
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Palvelinten hallinta.md",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan perusteet.md",
+    "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Mitä tietoturva tarkoittaa?.md",
+    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Palvelinten hallinta.md",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H2 - Voileipä.md",
@@ -276,7 +277,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tiedon esitys tietokoneessa.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/RAM-muisti.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Prosessorin toiminta.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Untitled.base",
     "obsidian-git-sync/100 - Index/Attachments",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h5",
