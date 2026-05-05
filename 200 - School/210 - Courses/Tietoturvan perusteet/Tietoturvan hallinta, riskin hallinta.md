@@ -56,7 +56,10 @@ Date: 2026-05-05T19:28:00
 	- **Auditting** – tarkastaminen. Käyttäjän pääsy ja tämän tekemät toimenpiteet kirjataan lokiin
 	- **Accountability** – vastuullisuus. Kun AAA -prosessi on huolellisesti toteutettu, voidaan toimijaa pitää vastuullisena tekemisistään
 
+### Tietosuoja
 
+- Tietosuoja käsittelee vaik **yksilön yksityisyyden ja luottamuksen turvaamista**, sekä tämän tietojen suojaamista ja käsittelyä
+- 
 
 ## References
 
