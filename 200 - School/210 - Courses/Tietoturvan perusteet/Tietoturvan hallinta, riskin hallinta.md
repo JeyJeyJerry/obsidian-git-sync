@@ -124,7 +124,7 @@ Date: 2026-05-05T19:28:00
 - Kvantitatiivinen riskianalyysi on menetelmä, jolla arvioidaan riskin toteutumisen aiheuttamat **kustannukset**
 	- Laskelmat voivat olla monimutkaisia
 	- Vaaditaan enemmän työtä yksityiskohtaisen tiedon saamiseksi
-	- 
 
 ## References
 
+- https://hhmoodle.haaga-helia.fi/pluginfile.php/4658103/mod_resource/content/10/Tietoturvan%20perusteet%20-%20ICI002AS2A%20-%20Moduli%201.pdf
