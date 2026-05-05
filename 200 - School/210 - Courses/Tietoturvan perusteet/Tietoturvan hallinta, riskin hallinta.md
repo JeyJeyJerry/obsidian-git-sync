@@ -59,7 +59,11 @@ Date: 2026-05-05T19:28:00
 ### Tietosuoja
 
 - Tietosuoja käsittelee vaik **yksilön yksityisyyden ja luottamuksen turvaamista**, sekä tämän tietojen suojaamista ja käsittelyä
-- 
+- Tietosuoja on perustuslain turvaama oikeus, jokaiselle henkilölle
+
+### Tieto-omaisuuden suojaaminen
+
+
 
 ## References
 
