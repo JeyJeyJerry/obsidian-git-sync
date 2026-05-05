@@ -53,6 +53,10 @@ Date: 2026-05-05T19:28:00
 	- **Identification** - tunnistaminen: Toimija ilmoittaa identiteettinsä järjestelmälle, jolloin AAA -prosessi käynnistyy
 	- **Authentication** - todentaminen: Identiteetti varmennetaan sen perusteella mitä toimija tietää tai omistaa, tai mikä ominaisuus toimijalla on. Voidaan vaatia yksi tai useampi tekijä
 	- **Authorization** - valtuutus. Järjestelmä myöntää toimijalle oikeuden päästä sisään järjestelmään, käyttää resursseja, päästä käsiksi tietoihin jne
+	- **Auditting** – tarkastaminen. Käyttäjän pääsy ja tämän tekemät toimenpiteet kirjataan lokiin
+	- **Accountability** – vastuullisuus. Kun AAA -prosessi on huolellisesti toteutettu, voidaan toimijaa pitää vastuullisena tekemisistään
+
+
 
 ## References
 
