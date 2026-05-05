@@ -6,7 +6,7 @@ Date: 2026-05-05T19:28:00
 
 ## Notes
 
-### Tietoturva
+### Mitä tietoturva tarkoittaa
 
 - Tietoturva tarkoittaa tietojen suojaamista **muutoksilta**, **tuhoutumiselta** ja **luvattomalta käytöltä**
 - Tietoturvan käytännöt, teknologiat ja menettelyt eli **prosessit** auttavat organisaatioita varmistamaan, että:
@@ -15,7 +15,9 @@ Date: 2026-05-05T19:28:00
 	- Tiedot ovat **oikeellisia** ja **muuttumattomia**
 - Tietoturvan tavoite on suojata tärkeitä tietoja, kuten asiakirjoja, henkilötietoja ja liikesalaisuuksia
 	- Tämä saavutetaan käyttämällä esimerkiksi **salausta**, **palomuureja**, **käyttöoikeuksien hallintaa** ja **turvallisuuskoulutusta**
-- Tietoturva auttaa estämään tietojen väärinkäytö
+- Tietoturva auttaa estämään tietojen väärinkäytön tai vuodon
+
+### Mistä tietoturva rakentuu
 
 ## References
 

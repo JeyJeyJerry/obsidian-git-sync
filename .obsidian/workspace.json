@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Mitä tietoturva tarkoittaa?.md",
+                "file": "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mitä tietoturva tarkoittaa?"
+              "title": "Tietoturvan hallinta, riskin hallinta"
             }
           }
         ]
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Mitä tietoturva tarkoittaa?.md",
+                "file": "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mitä tietoturva tarkoittaa?"
+              "title": "Backlinks for Tietoturvan hallinta, riskin hallinta"
             }
           },
           {
@@ -239,7 +239,7 @@
   "active": "394c6cfe6aa20447",
   "lastOpenFiles": [
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan perusteet.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Mitä tietoturva tarkoittaa?.md",
+    "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Palvelinten hallinta.md",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
