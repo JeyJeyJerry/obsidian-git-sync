@@ -65,10 +65,18 @@ Date: 2026-05-05T19:28:00
 
 - Tietoturva-standardit määrittelevät vaatimukset ja suositukset tietoturvan hallinnalle ja käytännöille organisaatiossa
 - Tietoturvassa on paljon standardeja kuten esimerkiksi:
-	- ISO/IEC 27000 Standardiperhe (ISO/IEC 27001 ja ISO/IEC 27002)
-	- NIST Cybersecurity Framework: Yhdysvaltain National Institute of Standards and Technology (NIST)
+	- **ISO/IEC 27000 Standardiperhe** (ISO/IEC 27001 ja ISO/IEC 27002)
+	- **NIST Cybersecurity Framework**: Yhdysvaltain National Institute of Standards and Technology (NIST)
 	- PCI DSS: Payment Card Industry Data Security Standard (PCI DSS)
-	- 
+	- HIPAA: Health Insurance Portability and Accountability Act (HIPAA)
+	- CIS Controls: Center for Internet Security (CIS)
+	- ISO/IEC 15408: Common Criteria
+	- IEC 62443: Industrial Automation and Control Systems (IACS)
+	- FIPS: Federal Information Processing Standards
+	- UL 2900
+	- GDPR
+	- eIDAs
+	- FISMA
 
 ## References
 
