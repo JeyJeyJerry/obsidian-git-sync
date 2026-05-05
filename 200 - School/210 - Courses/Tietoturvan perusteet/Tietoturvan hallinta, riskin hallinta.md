@@ -25,7 +25,9 @@ Date: 2026-05-05T19:28:00
 - **Tietoturvakoulutus** on tärkeä osa organisaation tietoturvaa. Henkilöstön tietoturvakoulutus auttaa henkilöstöä ymmärtämään tietoturvaan liittyvät riskit ja antaa heille tarvittavat tiedot ja taidot tietoturvan ylläpitämiseen.
 - Tietoturva jakautuu kolmeen pääalueeseen:
 	- **Luottamuksellisuus**
-		- Luottamuksellisuudella tarkoitetaan tiedon suojaamista luvattom
+		- Luottamuksellisuudella tarkoitetaan tiedon suojaamista luvattomalta pääsyltä
+		- Tiedot ja tietojärjestelmät ovat suojattuja ja niitä pääsee käyttämään vain oikeutetut henkilöt tai järjestelmät
+		- Luottamuksellisuus saavutetaan erilaisten tekn
 	- **Eheys**
 	- **Saatavuus**
 
