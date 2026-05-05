@@ -12,7 +12,9 @@ Date: 2026-05-05T19:28:00
 - Tietoturvan käytännöt, teknologiat ja menettelyt eli **prosessit** auttavat organisaatioita varmistamaan, että:
 	- Tietoja käytetään vain **oikeutetusti**
 	- Tiedot ovat **saatavilla**, kun niitä tarvitaan
-	- Tiedot ovat **oikeellisia**
+	- Tiedot ovat **oikeellisia** ja **muuttumattomia**
+- Tietoturvan tavoite on suojata tärkeitä tietoja, kuten asiakirjoja, henkilötietoja ja liikesalaisuuksia
+	- Tämä saavutetaan käyttämällä esimerkiksi 
 
 ## References
 
