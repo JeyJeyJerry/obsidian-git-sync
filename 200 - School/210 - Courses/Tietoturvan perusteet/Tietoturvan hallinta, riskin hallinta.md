@@ -21,8 +21,12 @@ Date: 2026-05-05T19:28:00
 
 - **Tietoturvapolitiikka** on organisaation virallinen julistus siitä, miten tietoturvaan liittyviä asioita käsitellään ja miten tietoturvaan liittyvät käytännöt ja menettelyt toteutetaan
 - **Teknologiset ratkaisut** ovat erilaisia tietoturvamenetelmiä, kuten palomuureja, virustorjuntaohjelmia, salaustekniikoita ja käyttöoikeuksien hallintaa, joilla organisaatio voi suojata tietonsa
-- Tietoturvaan liittyvät käytännöt ja menettelyt kattavat esimerkiksi tietojen käsittelyprosessit, käyttöoikeuksien hallinnan, salasanojen ja käyttäjätunnusten käytön, varmuuskopioiden säilyttämisen ja tuhoamisen
-- Tietoturvakoulutus on tärkeä osa organisaation tietoturvaa. Henkilöstön tietoturvakoulutus auttaa henkilöstöä ymmärtämään tietoturvaan liittyvät riskit ja antaa heille tarvittavat tiedot ja taidot tietoturvan ylläpitämiseen.
+- Tietoturvaan liittyvät **käytännöt** ja **menettelyt** kattavat esimerkiksi tietojen käsittelyprosessit, käyttöoikeuksien hallinnan, salasanojen ja käyttäjätunnusten käytön, varmuuskopioiden säilyttämisen ja tuhoamisen
+- **Tietoturvakoulutus** on tärkeä osa organisaation tietoturvaa. Henkilöstön tietoturvakoulutus auttaa henkilöstöä ymmärtämään tietoturvaan liittyvät riskit ja antaa heille tarvittavat tiedot ja taidot tietoturvan ylläpitämiseen.
+- Tietoturva jakautuu kolmeen pääalueeseen:
+	- Luottamuksellisuus
+	- Eheys
+	- Saat
 
 ## References
 
