@@ -30,11 +30,13 @@ Date: 2026-05-05T19:28:00
 		- Luottamuksellisuus saavutetaan erilaisten teknisten prosessien avulla kuten:
 			- **Vahvat salaukset** tiedonsiirrossa ja tallennuksessa, **käyttöoikeuksien** hallinta, tietosuoja asetukset ja tietoturvakoulutus
 	- **Eheys**
+		- Eheys tarkittaa sitä, että tiedot säilyvät muuttumattomina, luotettavina ja virheettöminä
+			- Muutokset tarv
 	- **Saatavuus**
 		- Saatavuus tarkoittaa, että tietojärjestelmät, palvelut ja resurssit ovat **käytettävissä aina tarvittaessa**
 			- Saatavuuden varmistaminen tarkoittaa, että käyttäjät voivat käyttää tietojärjestelmiä ilman häiriöitä tai katkoksia
 		- Tavoitteena on estää tai minimoida **palvelunestohyökkäykset**, **tekniset vianaiheet**, **luonnonkatastrofit**, inhimilliset virheet ja muut tekijä
-			- Varmistamiseksi käytetään usein erilaisia toimenpiteitä, kuten **redundanssia**, **varmuuskopiointia**, kuormanjakoa, häiriönsietokykyä ja vikasietoisuutta
+			- Varmistamiseksi käytetään usein erilaisia toimenpiteitä, kuten **redundanssia**, **varmuuskopiointia**, **kuormanjakoa**, **häiriönsietokykyä** ja **vikasietoisuutta**
 
 ![[tietoturva_graph.png]]
 
