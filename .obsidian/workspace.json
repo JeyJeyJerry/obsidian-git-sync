@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7691810a0995209e",
+        "id": "27b9a0005e634aed",
         "type": "tabs",
         "children": [
           {
-            "id": "8300ad68ee4df565",
+            "id": "394c6cfe6aa20447",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -76,7 +76,7 @@
       {
         "id": "bc7d006aef533af8",
         "type": "tabs",
-        "dimension": 28.45911949685534,
+        "dimension": 28.459119496855344,
         "children": [
           {
             "id": "2b9b56f7f2868983",
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.51103591918945,
-    "collapsed": true
+    "width": 343.51103591918945
   },
   "right": {
     "id": "77bcd734db37ed44",
@@ -209,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,7 +221,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8300ad68ee4df565",
+  "active": "394c6cfe6aa20447",
   "lastOpenFiles": [
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H2 - Voileipä.md",
