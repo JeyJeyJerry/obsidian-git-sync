@@ -50,7 +50,9 @@ Date: 2026-05-05T19:28:00
 ![[tietoturva_graph.png]]
 
 - **AAA -prosessi**
-	- Identification - tunnistaminen. Toimija ilmoittaa identiteettinsä järjestelmälle, jolloin AA
+	- **Identification** - tunnistaminen: Toimija ilmoittaa identiteettinsä järjestelmälle, jolloin AAA -prosessi käynnistyy
+	- **Authentication** - todentaminen: Identiteetti varmennetaan sen perusteella mitä toimija tietää tai omistaa, tai mikä ominaisuus toimijalla on. Voidaan vaatia yksi tai useampi tekijä
+	- **Authorization** - valtuutus. Järjestelmä myöntää toimijalle oikeuden päästä sisään järjestelmään, käyttää resursseja, päästä käsiksi tietoihin jne
 
 ## References
 
