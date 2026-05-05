@@ -120,7 +120,7 @@ Date: 2026-05-05T19:28:00
 ![[kvali_2.png]]
 ![[kvali_3.png]]
 
-
+- Kvantitatiivinen riskianalyysi on menetelmä, jolla arvioidaan riskin toteutumisen aiheuttamat **kustannukset**
 
 ## References
 
