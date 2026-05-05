@@ -1,3 +1,6 @@
+**Class**: [[Palvelinten hallinta]]
+**Date**: 5.5.2026
+
 ## Mihin tarkoitukseen?
 
 - Päivittää käyttöjärjestelmän
@@ -5,10 +8,6 @@
 - Aentaa `Discordin` ja `Steamin` 
 
 ## Käyttöohjeet
-
-### Demo video
-
-[![Demo Video](media/demo_thumbnail.png)](media/project_demo(comp).mp4)
 
 - **Playbookin** toimimista varten täytyy olla paketit `ansible`, `git` ja `openssh-server` asennettuna
 - Paketit saa asennettua komenolla:
