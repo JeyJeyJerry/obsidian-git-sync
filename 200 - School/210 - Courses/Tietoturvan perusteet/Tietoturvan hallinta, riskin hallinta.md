@@ -80,7 +80,9 @@ Date: 2026-05-05T19:28:00
 
 ### Tietoturvan hallintakeinot
 
-- Estävät
+- Estävät (Preventive): pyrkii välttämään tapahtumaa
+- Havaitsevat (Detective): tunnistaa tapahtumaan liittyvät tiedot
+- Korjaavat (Corrective): Korjaa rikkinäisen osan järjestelmän kokonaan
 
 ## References
 
