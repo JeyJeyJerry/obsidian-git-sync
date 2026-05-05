@@ -63,7 +63,8 @@ Date: 2026-05-05T19:28:00
 
 ### Tieto-omaisuuden suojaaminen
 
-
+- Tietoturva-standardit määrittelevät vaatimukset ja suositukset tietoturvan hallinnalle ja käytännöille organisaatiossa
+- 
 
 ## References
 
