@@ -78,5 +78,9 @@ Date: 2026-05-05T19:28:00
 	- eIDAs
 	- FISMA
 
+### Tietoturvan hallintakeinot
+
+- Estävät
+
 ## References
 
