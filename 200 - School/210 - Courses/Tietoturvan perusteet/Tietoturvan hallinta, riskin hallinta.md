@@ -117,6 +117,10 @@ Date: 2026-05-05T19:28:00
 - Riskin suuruus = vakavuus * todennäköisyys
 
 ![[kvali_1.png]]
+![[kvali_2.png]]
+![[kvali_3.png]]
+
+
 
 ## References
 
