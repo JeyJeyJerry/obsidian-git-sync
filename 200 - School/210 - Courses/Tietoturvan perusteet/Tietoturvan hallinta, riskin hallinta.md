@@ -39,7 +39,8 @@ Date: 2026-05-05T19:28:00
 			- Tunkeutumisen havaitsemisjärjestelmät
 			- Salaus
 			- Tiivistetarkistukset
-			- Rajapintojen rajoitukset
+			- Rajapintojen rajoitukset, syötteiden ja funktioiden tarkistukset
+			- Tietoturvakoulutus
 	- **Saatavuus**
 		- Saatavuus tarkoittaa, että tietojärjestelmät, palvelut ja resurssit ovat **käytettävissä aina tarvittaessa**
 			- Saatavuuden varmistaminen tarkoittaa, että käyttäjät voivat käyttää tietojärjestelmiä ilman häiriöitä tai katkoksia
