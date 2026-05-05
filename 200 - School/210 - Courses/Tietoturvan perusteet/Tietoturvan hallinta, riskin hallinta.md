@@ -27,9 +27,11 @@ Date: 2026-05-05T19:28:00
 	- **Luottamuksellisuus**
 		- Luottamuksellisuudella tarkoitetaan tiedon suojaamista luvattomalta pääsyltä
 		- Tiedot ja tietojärjestelmät ovat suojattuja ja niitä pääsee käyttämään vain oikeutetut henkilöt tai järjestelmät
-		- Luottamuksellisuus saavutetaan erilaisten tekn
+		- Luottamuksellisuus saavutetaan erilaisten teknisten prosessien avulla kuten:
+			- Vahvat salaukset tiedonsiirrossa ja tallennuksessa, käyttöoikeuksien hallinta, tietosuoja asetukset ja tietoturvakoulutus
 	- **Eheys**
 	- **Saatavuus**
+		- Saatavuus tarkoit
 
 ![[tietoturva_graph.png]]
 
