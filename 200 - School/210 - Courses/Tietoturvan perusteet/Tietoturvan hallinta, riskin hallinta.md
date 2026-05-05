@@ -25,13 +25,13 @@ Date: 2026-05-05T19:28:00
 - **Tietoturvakoulutus** on tärkeä osa organisaation tietoturvaa. Henkilöstön tietoturvakoulutus auttaa henkilöstöä ymmärtämään tietoturvaan liittyvät riskit ja antaa heille tarvittavat tiedot ja taidot tietoturvan ylläpitämiseen.
 - Tietoturva jakautuu kolmeen pääalueeseen:
 	- **Luottamuksellisuus**
-		- Luottamuksellisuudella tarkoitetaan tiedon suojaamista luvattomalta pääsyltä
-		- Tiedot ja tietojärjestelmät ovat suojattuja ja niitä pääsee käyttämään vain oikeutetut henkilöt tai järjestelmät
+		- Luottamuksellisuudella tarkoitetaan tiedon suojaamista **luvattomalta pääsyltä**
+		- Tiedot ja tietojärjestelmät ovat suojattuja ja niitä pääsee käyttämään vain **oikeutetut henkilöt tai järjestelmät**
 		- Luottamuksellisuus saavutetaan erilaisten teknisten prosessien avulla kuten:
-			- Vahvat salaukset tiedonsiirrossa ja tallennuksessa, käyttöoikeuksien hallinta, tietosuoja asetukset ja tietoturvakoulutus
+			- **Vahvat salaukset** tiedonsiirrossa ja tallennuksessa, **käyttöoikeuksien** hallinta, tietosuoja asetukset ja tietoturvakoulutus
 	- **Eheys**
 	- **Saatavuus**
-		- Saatavuus tarkoit
+		- Saatavuus tarkoittaa, että tietojärjestelmät, palvelut ja resurssit ovat käytettävissä aina tarvittaessa
 
 ![[tietoturva_graph.png]]
 
