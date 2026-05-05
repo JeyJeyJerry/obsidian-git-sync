@@ -24,9 +24,13 @@ Date: 2026-05-05T19:28:00
 - Tietoturvaan liittyvät **käytännöt** ja **menettelyt** kattavat esimerkiksi tietojen käsittelyprosessit, käyttöoikeuksien hallinnan, salasanojen ja käyttäjätunnusten käytön, varmuuskopioiden säilyttämisen ja tuhoamisen
 - **Tietoturvakoulutus** on tärkeä osa organisaation tietoturvaa. Henkilöstön tietoturvakoulutus auttaa henkilöstöä ymmärtämään tietoturvaan liittyvät riskit ja antaa heille tarvittavat tiedot ja taidot tietoturvan ylläpitämiseen.
 - Tietoturva jakautuu kolmeen pääalueeseen:
-	- Luottamuksellisuus
-	- Eheys
-	- Saat
+	- **Luottamuksellisuus**
+	- **Eheys**
+	- **Saatavuus**
+
+![[tietoturva_graph.png]]
+
+
 
 ## References
 
