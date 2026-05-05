@@ -82,7 +82,9 @@ Date: 2026-05-05T19:28:00
 
 - Estävät (Preventive): pyrkii välttämään tapahtumaa
 - Havaitsevat (Detective): tunnistaa tapahtumaan liittyvät tiedot
-- Korjaavat (Corrective): Korjaa rikkinäisen osan järjestelmän kokonaan
+- Korjaavat (Corrective): Korjaa rikkinäisen osan järjestelmän kokonaan tapahtuman jälkeen
+- Varoittavat (Deterrent): pyrkii estämään haitallisen toimijan tekemästä tapahtumaa
+- Palauttavat (Recovery): pyrkii palauttamaan ympäristön nopeasti normaali tilaan tapa
 
 ## References
 
