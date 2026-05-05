@@ -87,7 +87,11 @@ Date: 2026-05-05T19:28:00
 - **Palauttavat** (Recovery): pyrkii palauttamaan ympäristön nopeasti normaali tilaan tapahtuman jälkeen
 - **Korvaavat** (Compensating): pyrkii tarjoamaan vaihtoehtoisen menetelmän
 
+### Tiedon luokittelu
 
+- Yksityisen sektorin tiedon luokittelu on aina organisaatiokohtaista:
+	- Julkinen (Public): voidaan julkaista julkisissa medioissa
+	- 
 
 ## References
 
