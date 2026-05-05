@@ -31,7 +31,8 @@ Date: 2026-05-05T19:28:00
 			- **Vahvat salaukset** tiedonsiirrossa ja tallennuksessa, **käyttöoikeuksien** hallinta, tietosuoja asetukset ja tietoturvakoulutus
 	- **Eheys**
 	- **Saatavuus**
-		- Saatavuus tarkoittaa, että tietojärjestelmät, palvelut ja resurssit ovat käytettävissä aina tarvittaessa
+		- Saatavuus tarkoittaa, että tietojärjestelmät, palvelut ja resurssit ovat **käytettävissä aina tarvittaessa**
+		- Saatavuuden varmistaminen tarkoittaa, että käyttäjät voivat käyttää tietojärjestelmiä ilman häiriöitä tai katkoksia
 
 ![[tietoturva_graph.png]]
 
