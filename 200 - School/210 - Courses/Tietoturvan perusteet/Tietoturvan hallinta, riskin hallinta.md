@@ -90,8 +90,10 @@ Date: 2026-05-05T19:28:00
 ### Tiedon luokittelu
 
 - Yksityisen sektorin tiedon luokittelu on aina organisaatiokohtaista:
-	- Julkinen (Public): voidaan julkaista julkisissa medioissa
-	- 
+	- Julkinen (Public)
+		- Voidaan julkaista julkisissa medioissa
+	- Sisäinen (Sensitive): ei haluta päästää organisaation ulkopuolelle
+	- Luottamuksellinen (Private): ei saa päästää organisaation ulkopuolelle
 
 ## References
 
