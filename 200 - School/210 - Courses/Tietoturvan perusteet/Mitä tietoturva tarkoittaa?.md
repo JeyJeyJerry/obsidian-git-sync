@@ -14,7 +14,8 @@ Date: 2026-05-05T19:28:00
 	- Tiedot ovat **saatavilla**, kun niitä tarvitaan
 	- Tiedot ovat **oikeellisia** ja **muuttumattomia**
 - Tietoturvan tavoite on suojata tärkeitä tietoja, kuten asiakirjoja, henkilötietoja ja liikesalaisuuksia
-	- Tämä saavutetaan käyttämällä esimerkiksi 
+	- Tämä saavutetaan käyttämällä esimerkiksi **salausta**, **palomuureja**, **käyttöoikeuksien hallintaa** ja **turvallisuuskoulutusta**
+- Tietoturva auttaa estämään tietojen väärinkäytö
 
 ## References
 
