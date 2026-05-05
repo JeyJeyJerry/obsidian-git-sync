@@ -33,7 +33,13 @@ Date: 2026-05-05T19:28:00
 		- Eheys tarkittaa sitä, että tiedot säilyvät muuttumattomina, luotettavina ja virheettöminä
 			- Muutokset vaativat valtuuden ja jokaisesta muutoksesta jää jälki
 		- Tarkoitus estää tietojen tahaton tai tarkoituksellinen muuttuminen, väärentäminen tai vahingoittuminen
-		- 
+		- Toimia eheyden säilyttämiseksi:
+			- Pääsyn hallinta
+			- Todentamisprosessit
+			- Tunkeutumisen havaitsemisjärjestelmät
+			- Salaus
+			- Tiivistetarkistukset
+			- Rajapintojen rajoitukset
 	- **Saatavuus**
 		- Saatavuus tarkoittaa, että tietojärjestelmät, palvelut ja resurssit ovat **käytettävissä aina tarvittaessa**
 			- Saatavuuden varmistaminen tarkoittaa, että käyttäjät voivat käyttää tietojärjestelmiä ilman häiriöitä tai katkoksia
