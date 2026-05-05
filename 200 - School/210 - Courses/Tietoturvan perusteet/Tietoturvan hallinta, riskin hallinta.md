@@ -64,7 +64,11 @@ Date: 2026-05-05T19:28:00
 ### Tieto-omaisuuden suojaaminen
 
 - Tietoturva-standardit määrittelevät vaatimukset ja suositukset tietoturvan hallinnalle ja käytännöille organisaatiossa
-- 
+- Tietoturvassa on paljon standardeja kuten esimerkiksi:
+	- ISO/IEC 27000 Standardiperhe (ISO/IEC 27001 ja ISO/IEC 27002)
+	- NIST Cybersecurity Framework: Yhdysvaltain National Institute of Standards and Technology (NIST)
+	- PCI DSS: Payment Card Industry Data Security Standard (PCI DSS)
+	- 
 
 ## References
 
