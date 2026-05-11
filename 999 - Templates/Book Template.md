@@ -1,12 +1,11 @@
 ---
 cover: "[[]]"
-Authors:
-Published:
-Started:
-Finished:
-Rating:
-Tags:
-  - book
+tag: book
+authors:
+published:
+started:
+finished:
+rating:
 Goodreads:
 ---
 
