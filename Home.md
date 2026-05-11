@@ -5,7 +5,9 @@ cssclasses:
 
 ## Books
 
-This is a linked image[![[yourimagename.png]]](<TITLE OF THE NOTE>)
+- Reading
+	- [[Dune]]
+- 
 
 ## School
 
