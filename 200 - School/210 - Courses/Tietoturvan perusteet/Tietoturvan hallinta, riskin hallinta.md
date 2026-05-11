@@ -1,6 +1,6 @@
 ---
 Class: "[[Tietoturvan perusteet]]"
-Date: 2026-05-05T19:28:00
+Date: 05-05-2026
 ---
 
 ## Notes

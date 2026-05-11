@@ -7,7 +7,7 @@ started:
 finished:
 pages:
 rating:
-Goodreads:
+goodreads:
 ---
 
 ## Summary
