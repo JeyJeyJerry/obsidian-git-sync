@@ -2,9 +2,9 @@
 cover: "[[]]"
 tag: book
 authors:
-published: {{date:DD-MM-YYYY}}
-started: {{date:DD-MM-YYYY}}
-finished: {{date:DD-MM-YYYY}}
+published: 11-05-2026
+started: 11-05-2026
+finished: 11-05-2026
 pages:
 rating:
 Goodreads:
