@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "9d433b5614382d69",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0ac672311e40f5db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-git-sync/999 - Templates/Book 2.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Book 2"
-            }
-          }
-        ]
-      },
-      {
         "id": "feea1042d8596a79",
         "type": "tabs",
         "children": [
@@ -43,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/999 - Templates/Book Template.md",
-                "mode": "source",
+                "file": "obsidian-git-sync/300 - Books/book.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -58,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Book Template"
+              "title": "book"
             }
           }
         ]
@@ -252,8 +222,9 @@
   },
   "active": "10d9556124483572",
   "lastOpenFiles": [
-    "obsidian-git-sync/999 - Templates/Book 2.md",
     "obsidian-git-sync/999 - Templates/Book Template.md",
+    "obsidian-git-sync/300 - Books/book.md",
+    "obsidian-git-sync/999 - Templates/Book 2.md",
     "Frank Herbert's Dune - Kara Kennedy.md",
     "The Great Gatsby - F Scott Fitzgerald.md",
     "Simo Häyhä - Tapio Saarelainen.md",
@@ -287,7 +258,6 @@
     "obsidian-git-sync/999 - Templates/Chapter Template.md",
     "obsidian-git-sync/400 - Daily Notes/2026.04.22.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn historia.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_1.png",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_10.png",
