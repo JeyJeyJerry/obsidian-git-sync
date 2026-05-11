@@ -1,5 +1,7 @@
-**Class**: [[Palvelinten hallinta]]
-**Date**: 5.5.2026
+---
+class: "[[Palvelinten hallinta]]"
+date: 05-05-2026
+---
 
 ## Mihin tarkoitukseen?
 
