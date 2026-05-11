@@ -11,10 +11,24 @@
             "id": "0ac672311e40f5db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/999 - Templates/Book 2.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Book 2"
             }
           }
         ]
@@ -206,8 +220,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "2c395ac0a9a17361",
+  "active": "0ac672311e40f5db",
   "lastOpenFiles": [
+    "obsidian-git-sync/999 - Templates/Book Template.md",
+    "obsidian-git-sync/999 - Templates/Book 2.md",
     "Frank Herbert's Dune - Kara Kennedy.md",
     "The Great Gatsby - F Scott Fitzgerald.md",
     "Simo Häyhä - Tapio Saarelainen.md",
@@ -217,7 +233,6 @@
     "Media DB",
     "obsidian-git-sync/999 - Templates/book2.md",
     "obsidian-git-sync/999 - Templates/book2.md",
-    "obsidian-git-sync/999 - Templates/Book Template.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H6 - Ansible Gaming Setup (project).md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H5 - Gitar Hero.md",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan perusteet.md",
@@ -243,7 +258,6 @@
     "obsidian-git-sync/400 - Daily Notes/2026.04.22.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn historia.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_1.png",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_10.png",
