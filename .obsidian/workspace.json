@@ -11,13 +11,24 @@
             "id": "452f550b8f665b9d",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/300 - Books/Book view.base",
-                "viewName": "Table"
+                "file": "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 1.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "Book view"
+              "icon": "lucide-file",
+              "title": "Book 1, chapter 1"
             }
           }
         ]
@@ -230,8 +241,9 @@
   },
   "active": "452f550b8f665b9d",
   "lastOpenFiles": [
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/300 - Books/Book view.base",
+    "obsidian-git-sync/300 - Books/Dune/Dune.md",
+    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Toiminnan periaate.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tiedon esitys tietokoneessa.md",
@@ -255,7 +267,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H4 - Pizza Fantasia.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H2 - Voileipä.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H1 - Hei Ansiblen maailma.md",
     "Media DB/books",
     "Media DB",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Attachments/kvali_3.png",
