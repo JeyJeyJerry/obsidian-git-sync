@@ -5,7 +5,7 @@
   "content": "",
   "useDefaultFrontmatter": true,
   "defaultFrontmatterKeyType": "Camel Case",
-  "templateFile": "",
+  "templateFile": "obsidian-git-sync/999 - Templates/book2.md",
   "serviceProvider": "google",
   "naverClientId": "",
   "naverClientSecret": "",
