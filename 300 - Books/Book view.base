@@ -7,4 +7,9 @@ views:
         - '!file.name.contains("chapter")'
         - '!file.name.contains("png")'
         - '!file.name.contains("base")'
+    order:
+      - file.name
+      - authors
     image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.5
