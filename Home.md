@@ -5,7 +5,7 @@ cssclasses:
 
 ## Books
 
-- [[dune_cover.png]]
+- ![[Dune]] [[dune_cover.png]]
 
 ## School
 
