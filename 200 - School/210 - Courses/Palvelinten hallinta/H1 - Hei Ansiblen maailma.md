@@ -1,5 +1,7 @@
-**Class**: [[Palvelinten hallinta]]
-**Date**: 31.03.2026
+---
+class: [[Palvelinten hallinta]]
+date: 31-03-2026
+---
 
 ## Tiivistelmät
 
