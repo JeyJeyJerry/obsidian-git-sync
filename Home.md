@@ -6,6 +6,8 @@ cssclasses:
 ## School
 
 - 2025K
+	- [[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]
+- 2026K
 	- 
 
 ## Vault Info
