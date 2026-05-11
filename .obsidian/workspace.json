@@ -11,24 +11,13 @@
             "id": "452f550b8f665b9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "obsidian-git-sync/300 - Books/Book view.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Johdanto ICT-infrastruktuuriin ja pilvipalveluihin"
+              "icon": "lucide-table",
+              "title": "Book view"
             }
           }
         ]
@@ -235,11 +224,14 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "bases:Create new base": false
     }
   },
-  "active": "452f550b8f665b9d",
+  "active": "2c395ac0a9a17361",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
+    "obsidian-git-sync/300 - Books/Book view.base",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Toiminnan periaate.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tiedon esitys tietokoneessa.md",
@@ -256,7 +248,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU moniydin, hyperthreading.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Cache.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan perusteet.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Palvelinten hallinta.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H6 - Ansible Gaming Setup (project).md",
@@ -265,7 +256,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H2 - Voileipä.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H1 - Hei Ansiblen maailma.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
     "Media DB/books",
     "Media DB",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Attachments/kvali_3.png",
@@ -284,7 +274,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_7.png",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Untitled.base",
     "obsidian-git-sync/100 - Index/Attachments",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h5",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h4"
+    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h5"
   ]
 }
