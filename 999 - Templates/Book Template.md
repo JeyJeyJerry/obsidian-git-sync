@@ -2,7 +2,7 @@
 cover: "[[]]"
 tag: book
 authors:
-published:
+published: 
 started:
 finished:
 pages:

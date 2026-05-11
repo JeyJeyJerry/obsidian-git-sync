@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/300 - Books/book.md",
-                "mode": "preview",
+                "file": "obsidian-git-sync/999 - Templates/Book Template.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "book"
+              "title": "Book Template"
             }
           }
         ]
