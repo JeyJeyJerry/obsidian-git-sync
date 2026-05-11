@@ -11,24 +11,10 @@
             "id": "60eae84bdbc260b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-git-sync/Homepage - Jerry Sjövall.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage - Jerry Sjövall"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -241,9 +227,9 @@
   },
   "active": "60eae84bdbc260b0",
   "lastOpenFiles": [
+    "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/100 - Index/Attachments/gruvbox_colors.png",
     "obsidian-git-sync/100 - Index/Attachments/orange.png",
-    "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/README.md",
     "obsidian-git-sync/Untitled.md",
@@ -283,7 +269,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_10.png",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_9.png",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_8.png",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Untitled.base",
     "obsidian-git-sync/100 - Index/Attachments",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h5"
