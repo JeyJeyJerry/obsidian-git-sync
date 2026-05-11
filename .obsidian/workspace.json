@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3698af1dcf83179a",
+        "id": "9d433b5614382d69",
         "type": "tabs",
         "children": [
           {
-            "id": "99dbd2b53daede2c",
+            "id": "0ac672311e40f5db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Great Gatsby - F Scott Fitzgerald.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Great Gatsby - F Scott Fitzgerald"
+              "title": "New tab"
             }
           }
         ]
@@ -220,8 +206,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "99dbd2b53daede2c",
+  "active": "2c395ac0a9a17361",
   "lastOpenFiles": [
+    "Frank Herbert's Dune - Kara Kennedy.md",
     "The Great Gatsby - F Scott Fitzgerald.md",
     "Simo Häyhä - Tapio Saarelainen.md",
     "Media DB/books/Dune Messiah (1969).md",
@@ -257,7 +244,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn historia.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H3 - Demoni.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H1 - Hei Ansiblen maailma.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_1.png",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_10.png",
