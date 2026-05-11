@@ -2,7 +2,6 @@
 cssclasses:
   - dashboard
 ---
-<div class="title" style="color:white">HOME</div>
 
 # Family
 - 🏈 Sunday Game
