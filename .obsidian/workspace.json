@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/300 - Books/book.md",
-                "mode": "preview",
+                "file": "obsidian-git-sync/999 - Templates/Book Template.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "book"
+              "title": "Book Template"
             }
           }
         ]
@@ -240,9 +240,8 @@
   },
   "active": "ed2d0fcfc8613801",
   "lastOpenFiles": [
+    "obsidian-git-sync/300 - Books/book.md",
     "obsidian-git-sync/999 - Templates/Book Template.md",
-    "obsidian-git-sync/300 - Books/book.md",
-    "obsidian-git-sync/300 - Books/book.md",
     "obsidian-git-sync/999 - Templates/Book 2.md",
     "Frank Herbert's Dune - Kara Kennedy.md",
     "The Great Gatsby - F Scott Fitzgerald.md",

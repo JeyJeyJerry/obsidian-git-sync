@@ -1,6 +1,6 @@
 ---
 cover: "[[]]"
-tag: book
+tags: book
 authors:
 published: {{date:DD-MM-YYYY}}
 started: {{date:DD-MM-YYYY}}
