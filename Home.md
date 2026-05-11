@@ -10,7 +10,9 @@ cssclasses:
 - Want to Read:
 	- [[Dune Messiah]]
 	- [[Children of Dune]]
-	- 
+	- [[God emperor of Dune]]
+	- [[Heretics of Dune]]
+	- [[Chapterhouse: Dune]]
 - Read:
 
 ## School
