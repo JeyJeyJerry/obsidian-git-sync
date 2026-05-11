@@ -8,7 +8,8 @@ cssclasses:
 - 2025K
 	- [[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]
 - 2026K
-	- 
+	- [[Palvelinten hallinta]]
+	- [[Tietoturvan perusteet]]
 
 ## Vault Info
 
