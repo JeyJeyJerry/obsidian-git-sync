@@ -32,6 +32,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "feea1042d8596a79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10d9556124483572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/999 - Templates/Book Template.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Book Template"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
