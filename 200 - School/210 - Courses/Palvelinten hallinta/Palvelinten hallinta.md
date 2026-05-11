@@ -1,4 +1,6 @@
-**Tag**: #course 
+---
+tags: course
+---
 
 ## Tehtävät
 
