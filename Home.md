@@ -5,7 +5,7 @@ cssclasses:
 
 ## Books
 
-- [![[dune_cover.png]]](<Dune>)
+This is a linked image[![[yourimagename.png]]](<TITLE OF THE NOTE>)
 
 ## School
 
