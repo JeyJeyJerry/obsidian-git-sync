@@ -1,6 +1,7 @@
 {
   "hiddenProperties": [
-    "cover"
+    "cover",
+    "cssclasses"
   ],
   "propertyPillColors": {},
   "propertyLongtextColors": {
