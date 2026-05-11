@@ -4,7 +4,7 @@
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
-    "iconColor": null,
+    "iconColor": "#d79921",
     "recentlyUsedIcons": [
       "LiHome",
       "LiVault",
@@ -21,8 +21,8 @@
       "left": 0
     },
     "iconInTabsEnabled": true,
-    "iconInTitleEnabled": false,
-    "iconInTitlePosition": "above",
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
