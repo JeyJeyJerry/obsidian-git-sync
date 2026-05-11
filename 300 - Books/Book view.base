@@ -4,3 +4,5 @@ views:
     filters:
       and:
         - file.folder.contains("obsidian-git-sync/300 - Books")
+        - '!file.name.contains("chapter")'
+        - '!file.name.contains("png")'
