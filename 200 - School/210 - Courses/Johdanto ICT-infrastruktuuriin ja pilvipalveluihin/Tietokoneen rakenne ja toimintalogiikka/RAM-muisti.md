@@ -1,5 +1,7 @@
-**Class**: [[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]
-**Date**: 29.03.2025
+---
+class: "[[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]"
+date: 29-03-2025
+---
 
 - RAM-muisti on muistimoduuleilla. Muistimoduulit asennetaan emolevyn kantoihin.
 - Pöytäkoneet käyttävät DIMM - ja kannettavat koneet SO-DIMM moduuleja.

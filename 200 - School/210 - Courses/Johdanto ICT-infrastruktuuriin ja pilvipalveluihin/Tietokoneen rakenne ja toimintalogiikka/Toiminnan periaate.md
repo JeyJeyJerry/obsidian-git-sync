@@ -1,5 +1,7 @@
-**Class**: [[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]
-**Date**: 23.03.2025
+---
+class: "[[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]"
+date: 23-03-2025
+---
 
 - Samat periaatteet pätevät kaikkiin tietokoneisiin.
 - **CPU** (prosessori): ajaa ohjelmia. Tekee suurimman osan työstä ja kontrolloi muita osia.
