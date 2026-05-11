@@ -1,5 +1,7 @@
-**Class**: [[Palvelinten hallinta]]
-**Date**: 14.4.2026
+---
+class: "[[Palvelinten hallinta]]"
+date: 14-04-2026
+---
 
 ## Tiivistelmät
 

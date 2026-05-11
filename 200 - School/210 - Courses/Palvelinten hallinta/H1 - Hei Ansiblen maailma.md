@@ -1,5 +1,5 @@
 ---
-class: [[Palvelinten hallinta]]
+class: "[[Palvelinten hallinta]]"
 date: 31-03-2026
 ---
 
