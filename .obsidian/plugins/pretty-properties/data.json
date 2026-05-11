@@ -68,7 +68,7 @@
   "customDateFormat": "DD-MM-YYYY",
   "customDateTimeFormat": "DD-MM-YYYY HH:mm",
   "enableCustomDateFormat": true,
-  "enableCustomDateFormatInBases": false,
+  "enableCustomDateFormatInBases": true,
   "enableRelativeDateColors": false,
   "settingsTab": "DATES",
   "enableTaskNotesCount": false,
