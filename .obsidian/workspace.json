@@ -11,10 +11,24 @@
             "id": "99dbd2b53daede2c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The Great Gatsby - F Scott Fitzgerald.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Great Gatsby - F Scott Fitzgerald"
             }
           }
         ]
@@ -29,7 +43,6 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
-        "dimension": 71.54088050314466,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -69,23 +82,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bc7d006aef533af8",
-        "type": "tabs",
-        "dimension": 28.459119496855347,
-        "children": [
-          {
-            "id": "2b9b56f7f2868983",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -224,8 +220,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "2b9b56f7f2868983",
+  "active": "99dbd2b53daede2c",
   "lastOpenFiles": [
+    "The Great Gatsby - F Scott Fitzgerald.md",
+    "Simo Häyhä - Tapio Saarelainen.md",
     "Media DB/books/Dune Messiah (1969).md",
     "Media DB/books/Dune (1965).md",
     "Media DB/books",
@@ -260,8 +258,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H3 - Demoni.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H1 - Hei Ansiblen maailma.md",
-    "obsidian-git-sync/100 - Index/Games To Play.md",
-    "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_1.png",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_10.png",
