@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5ed27eeb9f7ed50f",
+        "id": "0a6bd337f0cd502b",
         "type": "tabs",
         "children": [
           {
-            "id": "ce4e5154682c085a",
+            "id": "ad03abdef6ad885c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/Homepage - Jerry Sjövall.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage - Jerry Sjövall"
             }
           }
         ]
@@ -225,7 +239,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "ce4e5154682c085a",
+  "active": "ad03abdef6ad885c",
   "lastOpenFiles": [
     "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/100 - Index/Attachments/sakamoto.png",
