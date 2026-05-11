@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c393a527bd57a04",
+        "id": "3698af1dcf83179a",
         "type": "tabs",
         "children": [
           {
-            "id": "ed58a7ed670fa718",
+            "id": "99dbd2b53daede2c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,7 +29,7 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
-        "dimension": 71.54088050314466,
+        "dimension": 71.54088050314465,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -76,7 +76,7 @@
       {
         "id": "bc7d006aef533af8",
         "type": "tabs",
-        "dimension": 28.459119496855347,
+        "dimension": 28.45911949685534,
         "children": [
           {
             "id": "2b9b56f7f2868983",
@@ -221,14 +221,13 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-media-db-plugin:Add new Media DB entry": false
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "2c395ac0a9a17361",
+  "active": "2b9b56f7f2868983",
   "lastOpenFiles": [
-    "Media DB/books/Dune (1965).md",
     "Media DB/books/Dune Messiah (1969).md",
+    "Media DB/books/Dune (1965).md",
     "Media DB/books",
     "Media DB",
     "obsidian-git-sync/999 - Templates/book2.md",

@@ -13,7 +13,7 @@
   "apiKey": "",
   "openPageOnCompletion": true,
   "showCoverImageInSearch": true,
-  "enableCoverImageSave": true,
+  "enableCoverImageSave": false,
   "enableCoverImageEdgeCurl": false,
   "coverImagePath": "",
   "askForLocale": false
