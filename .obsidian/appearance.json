@@ -5,6 +5,7 @@
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "accentColor": "",
   "enabledCssSnippets": [
-    "dashboard"
+    "dashboard",
+    "dashboard-ReadLineLength"
   ]
 }
