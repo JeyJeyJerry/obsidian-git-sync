@@ -1,7 +1,8 @@
 {
   "hiddenProperties": [
     "cover",
-    "cssclasses"
+    "cssclasses",
+    "banner"
   ],
   "propertyPillColors": {},
   "propertyLongtextColors": {

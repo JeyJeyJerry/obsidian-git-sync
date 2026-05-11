@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - dashboard
-banner: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.nintendolife.com%2Fscreenshots%2F139264%2Flarge.jpg&f=1&nofb=1&ipt=7b61ad2059d4afd2b8eb8e3cca6635bb4adb8469e1692e76a8a73e7fd9857ca7
+banner: https://images2.alphacoders.com/927/thumb-1920-927821.png
 ---
 
 ## Books
