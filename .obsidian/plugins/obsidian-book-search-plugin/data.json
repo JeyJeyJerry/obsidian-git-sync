@@ -12,9 +12,9 @@
   "localePreference": "default",
   "apiKey": "",
   "openPageOnCompletion": true,
-  "showCoverImageInSearch": true,
+  "showCoverImageInSearch": false,
   "enableCoverImageSave": false,
   "enableCoverImageEdgeCurl": true,
   "coverImagePath": "",
-  "askForLocale": true
+  "askForLocale": false
 }
