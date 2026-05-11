@@ -13,6 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "obsidian-git-sync/Untitled.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2d8c206ef59fcf07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1908899afc12e37c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "obsidian-git-sync/Home.md",
                 "mode": "source",
                 "source": true,
@@ -242,6 +272,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "obsidian-git-sync/Home.md",
+    "obsidian-git-sync/Untitled.md",
     "obsidian-git-sync/100 - Index/Games To Play.md",
     "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 1.md",
     "obsidian-git-sync/300 - Books/Book view.base",
@@ -267,7 +298,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Palvelinten hallinta.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H6 - Ansible Gaming Setup (project).md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H5 - Gitar Hero.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H4 - Pizza Fantasia.md",
     "Media DB/books",
     "Media DB",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Attachments/kvali_3.png",
