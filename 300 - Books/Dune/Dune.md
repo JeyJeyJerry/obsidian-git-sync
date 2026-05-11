@@ -2,11 +2,12 @@
 cover: "[[dune_cover.png]]"
 tags: book
 authors: Frank Patrick Herbert
-Published: 01-06-1965
-Started: 20-4-2026
-Finished:
-Rating:
-Goodreads: https://www.goodreads.com/book/show/25772375-dune
+published: 01-06-1965
+started: 20-04-2026
+finished:
+pages: 577
+rating:
+goodreads: https://www.goodreads.com/book/show/25772375-dune
 ---
 
 ## Summary
