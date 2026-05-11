@@ -8,13 +8,13 @@ cssclasses:
 - Reading:
 	- [[Dune]]
 - Want to Read:
-- Read:`
+- Read:
 
 ## School
 
-- 2025K
+- 2025K:
 	- [[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]
-- 2026K
+- 2026K:
 	- [[Palvelinten hallinta]]
 	- [[Tietoturvan perusteet]]
 
