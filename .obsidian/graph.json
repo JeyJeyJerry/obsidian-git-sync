@@ -1,11 +1,11 @@
 {
   "collapse-filter": true,
   "search": "-path:Templates",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#book  ",
@@ -40,5 +40,5 @@
   "linkStrength": 0,
   "linkDistance": 250,
   "scale": 0.6906395020147839,
-  "close": false
+  "close": true
 }

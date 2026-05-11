@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6c47e0c1f55a09ee",
+        "id": "5ed27eeb9f7ed50f",
         "type": "tabs",
         "children": [
           {
-            "id": "60eae84bdbc260b0",
+            "id": "ce4e5154682c085a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/Homepage - Jerry Sjövall.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage - Jerry Sjövall"
             }
           }
         ]
@@ -225,7 +239,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "60eae84bdbc260b0",
+  "active": "ce4e5154682c085a",
   "lastOpenFiles": [
     "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/100 - Index/Attachments/gruvbox_colors.png",
