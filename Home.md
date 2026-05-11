@@ -12,3 +12,4 @@ cssclasses:
 
 - Stats:
 	-  File Count: `$=dv.pages().length`
+	-  Daily Notes: `$=dv.pages('"obsidian-git-sync/400 - Daily notes"').length`
