@@ -84,19 +84,8 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "9dd982c49aa8365e",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "0ac19327f72a1e48",
@@ -252,7 +241,7 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "9dd982c49aa8365e",
+  "active": "2c395ac0a9a17361",
   "lastOpenFiles": [
     "obsidian-git-sync/Home.md",
     "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 1.md",
