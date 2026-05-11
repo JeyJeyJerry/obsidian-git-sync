@@ -11,24 +11,10 @@
             "id": "ce4e5154682c085a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-git-sync/Homepage - Jerry Sjövall.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage - Jerry Sjövall"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -241,9 +227,9 @@
   },
   "active": "ce4e5154682c085a",
   "lastOpenFiles": [
+    "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/100 - Index/Attachments/sakamoto.png",
     "obsidian-git-sync/Attachments",
-    "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/100 - Index/Attachments/gruvbox_colors.png",
     "obsidian-git-sync/100 - Index/Attachments/orange.png",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
@@ -284,7 +270,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_1.png",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_10.png",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_9.png",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Untitled.base",
     "obsidian-git-sync/100 - Index/Attachments"
   ]
