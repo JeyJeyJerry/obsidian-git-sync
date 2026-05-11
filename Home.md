@@ -8,6 +8,9 @@ cssclasses:
 - Reading:
 	- [[Dune]]
 - Want to Read:
+	- [[Dune Messiah]]
+	- [[Children of Dune]]
+	- 
 - Read:
 
 ## School
