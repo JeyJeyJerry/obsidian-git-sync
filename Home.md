@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - dashboard
-iconColor: #d79921
 ---
 
 ## Books
