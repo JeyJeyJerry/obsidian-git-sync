@@ -5,9 +5,10 @@ cssclasses:
 
 ## Books
 
-- Reading
+- Reading:
 	- [[Dune]]
-- 
+- Want to Read:
+- Read:`
 
 ## School
 
