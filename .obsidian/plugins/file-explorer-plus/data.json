@@ -2,22 +2,8 @@
   "hideStrictPathFilters": true,
   "pinFilters": {
     "active": true,
-    "tags": [
-      {
-        "name": "",
-        "active": true,
-        "pattern": "",
-        "patternType": "STRICT"
-      }
-    ],
+    "tags": [],
     "paths": [
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES_AND_DIRECTORIES",
-        "pattern": "",
-        "patternType": "WILDCARD"
-      },
       {
         "name": "",
         "active": true,
@@ -26,43 +12,12 @@
         "patternType": "STRICT"
       }
     ],
-    "frontMatter": [
-      {
-        "name": "",
-        "active": true,
-        "path": "",
-        "pattern": "",
-        "patternType": "STRICT"
-      }
-    ]
+    "frontMatter": []
   },
   "hideFilters": {
     "active": true,
-    "tags": [
-      {
-        "name": "",
-        "active": true,
-        "pattern": "",
-        "patternType": "STRICT"
-      }
-    ],
-    "paths": [
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES_AND_DIRECTORIES",
-        "pattern": "",
-        "patternType": "WILDCARD"
-      }
-    ],
-    "frontMatter": [
-      {
-        "name": "",
-        "active": true,
-        "path": "",
-        "pattern": "",
-        "patternType": "STRICT"
-      }
-    ]
+    "tags": [],
+    "paths": [],
+    "frontMatter": []
   }
 }
