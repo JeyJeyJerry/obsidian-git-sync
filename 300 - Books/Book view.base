@@ -1,8 +1,10 @@
 views:
-  - type: table
+  - type: cards
     name: Table
     filters:
       and:
         - file.folder.contains("obsidian-git-sync/300 - Books")
         - '!file.name.contains("chapter")'
         - '!file.name.contains("png")'
+        - '!file.name.contains("base")'
+    image: note.cover

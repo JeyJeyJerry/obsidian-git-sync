@@ -16,7 +16,7 @@
                 "file": "obsidian-git-sync/300 - Books/Book view.base",
                 "viewName": "Table"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-layout-grid",
               "title": "Book view"
             }
           }
@@ -228,7 +228,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "2c395ac0a9a17361",
+  "active": "452f550b8f665b9d",
   "lastOpenFiles": [
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/300 - Books/Book view.base",
