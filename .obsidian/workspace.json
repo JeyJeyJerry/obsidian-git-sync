@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "a3fad7f6e2ee71c4",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "6f3585328d081d58",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/Home.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -225,7 +239,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "2c395ac0a9a17361",
+  "active": "6f3585328d081d58",
   "lastOpenFiles": [
     "obsidian-git-sync/Home.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
