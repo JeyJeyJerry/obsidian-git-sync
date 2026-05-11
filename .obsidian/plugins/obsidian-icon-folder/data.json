@@ -23,7 +23,7 @@
     "iconInTabsEnabled": true,
     "iconInTitleEnabled": true,
     "iconInTitlePosition": "inline",
-    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterEnabled": true,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsBackgroundCheckEnabled": false,
@@ -39,6 +39,5 @@
   "obsidian-git-sync/300 - Books": "LiBookMarked",
   "obsidian-git-sync/400 - Daily Notes": "LiCalendarDays",
   "obsidian-git-sync/999 - Templates": "LiBookTemplate",
-  "obsidian-git-sync": "LiVault",
-  "obsidian-git-sync/Home.md": "LiHome"
+  "obsidian-git-sync": "LiVault"
 }
