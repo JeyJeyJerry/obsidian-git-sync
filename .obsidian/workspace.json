@@ -11,10 +11,24 @@
             "id": "ed58a7ed670fa718",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/999 - Templates/book2.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "book2"
             }
           }
         ]
@@ -227,6 +241,7 @@
   "active": "ed58a7ed670fa718",
   "lastOpenFiles": [
     "obsidian-git-sync/999 - Templates/book2.md",
+    "obsidian-git-sync/999 - Templates/book2.md",
     "obsidian-git-sync/999 - Templates/Book Template.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H6 - Ansible Gaming Setup (project).md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/H5 - Gitar Hero.md",
@@ -265,7 +280,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_9.png",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_8.png",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_7.png",
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Untitled.base",
     "obsidian-git-sync/100 - Index/Attachments",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h5",
