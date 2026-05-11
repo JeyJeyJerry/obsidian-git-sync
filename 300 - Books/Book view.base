@@ -3,4 +3,4 @@ views:
     name: Table
     filters:
       and:
-        - file.folder.contains("chapter")
+        - file.folder.contains("obsidian-git-sync/300 - Books")
