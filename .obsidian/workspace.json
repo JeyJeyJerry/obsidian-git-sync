@@ -221,11 +221,15 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
   "active": "2c395ac0a9a17361",
   "lastOpenFiles": [
+    "Media DB/books/Dune (1965).md",
+    "Media DB/books",
+    "Media DB",
     "obsidian-git-sync/999 - Templates/book2.md",
     "obsidian-git-sync/999 - Templates/book2.md",
     "obsidian-git-sync/999 - Templates/Book Template.md",
@@ -259,7 +263,6 @@
     "obsidian-git-sync/100 - Index/Games To Play.md",
     "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
     "obsidian-git-sync/100 - Index/test.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_1.png",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_10.png",
@@ -269,8 +272,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Untitled.base",
     "obsidian-git-sync/100 - Index/Attachments",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h5",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h4",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h3",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h2"
+    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h4"
   ]
 }
