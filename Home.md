@@ -3,6 +3,10 @@ cssclasses:
   - dashboard
 ---
 
+## Books
+
+- [[Dune]]
+
 ## School
 
 - 2025K
