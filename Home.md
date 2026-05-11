@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - dashboard
+banner: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp9823261.png&f=1&nofb=1&ipt=c69c555e470508baecbe08b07fec4827a44fade78d85a618c8ed7ca72905bd49"
 ---
 
 ## Books
