@@ -10,6 +10,13 @@
         "type": "FILES",
         "pattern": "obsidian-git-sync/Home.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "obsidian-git-sync/README.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": []
