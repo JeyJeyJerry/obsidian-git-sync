@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - dashboard
-banner: https://images2.alphacoders.com/927/thumb-1920-927821.png
+banner: "[[orange.png]]"
 ---
 
 ## Books
