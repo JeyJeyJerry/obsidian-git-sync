@@ -3,5 +3,8 @@
   "cssTheme": "Obsidian gruvbox",
   "baseFontSize": 18,
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "dashboard"
+  ]
 }
