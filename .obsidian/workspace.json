@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "26e7876a43832348",
+        "id": "ec8f396f34b9025f",
         "type": "tabs",
         "children": [
           {
-            "id": "fe9659a8d3d58681",
+            "id": "563fa17bae91afdb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/Home.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Home"
             }
           }
         ]
@@ -222,12 +236,10 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "bases:Create new base": false,
-      "notebook-navigator:Notebook Navigator": false
+      "bases:Create new base": false
     }
   },
-  "active": "2c395ac0a9a17361",
+  "active": "563fa17bae91afdb",
   "lastOpenFiles": [
     "obsidian-git-sync/100 - Index/Games To Play.md",
     "obsidian-git-sync/Home.md",
