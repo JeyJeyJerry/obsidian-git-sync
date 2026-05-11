@@ -3,10 +3,10 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "published": "date",
+    "published": "text",
     "Author": "multitext",
-    "Started": "date",
-    "Finished": "date",
+    "Started": "text",
+    "Finished": "text",
     "Rating": "text",
     "cover": "text",
     "Date": "text"

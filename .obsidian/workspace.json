@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/999 - Templates/Class Template.md",
+                "file": "obsidian-git-sync/999 - Templates/Book Template.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,37 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Class Template"
+              "title": "Book Template"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a5b4e913a138332d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "452f550b8f665b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/300 - Books/Dune/Dune.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dune"
             }
           }
         ]
@@ -238,15 +268,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ed2d0fcfc8613801",
+  "active": "452f550b8f665b9d",
   "lastOpenFiles": [
+    "obsidian-git-sync/999 - Templates/Book Template.md",
+    "obsidian-git-sync/999 - Templates/Chapter Template.md",
+    "obsidian-git-sync/999 - Templates/Class Template.md",
     "obsidian-git-sync/999 - Templates/Daily Note Template.md",
     "obsidian-git-sync/400 - Daily Notes/22-4-2026.md",
     "obsidian-git-sync/400 - Daily Notes/11-05-2026.md",
     "obsidian-git-sync/999 - Templates/Book 2.md",
-    "obsidian-git-sync/999 - Templates/Book Template.md",
-    "obsidian-git-sync/999 - Templates/Chapter Template.md",
-    "obsidian-git-sync/999 - Templates/Class Template.md",
     "obsidian-git-sync/300 - Books/book.md",
     "Frank Herbert's Dune - Kara Kennedy.md",
     "The Great Gatsby - F Scott Fitzgerald.md",
