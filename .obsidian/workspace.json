@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/Home.md",
+                "file": "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Gruvbox color palette"
             }
           }
         ]
@@ -241,8 +241,8 @@
   },
   "active": "6f3585328d081d58",
   "lastOpenFiles": [
-    "obsidian-git-sync/README.md",
     "obsidian-git-sync/Home.md",
+    "obsidian-git-sync/README.md",
     "obsidian-git-sync/Untitled.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/100 - Index/Games To Play.md",
