@@ -14,7 +14,7 @@
   "openPageOnCompletion": true,
   "showCoverImageInSearch": false,
   "enableCoverImageSave": false,
-  "enableCoverImageEdgeCurl": true,
+  "enableCoverImageEdgeCurl": false,
   "coverImagePath": "",
   "askForLocale": false
 }
