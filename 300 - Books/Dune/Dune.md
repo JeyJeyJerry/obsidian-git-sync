@@ -5,7 +5,7 @@ authors: Frank Patrick Herbert
 published: 01-06-1965
 started: 20-04-2026
 finished:
-pages: 577
+pages: "577"
 rating:
 goodreads: https://www.goodreads.com/book/show/25772375-dune
 ---

@@ -9,6 +9,7 @@
     "Finished": "text",
     "Rating": "text",
     "cover": "text",
-    "Date": "text"
+    "Date": "text",
+    "pages": "text"
   }
 }
