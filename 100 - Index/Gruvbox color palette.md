@@ -26,7 +26,7 @@
 - bg4: `#7c6f64`
 - gray (alt): `#928374`
 - orange (dark): `#d65d0e`
-
+---
 - bg0_s: `#32302f`
 - fg4: `#a89984`
 - fg3: `#bdae93`
