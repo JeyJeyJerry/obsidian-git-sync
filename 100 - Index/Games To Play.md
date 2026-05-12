@@ -1,7 +1,7 @@
-- [ ] Dishonored trilogy
-	- [ ] Dishonored
-	- [ ] Dishonored 2
-	- [ ] Dishonored Death of the Outsider
+- [x] Dishonored trilogy
+	- [x] Dishonored
+	- [x] Dishonored 2
+	- [x] Dishonored Death of the Outsider
 - [ ] Elden ring
 - [ ] Misc. indie games
 - [ ] Fallout series
@@ -19,7 +19,12 @@
 	- [ ] Oblivion
 	- [ ] Morrowind
 - [ ] Bioshock series
-	- [ ] Bios
-- [ ] Persona 5
+	- [ ] Bioshock
+	- [ ] Bioshock 2
+	- [ ] Bioshock infinite
+- [ ] Persona series
+	- [ ] Persona 5 royal
+	- [ ] Persona 4 golden
+	- [ ] Persona 3 reload
 - [ ] Death stranding 2
 - [ ] Control resonant (TBR)
