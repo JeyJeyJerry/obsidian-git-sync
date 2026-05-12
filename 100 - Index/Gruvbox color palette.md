@@ -8,7 +8,7 @@
 - purple: `#b16286`
 - aqua: `#689d6a`
 - gray: `#a89984`
-
+---
 - gray (light): `#928374`
 - red (light): `#fb4934`
 - green (light): `#b8bb26`
@@ -17,7 +17,7 @@
 - purple (light): `#d3869b`
 - aqua (light): `#8ec07c`
 - fg: `#ebdbb2`
-
+---
 - bg0_h: `#1d2021`
 - bg0: `#282828`
 - bg1: `#3c3836`
