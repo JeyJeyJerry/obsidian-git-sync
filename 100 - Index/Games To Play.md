@@ -1,12 +1,12 @@
-- Dishonored
-- Dishonored 2
-- Dishonored Death of the Outsider
-- Elden ring
-- Misc. indie games
-- Fallout 4
-- Fallout 3
-- Fallout new vegas
-- Far cry / Elder scrolls / Bioshock (series)
-- Persona 5
-- Death stranding 2
-- Control resonant (TBR)
+- [ ] Dishonored
+- [ ] Dishonored 2
+- [ ] Dishonored Death of the Outsider
+- [ ] Elden ring
+- [ ] Misc. indie games
+- [ ] Fallout 4
+- [ ] Fallout 3
+- [ ] Fallout new vegas
+- [ ] Far cry / Elder scrolls / Bioshock (series)
+- [ ] Persona 5
+- [ ] Death stranding 2
+- [ ] Control resonant (TBR)
