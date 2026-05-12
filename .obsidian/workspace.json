@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "a412011c9008c01f",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "9589603143d9ef14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/100 - Index/Games To Play.md",
+                "file": "obsidian-git-sync/Homepage - Jerry Sjövall.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Games To Play"
+              "title": "Homepage - Jerry Sjövall"
             }
           }
         ]
@@ -239,11 +239,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9589603143d9ef14",
   "lastOpenFiles": [
+    "obsidian-git-sync/100 - Index/Games To Play.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
-    "obsidian-git-sync/100 - Index/Games To Play.md",
     "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/100 - Index/Attachments/sakamoto.png",
     "obsidian-git-sync/Attachments",
