@@ -8,8 +8,18 @@
 	- [ ] Fallout 4
 	- [ ] Fallout 3
 	- [ ] Fallout new vegas
-- [ ] Far cry
-- [ ] Elder scrolls / Bioshock (series)
+- [ ] Far cry series
+	- [ ] Far cry 2
+	- [ ] Far cry 3
+	- [ ] Far cry 3: Blood dragon
+	- [ ] Far cry 4
+	- [ ] Far cry 5
+- [ ] Elder scrolls series
+	- [ ] Skyrim
+	- [ ] Oblivion
+	- [ ] Morrowind
+- [ ] Bioshock series
+	- [ ] Bios
 - [ ] Persona 5
 - [ ] Death stranding 2
 - [ ] Control resonant (TBR)
