@@ -43,7 +43,7 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
-        "dimension": 72.09119496855345,
+        "dimension": 73.89937106918238,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -90,7 +90,7 @@
       {
         "id": "0ac19327f72a1e48",
         "type": "tabs",
-        "dimension": 27.90880503144654,
+        "dimension": 26.10062893081761,
         "children": [
           {
             "id": "10d9556124483572",
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.51103591918945
+    "width": 305.51103591918945
   },
   "right": {
     "id": "77bcd734db37ed44",
@@ -239,11 +239,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "cd427187b427e319",
+  "active": "10d9556124483572",
   "lastOpenFiles": [
+    "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/200 - School/Misc./Sales Pitch Script.md",
     "obsidian-git-sync/200 - School/Misc./Video Résumé Script.md",
-    "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
     "obsidian-git-sync/100 - Index/Games To Play.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
