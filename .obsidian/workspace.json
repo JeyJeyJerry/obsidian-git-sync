@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7f0a43923319bc9",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "cd427187b427e319",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,7 +43,7 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
-        "dimension": 73.89937106918238,
+        "dimension": 73.8993710691824,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -90,7 +90,7 @@
       {
         "id": "0ac19327f72a1e48",
         "type": "tabs",
-        "dimension": 26.10062893081761,
+        "dimension": 26.100628930817617,
         "children": [
           {
             "id": "10d9556124483572",
@@ -239,7 +239,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "cd427187b427e319",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/200 - School/Misc./Sales Pitch Script.md",
