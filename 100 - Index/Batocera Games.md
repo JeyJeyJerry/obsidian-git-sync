@@ -23,3 +23,6 @@
 	- zelda link to the past and four swords
 	- advance wars
 	- drill dozer
+- SNES
+	- harvest moon
+	- 
