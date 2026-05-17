@@ -31,4 +31,4 @@
 	- yoshi's island
 	- chrono trigger
 	- super metroid
-	- 
+	- megaman x
