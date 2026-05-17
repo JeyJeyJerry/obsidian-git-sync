@@ -13,6 +13,7 @@
 	- wario land 4
 	- warioware, inc. - mega microgames
 	- zelda the minish cap
+	- zelda link to the past and four swords
 	- pokemon ruby
 	- pokemon emerald
 	- pokemon fire red
@@ -20,7 +21,6 @@
 	- pokemon pinball ruby and sapphire
 	- pokemon sapphire
 	- super mario advance 4 - super mario bros 3
-	- zelda link to the past and four swords
 	- advance wars
 	- drill dozer
 - SNES
