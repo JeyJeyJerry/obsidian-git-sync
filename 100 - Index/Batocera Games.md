@@ -25,4 +25,5 @@
 	- drill dozer
 - SNES
 	- harvest moon
-	- 
+	- super mario kart
+	- kirby superstar
