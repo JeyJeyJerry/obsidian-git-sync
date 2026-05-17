@@ -14,7 +14,12 @@
 	- zelda the minish cap
 	- pokemon ruby
 	- pokemon emerald
-	- pokemon 
+	- pokemon fire red
+	- pokemon leaf green
+	- pokemon pinball ruby and sapphire
+	- pokemon sapphire
+	- super mario advance 4 - super mario bros 3
+	- 
 	- advance wars
 	- drill dozer
 	- 
