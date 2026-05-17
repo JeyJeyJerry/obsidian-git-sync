@@ -1,13 +1,20 @@
 - GBA
 	- mario luigi superstar saga
+	- mario golf advance tour
+	- mario kart super circuit
+	- mario tennis power tour
+	- mega man zero
+	- mother 3
 	- kirby and the amazing mirror
 	- final fantasy tactics advance
 	- final fantasy vi advance
 	- fire emblem
-	- fire emble
+	- fire emblem the sacred stones
 	- wario land 4
 	- zelda the minish cap
 	- pokemon ruby
+	- pokemon emerald
+	- pokemon 
 	- advance wars
 	- drill dozer
 	- 
