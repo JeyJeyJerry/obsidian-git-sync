@@ -1,0 +1,7 @@
+- GBA
+	- mario luigi superstar saga
+	- kirby and the amazing mirror
+	- final fantasy tactics advance
+	- wario land 4
+	- zelda the minish cap
+	- pokemon ruby
