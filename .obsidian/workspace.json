@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "4e050463ea6e7221",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "429d889552774c66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/Misc./Sales Pitch Script.md",
-                "mode": "source",
+                "file": "obsidian-git-sync/Homepage - Jerry Sjövall.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sales Pitch Script"
+              "title": "Homepage - Jerry Sjövall"
             }
           }
         ]
@@ -239,10 +239,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "429d889552774c66",
   "lastOpenFiles": [
-    "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/200 - School/Misc./Sales Pitch Script.md",
+    "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/200 - School/Misc./Video Résumé Script.md",
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
     "obsidian-git-sync/100 - Index/Games To Play.md",
