@@ -9,8 +9,9 @@
 	- final fantasy tactics advance
 	- final fantasy vi advance
 	- fire emblem
-	- fire emblem the sacred stones
+		- fire emblem the sacred stones
 	- wario land 4
+	- warioware, inc. - mega microgames
 	- zelda the minish cap
 	- pokemon ruby
 	- pokemon emerald
