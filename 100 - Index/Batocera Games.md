@@ -27,3 +27,8 @@
 	- harvest moon
 	- super mario kart
 	- kirby superstar
+	- earthbound
+	- yoshi's island
+	- chrono trigger
+	- super metroid
+	- 
