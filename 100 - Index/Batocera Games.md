@@ -2,6 +2,12 @@
 	- mario luigi superstar saga
 	- kirby and the amazing mirror
 	- final fantasy tactics advance
+	- final fantasy vi advance
+	- fire emblem
+	- fire emble
 	- wario land 4
 	- zelda the minish cap
 	- pokemon ruby
+	- advance wars
+	- drill dozer
+	- 
