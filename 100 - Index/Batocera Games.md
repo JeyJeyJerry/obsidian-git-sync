@@ -19,7 +19,7 @@
 	- pokemon pinball ruby and sapphire
 	- pokemon sapphire
 	- super mario advance 4 - super mario bros 3
-	- 
+	- zelda link to the past and four swords
 	- advance wars
 	- drill dozer
 	- 
