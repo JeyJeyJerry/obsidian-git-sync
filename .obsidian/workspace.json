@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4e050463ea6e7221",
+        "id": "ac3c0dc5ef89147f",
         "type": "tabs",
         "children": [
           {
-            "id": "429d889552774c66",
+            "id": "a7afbb97c8a28f70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/100 - Index/Batocera Games.md",
-                "mode": "source",
+                "file": "obsidian-git-sync/Homepage - Jerry Sjövall.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Batocera Games"
+              "title": "Homepage - Jerry Sjövall"
             }
           }
         ]
@@ -241,10 +241,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "429d889552774c66",
+  "active": "a7afbb97c8a28f70",
   "lastOpenFiles": [
-    "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/100 - Index/Batocera Games.md",
+    "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/200 - School/Misc./Sales Pitch Script.md",
     "obsidian-git-sync/200 - School/Misc./Video Résumé Script.md",
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
