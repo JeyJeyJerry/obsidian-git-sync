@@ -24,7 +24,7 @@ date: 31-03-2026
 
 - Ensimmäisenä asennetaan **SSH-demoni**
 
-![[h1_1.png]]
+![[obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_1.png]]
 
 - Generoidaan SSH-avain komennolla `ssh-keygen`
 
