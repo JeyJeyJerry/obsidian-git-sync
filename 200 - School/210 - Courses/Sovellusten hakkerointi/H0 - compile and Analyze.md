@@ -13,7 +13,7 @@ int main() {
 
 - Sitten käänsin c++ ohjelman g++ kääntäjällä suoritettavaksi binääritiedostoksi nimeltä **hello**
 
-```bash
+```co
 $ g++ hello.cpp -o hello
 ```
 
