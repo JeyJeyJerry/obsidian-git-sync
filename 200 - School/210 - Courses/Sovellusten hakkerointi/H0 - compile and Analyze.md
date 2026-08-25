@@ -3,8 +3,6 @@
 - Ensin tein **C++** kielellä simppelin Hello World ohjelman
 
 ```c++
-// hello.cpp
-
 #include <iostream>
 
 int main() {
@@ -28,11 +26,11 @@ Hello World!
 
 - Seuraavaksi tarkastelin **hello** tiedostoa **file** komennolla ja sain selville, että tiedosto on **ELF 64-bit** tiedosto tarkoitettu Linuxille
 
-![Alt text](images/h0_images/h0_1.png)
+![[h0_1.png]]
 
 - Tarkastelin tiedostoa vielä HEX-muodossa komennolla **xxd**
 
-![Alt text](images/h0_images/h0_2.png)
+![[h0_2.png]]
 
 ## Lähteet
 
