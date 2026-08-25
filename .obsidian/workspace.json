@@ -11,13 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/300 - Books/Book view.base",
-                "viewName": "Table"
+                "file": "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Palvelinten hallinta.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "Book view"
+              "icon": "lucide-file",
+              "title": "Palvelinten hallinta"
             }
           }
         ]
@@ -233,6 +244,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi/Sovellusten hakkerointi.md",
+    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Palvelinten hallinta.md",
+    "obsidian-git-sync/300 - Books/Book view.base",
+    "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi",
     "obsidian-git-sync/200 - School/Misc./Sales Pitch Script.md",
     "obsidian-git-sync/200 - School/Misc./Video Résumé Script.md",
     "obsidian-git-sync/README.md",
@@ -248,7 +263,6 @@
     "obsidian-git-sync/100 - Index/Attachments/orange.png",
     "obsidian-git-sync/Untitled.md",
     "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 1.md",
-    "obsidian-git-sync/300 - Books/Book view.base",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Toiminnan periaate.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
@@ -262,8 +276,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Emolevy.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn toiminta.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn kello.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn historia.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPU moniydin, hyperthreading.md",
     "Media DB/books",
     "Media DB",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Attachments/kvali_3.png",
@@ -277,7 +289,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_1.png",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Attachments/h1/h1_10.png",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Untitled.base",
-    "obsidian-git-sync/100 - Index/Attachments"
+    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Untitled.base"
   ]
 }
