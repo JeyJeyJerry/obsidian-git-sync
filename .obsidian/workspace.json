@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Palvelinten hallinta.md",
-                "mode": "source",
+                "file": "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi/H0 - compile and Analyze.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Palvelinten hallinta"
+              "title": "H0 - compile and Analyze"
             }
           }
         ]
@@ -245,6 +245,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi/Sovellusten hakkerointi.md",
+    "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi/H0 - compile and Analyze.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Palvelinten hallinta.md",
     "obsidian-git-sync/300 - Books/Book view.base",
     "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi",
@@ -275,7 +276,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Eri osien toiminta.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Emolevy.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn toiminta.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/CPUn kello.md",
     "Media DB/books",
     "Media DB",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Attachments/kvali_3.png",

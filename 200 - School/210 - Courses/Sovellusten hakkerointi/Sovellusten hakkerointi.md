@@ -2,9 +2,6 @@
 tags: course
 ---
 
-## Notes
+## Tehtävät
 
-
-
-## References
-
+### 
