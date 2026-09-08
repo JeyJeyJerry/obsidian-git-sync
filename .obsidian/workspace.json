@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "061498e24ad538ac",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "e8e36e3ad716dff9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/README.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -29,7 +43,7 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
-        "dimension": 73.8993710691824,
+        "dimension": 49.29178470254957,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -78,7 +92,7 @@
       {
         "id": "0ac19327f72a1e48",
         "type": "tabs",
-        "dimension": 26.100628930817617,
+        "dimension": 50.70821529745042,
         "children": [
           {
             "id": "10d9556124483572",
@@ -94,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.51103591918945,
-    "collapsed": true
+    "width": 324.4851264953613
   },
   "right": {
     "id": "77bcd734db37ed44",
@@ -228,7 +241,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e8e36e3ad716dff9",
   "lastOpenFiles": [
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan perusteet.md",
