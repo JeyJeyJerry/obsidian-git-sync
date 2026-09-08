@@ -231,7 +231,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
