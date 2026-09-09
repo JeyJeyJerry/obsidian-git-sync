@@ -49,7 +49,7 @@ $ sudo apt install samba smbclient
 $ sudo systemctl start smbd
 ```
 
-![[h4_1.png]]
+![[H4 - Pizza Fantasia_1.png]]
 
 ### b)
 
@@ -87,7 +87,7 @@ $ sudo apt purge samba smbclient
 $ ansible-playbook site.yml -K
 ```
 
-![[h4_2.png]]
+![[H4 - Pizza Fantasia_2.png]]
 
 - Asennus toimi ja Samba-demoni meni päälle
 

@@ -207,7 +207,7 @@ $ cat /roles/nginx/main.yml
 $ ansible-playbook site.yml -K
 ```
 
-![[h3_5.png]]
+![[H3 - Demoni_5.png]]
 
 ## Lähteet
 - Tero Karvinen Apache installed with Ansible - quick notes. Luettavissa: https://terokarvinen.com/apache-ansible/ Luettu 14.4.2026
