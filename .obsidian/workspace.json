@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/999 - Templates/Book Template.md",
+                "file": "obsidian-git-sync/README.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Book Template"
+              "title": "README"
             }
           }
         ]
@@ -243,6 +243,7 @@
   },
   "active": "e2fa59f1b022f6e0",
   "lastOpenFiles": [
+    "obsidian-git-sync/999 - Templates/Book Template.md",
     "obsidian-git-sync/400 - Daily Notes/22-04-2026.md",
     "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 4.md",
     "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 3.md",
@@ -279,7 +280,6 @@
     "obsidian-git-sync/100 - Index/Attachments/orange.png",
     "obsidian-git-sync/Untitled.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Toiminnan periaate.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
     "Media DB/books",
     "Media DB",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Attachments/kvali_3.png",
