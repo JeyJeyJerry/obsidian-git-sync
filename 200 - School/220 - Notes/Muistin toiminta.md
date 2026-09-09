@@ -1,7 +1,6 @@
----
+
 class: "[[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]"
 date: 29-03-2025
----
 
 - Keskusmuisti on yleensä RAM - muistia (Radom Access Memory).
 - RAM muisti tyhjenee, kun tietokone sammutetaan.

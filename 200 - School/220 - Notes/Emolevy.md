@@ -1,6 +1,5 @@
 Course: [[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]
-date: 23-03-2025
-
+date: 23.03.2025
 
 - Ensimmäisten PC:n emolevyt sisälsivät CPU:n, muistin, näppäimistön liittimen ja laajennusliittimet. Kaikki muu oli laajennuskorteilla.
 - Nykyisin emolevy sisältää useimmat osat.
