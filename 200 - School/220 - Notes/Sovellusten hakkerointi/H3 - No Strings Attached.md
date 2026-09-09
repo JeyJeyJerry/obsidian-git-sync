@@ -34,7 +34,7 @@ What's the password?
   - AI antoi koodipätkän, jossa näkyi samanlaisia osia kuin netissä löytämissäni koodeissa
   - ymmärsin koodista, että se ottaa salasanan ja pilkkoo sen osiin, jotta sitä ei voi suoraan löytää **strings** komennolla
 
-```c title:passtr.c
+```c title=passtr.c
 #include <stdio.h>
 #include <string.h>
 
