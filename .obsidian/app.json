@@ -8,7 +8,7 @@
   "attachmentFolderPath": "obsidian-git-sync/500 - Files",
   "trashOption": "none",
   "alwaysUpdateLinks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "strictLineBreaks": false,
   "pdfExportSettings": {
     "includeName": true,
