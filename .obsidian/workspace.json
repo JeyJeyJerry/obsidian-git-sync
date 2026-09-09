@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "02a31bb58779b2a2",
+        "id": "6e946288c9233f82",
         "type": "tabs",
         "children": [
           {
-            "id": "26c633c5a1a61cce",
+            "id": "62e4767588a30b7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-git-sync/README.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -240,8 +226,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "26c633c5a1a61cce",
+  "active": "62e4767588a30b7b",
   "lastOpenFiles": [
+    "obsidian-git-sync/README.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H3 - No Strings Attached.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H2 - Break & Unbreak.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H1 - Freedom of Action, Control, and Risk Mitigation.md",
@@ -267,7 +254,6 @@
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Keskusmuisti.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Muistin toiminta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Piirisarjat.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/RAM-muisti.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta",
