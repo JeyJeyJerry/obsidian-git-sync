@@ -1,7 +1,5 @@
----
-class: "[[Palvelinten hallinta]]"
-date: 21-04-2026
----
+Course: [[Palvelinten hallinta]]
+Date: **21.04.2026**
 
 ## Tiivistelmät
 

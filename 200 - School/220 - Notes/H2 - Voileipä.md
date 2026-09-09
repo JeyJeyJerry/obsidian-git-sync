@@ -1,5 +1,5 @@
 Course: [[Palvelinten hallinta]]
-date: 07.04.2026
+date: **07.04.2026**
 
 
 ## Tiivistelmät
