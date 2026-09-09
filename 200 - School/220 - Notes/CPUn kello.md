@@ -1,7 +1,5 @@
----
-class: "[[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]"
-date: 23-03-2025
----
+Course: "[[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]"
+Date: 23.03.2025
 
 - CPU tarvitsee toimiakseen kellon. CPU:n kello on piiri, joka lähettää sähköisiä sykäyksiä CPU:lle. Kellotaajuus 3 GHz tarkoittaa, että kello lähettää 3 miljardia pulssia sekunnissa.
 - Kellotaajuus vaikuttaa CPU:n nopeuteen. Valmistaja ilmoittaa prosessorin maksimikellotaajuuden.

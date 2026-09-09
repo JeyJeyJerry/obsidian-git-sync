@@ -1,7 +1,5 @@
----
-class: "[[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]"
-date: 23-03-2025
----
+Course: "[[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]"
+Date: 23.03.2025
 
 - Ensimmäinen PC:n CPU oli Intel 8088. se oli yksinkertainen 16 bitin prosessori.
 - Ensimmäinen 32 bitin prosessori oli Intel 80386 (or i386). Nykyiset prosessorit ovat tavallaan paranneltuja i386 prosessoreita. I386:n voi edelleen nähdä prosessoriperheen nimenä.
