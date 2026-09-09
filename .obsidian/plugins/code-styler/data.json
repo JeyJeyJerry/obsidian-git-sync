@@ -300,7 +300,7 @@
     "settings": {
       "codeblock": {
         "lineNumbers": true,
-        "unwrapLines": false,
+        "unwrapLines": true,
         "wrapLinesActive": false,
         "curvature": 0
       },
@@ -311,8 +311,8 @@
       "header": {
         "title": {
           "textFont": "",
-          "textBold": false,
-          "textItalic": true
+          "textBold": true,
+          "textItalic": false
         },
         "languageTag": {
           "display": "always",
