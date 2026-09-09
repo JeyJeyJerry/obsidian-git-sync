@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Cache.md",
+                "file": "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cache"
+              "title": "Sovellusten hakkerointi"
             }
           }
         ],
@@ -254,8 +254,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "2c395ac0a9a17361",
+  "active": "61c97ccd854ef00b",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta.md",
+    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
+    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Cache.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen Arkkitehtuuri.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tiedon esitys tietokoneessa.md",
@@ -293,10 +296,7 @@
     "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi.md",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H5 - Gitar Hero.md",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H6 - Ansible Gaming Setup (project).md",
-    "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H3 - Demoni.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H2 - Voileipä.md",
     "obsidian-git-sync/200 - School/220 - Notes/Attachments",
-    "obsidian-git-sync/999 - Templates/Class Template.md",
     "obsidian-git-sync/500 - Files",
     "obsidian-git-sync/200 - School/220 - Notes",
     "obsidian-git-sync/300 - Books/Book view.base",
