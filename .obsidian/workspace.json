@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi.md",
+                "file": "obsidian-git-sync/200 - School/220 - Notes/H1 - Freedom of Action, Control, and Risk Mitigation.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sovellusten hakkerointi"
+              "title": "H1 - Freedom of Action, Control, and Risk Mitigation"
             }
           }
         ],
@@ -259,6 +259,8 @@
     "obsidian-git-sync/200 - School/220 - Notes/H1 - Hei Ansiblen maailma.md",
     "obsidian-git-sync/200 - School/220 - Notes/H1 - Freedom of Action, Control, and Risk Mitigation.md",
     "obsidian-git-sync/200 - School/220 - Notes/H0 - compile and Analyze.md",
+    "obsidian-git-sync/200 - School/220 - Notes/CPU.md",
+    "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi.md",
     "obsidian-git-sync/200 - School/220 - Notes/H5 - Gitar Hero.md",
     "obsidian-git-sync/200 - School/220 - Notes/Keskusmuisti.md",
     "obsidian-git-sync/200 - School/220 - Notes/H6 - Ansible Gaming Setup (project).md",
@@ -291,8 +293,6 @@
     "obsidian-git-sync/200 - School/220 - Notes/CPUn kello.md",
     "obsidian-git-sync/200 - School/220 - Notes/CPUn historia.md",
     "obsidian-git-sync/200 - School/220 - Notes/CPU moniydin, hyperthreading.md",
-    "obsidian-git-sync/200 - School/220 - Notes/CPU.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Cache.md",
     "obsidian-git-sync/500 - Files",
     "obsidian-git-sync/200 - School/220 - Notes",
     "obsidian-git-sync/300 - Books/Book view.base",

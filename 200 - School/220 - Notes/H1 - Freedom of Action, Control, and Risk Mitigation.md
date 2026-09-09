@@ -1,3 +1,6 @@
+Course: [[Sovellusten hakkerointi]]
+Date: **31.03.2026**
+
 ## a1) Mitä soveltamisalaan kuuluu?
 
 - Perusinfrastruktuuri:
