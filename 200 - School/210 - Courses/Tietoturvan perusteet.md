@@ -1,3 +1,1 @@
----
-tags: course
----
+Tags: #course

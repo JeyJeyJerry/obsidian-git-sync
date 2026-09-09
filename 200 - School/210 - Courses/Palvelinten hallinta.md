@@ -1,6 +1,4 @@
----
-tags: course
----
+Tags: #course
 
 ## Tehtävät
 
