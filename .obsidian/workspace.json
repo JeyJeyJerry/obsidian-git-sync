@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/220 - Notes/CPUn kello.md",
+                "file": "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan hallinta, riskin hallinta.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CPUn kello"
+              "title": "Tietoturvan hallinta, riskin hallinta"
             }
           }
         ]
@@ -241,8 +241,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2fa59f1b022f6e0",
+  "active": "2c395ac0a9a17361",
   "lastOpenFiles": [
+    "obsidian-git-sync/500 - Files",
+    "obsidian-git-sync/200 - School/220 - Notes/CPUn kello.md",
     "obsidian-git-sync/200 - School/220 - Notes/CPUn historia.md",
     "obsidian-git-sync/200 - School/220 - Notes/CPU moniydin, hyperthreading.md",
     "obsidian-git-sync/200 - School/220 - Notes/CPU.md",
@@ -270,8 +272,6 @@
     "obsidian-git-sync/100 - Index/Games To Play.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Untitled.base",
     "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta.md",
-    "obsidian-git-sync/200 - School/220 - Notes/H1 - Freedom of Action, Control, and Risk Mitigation.md",
     "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi/Attachments/h1_1.png",
     "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi/Attachments/h0_2.png",
     "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi/Attachments/h0_1.png",
