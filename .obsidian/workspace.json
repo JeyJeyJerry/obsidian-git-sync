@@ -11,10 +11,24 @@
             "id": "e2fa59f1b022f6e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan perusteet.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tietoturvan perusteet"
             }
           }
         ]
@@ -229,6 +243,8 @@
   },
   "active": "2c395ac0a9a17361",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/220 - Notes",
+    "obsidian-git-sync/200 - School/Misc./Video Résumé Script.md",
     "obsidian-git-sync/200 - School/Misc./Sales Pitch Script.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
@@ -257,7 +273,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi/Attachments/h0_1.png",
     "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi/Attachments",
     "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi",
-    "obsidian-git-sync/200 - School/Misc./Video Résumé Script.md",
     "obsidian-git-sync/Homepage - Jerry Sjövall.md",
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
     "obsidian-git-sync/100 - Index/Attachments/sakamoto.png",
@@ -265,7 +280,6 @@
     "obsidian-git-sync/100 - Index/Attachments/gruvbox_colors.png",
     "obsidian-git-sync/100 - Index/Attachments/orange.png",
     "obsidian-git-sync/Untitled.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Toiminnan periaate.md",
     "Media DB/books",
     "Media DB",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Attachments/kvali_3.png",
