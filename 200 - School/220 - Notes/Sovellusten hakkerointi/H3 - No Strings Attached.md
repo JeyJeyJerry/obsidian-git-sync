@@ -34,6 +34,10 @@ What's the password?
   - AI antoi koodipätkän, jossa näkyi samanlaisia osia kuin netissä löytämissäni koodeissa
   - ymmärsin koodista, että se ottaa salasanan ja pilkkoo sen osiin, jotta sitä ei voi suoraan löytää **strings** komennolla
 
+```c title=
+
+```
+
 ```c
 #include <stdio.h>
 #include <string.h>
@@ -79,7 +83,7 @@ int main() {
 - Latasin koneelleni **UPX** ohjelman, jotta voisin purkaa tiedoston pakkauksen
   - Selvitin **UPX:n** manuaalisivuilta, että tiedoston voi purkaa komennolla `upx -d`
 
-```bash title=testi fold
+```bash
 $ sudo apt install upx
 $ upx -d packd
 ```
