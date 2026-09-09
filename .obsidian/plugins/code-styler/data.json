@@ -310,7 +310,7 @@
       },
       "header": {
         "title": {
-          "textFont": "",
+          "textFont": "JetBrainsMono Nerd Font",
           "textBold": true,
           "textItalic": false
         },
