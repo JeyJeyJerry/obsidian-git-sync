@@ -43,7 +43,7 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
-        "dimension": 63.67924528301887,
+        "dimension": 68.63207547169812,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -92,7 +92,7 @@
       {
         "id": "0ac19327f72a1e48",
         "type": "tabs",
-        "dimension": 36.32075471698113,
+        "dimension": 31.367924528301888,
         "children": [
           {
             "id": "10d9556124483572",
@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 529.8810920715332
+    "width": 389.2989692687988
   },
   "right": {
     "id": "77bcd734db37ed44",
@@ -226,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 353.918701171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,7 +240,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "61c97ccd854ef00b",
+  "active": "c8f41adb0a47b5d8",
   "lastOpenFiles": [
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H2 - Break & Unbreak.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H1 - Freedom of Action, Control, and Risk Mitigation.md",
