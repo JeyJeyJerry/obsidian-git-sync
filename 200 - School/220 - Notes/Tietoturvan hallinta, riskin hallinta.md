@@ -1,7 +1,5 @@
----
-class: "[[Tietoturvan perusteet]]"
-date: 05-05-2026
----
+Course: "[[Tietoturvan perusteet]]"
+Date: 05-05-2026
 
 ## Notes
 
