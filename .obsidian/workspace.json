@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9cea905c336f4054",
+        "id": "3eed77f207dd1912",
         "type": "tabs",
         "children": [
           {
-            "id": "e2fa59f1b022f6e0",
+            "id": "d949e8b2a49149aa",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "obsidian-git-sync/500 - Files/kvali_1.png"
-              },
-              "icon": "lucide-image",
-              "title": "kvali_1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -229,7 +227,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2fa59f1b022f6e0",
+  "active": "2c395ac0a9a17361",
   "lastOpenFiles": [
     "obsidian-git-sync/500 - Files/kvali_3.png",
     "obsidian-git-sync/500 - Files/kvali_2.png",
