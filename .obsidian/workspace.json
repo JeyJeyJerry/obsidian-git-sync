@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/220 - Notes/H1 - Freedom of Action, Control, and Risk Mitigation.md",
-                "mode": "source",
+                "file": "obsidian-git-sync/200 - School/220 - Notes/Cache.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "H1 - Freedom of Action, Control, and Risk Mitigation"
+              "title": "Cache"
             }
           }
         ]
@@ -241,17 +241,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "2c395ac0a9a17361",
+  "active": "d949e8b2a49149aa",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi.md",
+    "obsidian-git-sync/200 - School/220 - Notes/Cache.md",
+    "obsidian-git-sync/200 - School/220 - Notes/H2 - Voileipä.md",
+    "obsidian-git-sync/200 - School/220 - Notes/H1 - Hei Ansiblen maailma.md",
+    "obsidian-git-sync/200 - School/220 - Notes/H1 - Freedom of Action, Control, and Risk Mitigation.md",
     "obsidian-git-sync/200 - School/220 - Notes/Eri osien toiminta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Emolevy.md",
     "obsidian-git-sync/200 - School/220 - Notes/CPUn kello.md",
     "obsidian-git-sync/200 - School/220 - Notes/CPU moniydin, hyperthreading.md",
     "obsidian-git-sync/200 - School/220 - Notes/CPU.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Cache.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi.md",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet.md",
     "obsidian-git-sync/200 - School/220 - Notes/H4 - Pizza Fantasia.md",
     "obsidian-git-sync/500 - Files/kvali_1.png",
@@ -269,7 +272,6 @@
     "obsidian-git-sync/500 - Files",
     "obsidian-git-sync/200 - School/220 - Notes/CPUn historia.md",
     "obsidian-git-sync/200 - School/220 - Notes/H0 - compile and Analyze.md",
-    "obsidian-git-sync/200 - School/220 - Notes/H1 - Hei Ansiblen maailma.md",
     "obsidian-git-sync/200 - School/220 - Notes/Toiminnan periaate.md",
     "obsidian-git-sync/200 - School/220 - Notes",
     "obsidian-git-sync/200 - School/Misc./Video Résumé Script.md",
@@ -278,8 +280,6 @@
     "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
     "obsidian-git-sync/README.md",
     "obsidian-git-sync/999 - Templates/Book Template.md",
-    "obsidian-git-sync/400 - Daily Notes/22-04-2026.md",
-    "obsidian-git-sync/300 - Books/Dune/Book 1, chapter 4.md",
     "obsidian-git-sync/300 - Books/Book view.base",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Untitled.base",
     "obsidian-git-sync/500 - Files/h1_1 1.png",

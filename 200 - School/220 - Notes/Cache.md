@@ -1,7 +1,6 @@
----
-class: "[[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]"
-date: 29-03-2025
----
+Course: "[[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]"
+Date: 29-03-2025
+
 
 - Välimuistia käytetään nopeuttamaan tietokoneen toimintaa.
 - Monista syistä **RAM** - muisti ei voi toimia yhtä nopeasti kuin prosessori.
