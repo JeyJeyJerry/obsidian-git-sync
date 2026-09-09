@@ -1,5 +1,5 @@
 Course: "[[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]"
-Date: 29-03-2025
+Date: 29.03.2025
 
 
 - Välimuistia käytetään nopeuttamaan tietokoneen toimintaa.
