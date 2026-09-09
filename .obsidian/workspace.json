@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/220 - Notes/H5 - Gitar Hero.md",
+                "file": "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "H5 - Gitar Hero"
+              "title": "Sovellusten hakkerointi"
             }
           }
         ],
@@ -256,12 +256,15 @@
   },
   "active": "61c97ccd854ef00b",
   "lastOpenFiles": [
-    "obsidian-git-sync/200 - School/220 - Notes/H4 - Pizza Fantasia.md",
-    "obsidian-git-sync/200 - School/220 - Notes/H3 - Demoni.md",
-    "obsidian-git-sync/200 - School/220 - Notes/H2 - Voileipä.md",
     "obsidian-git-sync/200 - School/220 - Notes/H1 - Hei Ansiblen maailma.md",
     "obsidian-git-sync/200 - School/220 - Notes/H1 - Freedom of Action, Control, and Risk Mitigation.md",
     "obsidian-git-sync/200 - School/220 - Notes/H0 - compile and Analyze.md",
+    "obsidian-git-sync/200 - School/220 - Notes/H5 - Gitar Hero.md",
+    "obsidian-git-sync/200 - School/220 - Notes/Keskusmuisti.md",
+    "obsidian-git-sync/200 - School/220 - Notes/H6 - Ansible Gaming Setup (project).md",
+    "obsidian-git-sync/200 - School/220 - Notes/H4 - Pizza Fantasia.md",
+    "obsidian-git-sync/200 - School/220 - Notes/H3 - Demoni.md",
+    "obsidian-git-sync/200 - School/220 - Notes/H2 - Voileipä.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tiedon esitys tietokoneessa.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietokoneen Arkkitehtuuri.md",
     "obsidian-git-sync/200 - School/220 - Notes/Toiminnan periaate.md",
@@ -271,7 +274,6 @@
     "obsidian-git-sync/500 - Files/Tietoturvan hallinta, riskin hallinta_2.png",
     "obsidian-git-sync/500 - Files/Tietoturvan hallinta, riskin hallinta_5.png",
     "obsidian-git-sync/500 - Files/Tietoturvan hallinta, riskin hallinta_4.png",
-    "obsidian-git-sync/200 - School/220 - Notes/H5 - Gitar Hero.md",
     "obsidian-git-sync/500 - Files/H5 - Gitar Hero_13.png",
     "obsidian-git-sync/500 - Files/H5 - Gitar Hero_12.png",
     "obsidian-git-sync/500 - Files/H5 - Gitar Hero_11.png",
@@ -283,7 +285,6 @@
     "obsidian-git-sync/200 - School/220 - Notes/Prosessorin toiminta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Piirisarjat.md",
     "obsidian-git-sync/200 - School/220 - Notes/Muistin toiminta.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Keskusmuisti.md",
     "obsidian-git-sync/200 - School/220 - Notes/Eri osien toiminta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Emolevy.md",
     "obsidian-git-sync/200 - School/220 - Notes/CPUn toiminta.md",
