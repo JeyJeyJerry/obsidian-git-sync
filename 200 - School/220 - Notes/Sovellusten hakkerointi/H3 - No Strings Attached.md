@@ -79,7 +79,7 @@ int main() {
 - Latasin koneelleni **UPX** ohjelman, jotta voisin purkaa tiedoston pakkauksen
   - Selvitin **UPX:n** manuaalisivuilta, että tiedoston voi purkaa komennolla `upx -d`
 
-```bash title=testi
+```bash title=testi fold
 $ sudo apt install upx
 $ upx -d packd
 ```
