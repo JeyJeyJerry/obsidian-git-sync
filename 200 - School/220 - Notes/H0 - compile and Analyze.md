@@ -1,3 +1,6 @@
+Course: [[Sovellusten hakkerointi]]
+Date: **31.03.2026**
+
 ## a)
 
 - Ensin tein **C++** kielellä simppelin Hello World ohjelman
