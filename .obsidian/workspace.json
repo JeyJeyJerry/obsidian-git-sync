@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan hallinta, riskin hallinta.md",
+                "file": "obsidian-git-sync/999 - Templates/Class Template.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tietoturvan hallinta, riskin hallinta"
+              "title": "Class Template"
             }
           }
         ]
@@ -243,6 +243,10 @@
   },
   "active": "d949e8b2a49149aa",
   "lastOpenFiles": [
+    "obsidian-git-sync/999 - Templates/Chapter Template.md",
+    "obsidian-git-sync/999 - Templates/Book Template.md",
+    "obsidian-git-sync/200 - School/220 - Notes/Toiminnan periaate.md",
+    "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan hallinta, riskin hallinta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietokoneen Arkkitehtuuri.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tiedon esitys tietokoneessa.md",
     "obsidian-git-sync/200 - School/220 - Notes/RAM-muisti.md",
@@ -265,13 +269,9 @@
     "obsidian-git-sync/200 - School/220 - Notes/H1 - Hei Ansiblen maailma.md",
     "obsidian-git-sync/200 - School/220 - Notes/H1 - Freedom of Action, Control, and Risk Mitigation.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta.md",
-    "obsidian-git-sync/200 - School/220 - Notes/H4 - Pizza Fantasia.md",
     "obsidian-git-sync/500 - Files/kvali_1.png",
     "obsidian-git-sync/500 - Files/kvali_3.png",
     "obsidian-git-sync/500 - Files/kvali_2.png",
-    "obsidian-git-sync/300 - Books/Dune/Dune.md",
-    "obsidian-git-sync/200 - School/220 - Notes/H3 - Demoni.md",
     "obsidian-git-sync/500 - Files/h0_1.png",
     "obsidian-git-sync/500 - Files/h5_1.png",
     "obsidian-git-sync/500 - Files/h4_1.png",

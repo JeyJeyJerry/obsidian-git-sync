@@ -1,7 +1,5 @@
----
-class:
-date:
----
+Course: [[]]
+Date: {date}
 
 ## Notes
 
