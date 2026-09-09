@@ -1,4 +1,4 @@
-![[gruvbox_colors.png]]
+![[Gruvbox color palette_1.png]]
 
 - bg: `#282828`
 - red: `#cc241d`

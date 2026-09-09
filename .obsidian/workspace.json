@@ -11,10 +11,24 @@
             "id": "d17d1c84967e59d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/README.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -212,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.918701171875,
-    "collapsed": true
+    "width": 353.918701171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,9 +240,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "62e4767588a30b7b",
+  "active": "d17d1c84967e59d5",
   "lastOpenFiles": [
+    "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
+    "obsidian-git-sync/500 - Files/Gruvbox color palette_1.png",
     "obsidian-git-sync/README.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H3 - No Strings Attached.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H2 - Break & Unbreak.md",
@@ -254,7 +269,6 @@
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Emolevy.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Eri osien toiminta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Keskusmuisti.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Muistin toiminta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta",
@@ -268,7 +282,6 @@
     "obsidian-git-sync/500 - Files/H3 - No Strings Attached_2.png",
     "obsidian-git-sync/500 - Files/H3 - No Strings Attached_1.png",
     "obsidian-git-sync/500 - Files/H2 - Break & Unbreak_16.png",
-    "obsidian-git-sync/500 - Files/H2 - Break & Unbreak_15.png",
     "obsidian-git-sync/200 - School/220 - Notes/Attachments",
     "obsidian-git-sync/500 - Files",
     "obsidian-git-sync/200 - School/220 - Notes",
