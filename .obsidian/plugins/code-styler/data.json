@@ -316,7 +316,7 @@
         },
         "languageTag": {
           "display": "always",
-          "textFont": "",
+          "textFont": "JetBrainsMono Nerd Font",
           "textBold": true,
           "textItalic": false
         },
