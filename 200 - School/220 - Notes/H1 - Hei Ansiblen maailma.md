@@ -24,26 +24,26 @@ date: 31-03-2026
 
 - Ensimmäisenä asennetaan **SSH-demoni**
 
-![[obsidian-git-sync/500 - Files/h1_1.png]]
+![[H1 - Hei Ansiblen maailma_1.png]]
 
 - Generoidaan SSH-avain komennolla `ssh-keygen`
 
-![[h1_2.png]]
+![[H1 - Hei Ansiblen maailma_2.png]]
 
 - Varmistetaan, että SSH-demoni toimii ottamalla SSH-yhteys localhostiin komennolla `ssh localhost`
 
 ### b)
 
-![[h1_3.png]]
+![[H1 - Hei Ansiblen maailma_3.png]]
 
 - Seuraavaksi automatisoidaan SSH-yhteys localhostiin kopioimalla julkinen SSH-avain
 	- Localhostin, eli minun oman koneen SSH-avaimen kopioidaan komennolla `ssh-copy-id localhost`
 
-![[h1_4.png]]
+![[H1 - Hei Ansiblen maailma_4.png]]
 
 - Nyt SSH kirjautuminen pitäisi onnistua ilman salasanaa
 
-![[h1_5.png]]
+![[H1 - Hei Ansiblen maailma_5.png]]
 
 ### c)
 
