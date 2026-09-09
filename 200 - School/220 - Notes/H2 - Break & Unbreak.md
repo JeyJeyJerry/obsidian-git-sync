@@ -69,14 +69,14 @@ $ python3 staff-only.py
 - Käännyin jälleen Robinin vihjeiden pariin ja olin ilmeisesti ainakin tutkinut oikeaa osaa koodista, mutta taitoni loppuivat siihen
 - Kokeilin Robinin esimerkin mukaista koodia ja se esti aiemmin kokeillun hyökkäyksen ja antoi salasanaksi vain **(not found)**
 
-
-![Alt text](images/h2_images/h2_5.png)
+![[H2 - Break & Unbreak_4.png]]
+![[H2 - Break & Unbreak_5.png]]
 
 ## c) Solve dirfuzt-1
 
 - Latasin **dirfuzt-1** ohjelman ja ajoin sen saadakseni nettisivun osoitteen
 
-![Alt text](images/h2_images/h2_6.png)
+![[H2 - Break & Unbreak_6.png]]
 
 - Sitten latasin **ffuf** ohjelman ja ohjeissa mainitun **Seclistan**
 
@@ -89,11 +89,11 @@ $ wget https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discover
 - Ensimmäisenä ajoin ffuf ohjelman ilman mitään suodattimia ja käyttäen seclistaa **common.txt**
 - Ohjelma suoriutui oikein ja sain vastauksia, mutta niitä oli lukematon määrä ja lähes kaikki näytti **status: 200** eli ok
 
-![Alt text](images/h2_images/h2_7.png)
+![[H2 - Break & Unbreak_7.png]]
 
 - Tuloksesta huomasin kuitenkin, että suurin osa tuloksista oli 10 riviä pitkiä, joten lisäsin suodattimen **"-fl 10"**, joka suodattaa kaikki 10 rivin vastaukset pois
 
-![Alt text](images/h2_images/h2_8.png)
+![[H2 - Break & Unbreak_8.png]]
 
 - Tällä kertaa vastaukseksi tuli vain seitsemän vaihtoehtoa
 - Muistin, että tehtävä oli löytää **admin sivu** sekä **versionhallinta sivu**
