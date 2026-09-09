@@ -1,6 +1,6 @@
 Tags: #course
 
-## Tehtävät
+## Assignments
 
 - [[H1 - Hei Ansiblen maailma]]
 - [[H2 - Voileipä]]

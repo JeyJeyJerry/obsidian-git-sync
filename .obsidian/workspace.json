@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi.md",
+                "file": "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sovellusten hakkerointi"
+              "title": "Tietoturvan hallinta, riskin hallinta"
             }
           }
         ],
@@ -256,8 +256,12 @@
   },
   "active": "61c97ccd854ef00b",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet.md",
+    "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
+    "obsidian-git-sync/999 - Templates/Course Template.md",
+    "obsidian-git-sync/999 - Templates/Class Template.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Cache.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen Arkkitehtuuri.md",
@@ -292,10 +296,6 @@
     "obsidian-git-sync/500 - Files/H3 - No Strings Attached_1.png",
     "obsidian-git-sync/500 - Files/H2 - Break & Unbreak_16.png",
     "obsidian-git-sync/500 - Files/H2 - Break & Unbreak_15.png",
-    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPU.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H5 - Gitar Hero.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H6 - Ansible Gaming Setup (project).md",
     "obsidian-git-sync/200 - School/220 - Notes/Attachments",
     "obsidian-git-sync/500 - Files",
     "obsidian-git-sync/200 - School/220 - Notes",
