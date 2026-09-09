@@ -1,5 +1,5 @@
 Course: [[]]
-Date: {{date}}
+Date: 09-09-2026
 
 ## Notes
 
