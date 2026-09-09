@@ -153,9 +153,9 @@ become: true
 - Nyt samba-rooli varmistaa että molemmat tarvittavat paketit asentuvat, /etc/samba hakemisto on olemassa ja lisää muokatun smb.conf tiedoston oikeaan paikkaan
 - Ajetaan ansible-playbook ja tarkistetaan tilanne
 
-![[h4_3.png]]
-![[h4_4.png]]
-![[h4_5.png]]
+![[H4 - Pizza Fantasia_3.png]]
+![[H4 - Pizza Fantasia_4.png]]
+![[H4 - Pizza Fantasia_5.png]]
 
 - Paketit asentuivat, muokkaus tuli näkyviin oikeaan paikkaan ja samba uudelleenkäynnistyi
 
@@ -168,12 +168,12 @@ $ sudo apt purge samba smbclient
 $ sudo rm -r /etc/samba
 ```
 
-![[h4_6.png]]
-![[h4_7.png]]
+![[H4 - Pizza Fantasia_6.png]]
+![[H4 - Pizza Fantasia_7.png]]
 
 - Ajetaan ansible-playbook ja varmistetaan, että tilanne korjaantuu
 
-![[h4_8.png]]
+![[H4 - Pizza Fantasia_8.png]]
 
 - Paketit asentuvat uudelleen, /etc/samba hakemisto luodaan ja muokkaukset edelleen tulevat näkyviin
 
@@ -181,7 +181,7 @@ $ sudo rm -r /etc/samba
 
 - Ajetaan ansible-playbook vielä kerran, että tiedämme tilan olevan idempotentti
 
-![[h4_9.png]]
+![[H4 - Pizza Fantasia_9.png]]
 
 ## Lähteet
 - Tero Karvinen 2023 Configuration Management of Distributed Systems over Unreliable and Hostile Networks. Luettavissa: [Configuration Management of Distributed Systems over Unreliable and Hostile Networks](https://westminsterresearch.westminster.ac.uk/item/w7vvz/configuration-management-of-distributed-systems-over-unreliable-and-hostile-networks) Luettu 21.4.2026
