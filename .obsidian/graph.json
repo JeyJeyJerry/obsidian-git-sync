@@ -29,10 +29,10 @@
       }
     },
     {
-      "query": "pat",
+      "query": "path:\"obsidian-git-sync/500 - Files\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 10000154
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 0,
   "linkDistance": 250,
-  "scale": 0.6906395020147851,
-  "close": false
+  "scale": 0.1571292631028664,
+  "close": true
 }

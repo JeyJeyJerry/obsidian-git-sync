@@ -4,47 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6e946288c9233f82",
+        "id": "1c0abbb1615a294b",
         "type": "tabs",
         "children": [
           {
-            "id": "62e4767588a30b7b",
+            "id": "d17d1c84967e59d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f55c068b4a528dae",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bf312946ca776be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
               "icon": "lucide-file",
-              "title": "Gruvbox color palette"
+              "title": "New tab"
             }
           }
         ]
@@ -59,7 +29,7 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
-        "dimension": 68.63207547169812,
+        "dimension": 68.71069182389937,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -106,12 +76,12 @@
         ]
       },
       {
-        "id": "0ac19327f72a1e48",
+        "id": "5a339af859c756c8",
         "type": "tabs",
-        "dimension": 31.367924528301888,
+        "dimension": 31.289308176100626,
         "children": [
           {
-            "id": "10d9556124483572",
+            "id": "62e4767588a30b7b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -124,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.2989692687988
+    "width": 363.73857498168945
   },
   "right": {
     "id": "77bcd734db37ed44",
