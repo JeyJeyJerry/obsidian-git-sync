@@ -1,3 +1,5 @@
+Course: [[Sovellusten hakkerointi]]
+Date: **08.09.2026**
 
 ## a) Strings
 

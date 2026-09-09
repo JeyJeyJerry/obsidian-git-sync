@@ -1,3 +1,5 @@
+Course: [[Sovellusten hakkerointi]]
+Date: **01.09.2026**
 
 ## Tiivistelmät
 
