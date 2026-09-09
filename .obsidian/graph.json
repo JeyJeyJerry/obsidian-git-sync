@@ -11,7 +11,7 @@
       "query": "tag:#book  ",
       "color": {
         "a": 1,
-        "rgb": 10000154
+        "rgb": 11625094
       }
     },
     {
@@ -25,7 +25,14 @@
       "query": "path:\"obsidian-git-sync/400 - Daily Notes\"  ",
       "color": {
         "a": 1,
-        "rgb": 8627608
+        "rgb": 6856042
+      }
+    },
+    {
+      "query": "pat",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 0,
   "linkDistance": 250,
-  "scale": 0.690639502014785,
+  "scale": 0.6906395020147851,
   "close": false
 }
