@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/220 - Notes/Muistin toiminta.md",
+                "file": "obsidian-git-sync/200 - School/220 - Notes/RAM-muisti.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Muistin toiminta"
+              "title": "RAM-muisti"
             }
           }
         ]
@@ -243,6 +243,9 @@
   },
   "active": "d949e8b2a49149aa",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/220 - Notes/Prosessorin toiminta.md",
+    "obsidian-git-sync/200 - School/220 - Notes/Piirisarjat.md",
+    "obsidian-git-sync/200 - School/220 - Notes/Muistin toiminta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Keskusmuisti.md",
     "obsidian-git-sync/200 - School/220 - Notes/Eri osien toiminta.md",
     "obsidian-git-sync/200 - School/220 - Notes/H0 - compile and Analyze.md",
@@ -277,9 +280,6 @@
     "obsidian-git-sync/200 - School/220 - Notes/Toiminnan periaate.md",
     "obsidian-git-sync/200 - School/220 - Notes",
     "obsidian-git-sync/200 - School/Misc./Video Résumé Script.md",
-    "obsidian-git-sync/200 - School/Misc./Sales Pitch Script.md",
-    "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
-    "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
     "obsidian-git-sync/300 - Books/Book view.base",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Untitled.base",
     "obsidian-git-sync/500 - Files/h1_1 1.png",
