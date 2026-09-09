@@ -99,7 +99,7 @@ $ git commit
 
 - Kun muutokset ovat menneet läpi, tehdään niistä myös commit
 
-![[h5_13.png]]
+![[H5 - Gitar Hero_13.png]]
 
 ### f)
 
