@@ -43,7 +43,7 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
-        "dimension": 49.29178470254957,
+        "dimension": 71.61949685534591,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -92,7 +92,7 @@
       {
         "id": "0ac19327f72a1e48",
         "type": "tabs",
-        "dimension": 50.70821529745042,
+        "dimension": 28.38050314465409,
         "children": [
           {
             "id": "10d9556124483572",
@@ -241,7 +241,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2fa59f1b022f6e0",
+  "active": "2c395ac0a9a17361",
   "lastOpenFiles": [
     "obsidian-git-sync/README.md",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
