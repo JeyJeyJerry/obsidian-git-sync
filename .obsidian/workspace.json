@@ -11,24 +11,12 @@
             "id": "d949e8b2a49149aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "obsidian-git-sync/200 - School/220 - Notes/H3 - Demoni.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "obsidian-git-sync/500 - Files/h3_4.png"
               },
-              "icon": "lucide-file",
-              "title": "H3 - Demoni"
+              "icon": "lucide-image",
+              "title": "h3_4"
             }
           }
         ]
@@ -243,6 +231,10 @@
   },
   "active": "d949e8b2a49149aa",
   "lastOpenFiles": [
+    "obsidian-git-sync/500 - Files/h3_3.png",
+    "obsidian-git-sync/500 - Files/h3_2.png",
+    "obsidian-git-sync/500 - Files/h3_1.png",
+    "obsidian-git-sync/200 - School/220 - Notes/H3 - Demoni.md",
     "obsidian-git-sync/200 - School/220 - Notes/H2 - Voileipä.md",
     "obsidian-git-sync/500 - Files/H2 - Voileipä_7.png",
     "obsidian-git-sync/500 - Files/H2 - Voileipä_6.png",
@@ -252,9 +244,7 @@
     "obsidian-git-sync/500 - Files/H2 - Voileipä_2.png",
     "obsidian-git-sync/500 - Files/H2 - Voileipä_1.png",
     "obsidian-git-sync/500 - Files/sandwich.png",
-    "obsidian-git-sync/500 - Files/h2_1.png",
     "obsidian-git-sync/200 - School/220 - Notes/H1 - Hei Ansiblen maailma.md",
-    "obsidian-git-sync/500 - Files/H1 - Hei Ansiblen maailma_10.png",
     "obsidian-git-sync/200 - School/220 - Notes/H1 - Freedom of Action, Control, and Risk Mitigation.md",
     "obsidian-git-sync/200 - School/220 - Notes/H0 - compile and Analyze.md",
     "obsidian-git-sync/200 - School/220 - Notes/Attachments",
@@ -278,7 +268,6 @@
     "obsidian-git-sync/200 - School/220 - Notes/Cache.md",
     "obsidian-git-sync/200 - School/220 - Notes/testi.md",
     "obsidian-git-sync/999 - Templates/Daily Note Template.md",
-    "obsidian-git-sync/999 - Templates/Chapter Template.md",
     "obsidian-git-sync/500 - Files",
     "obsidian-git-sync/200 - School/220 - Notes",
     "obsidian-git-sync/300 - Books/Book view.base",
