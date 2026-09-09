@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/220 - Notes/H1 - Hei Ansiblen maailma.md",
+                "file": "obsidian-git-sync/200 - School/220 - Notes/H2 - Voileipä.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "H1 - Hei Ansiblen maailma"
+              "title": "H2 - Voileipä"
             }
           }
         ]
@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.20000000000005
+    "width": 358.2613410949707
   },
   "right": {
     "id": "77bcd734db37ed44",
@@ -243,6 +243,7 @@
   },
   "active": "d949e8b2a49149aa",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/220 - Notes/H1 - Hei Ansiblen maailma.md",
     "obsidian-git-sync/500 - Files/H1 - Hei Ansiblen maailma_10.png",
     "obsidian-git-sync/500 - Files/H1 - Hei Ansiblen maailma_9.png",
     "obsidian-git-sync/500 - Files/H1 - Hei Ansiblen maailma_8.png",
@@ -253,8 +254,6 @@
     "obsidian-git-sync/500 - Files/H1 - Hei Ansiblen maailma_3.png",
     "obsidian-git-sync/500 - Files/H1 - Hei Ansiblen maailma_2.png",
     "obsidian-git-sync/500 - Files/H1 - Hei Ansiblen maailma_1.png",
-    "obsidian-git-sync/500 - Files/h1_1.png",
-    "obsidian-git-sync/200 - School/220 - Notes/H1 - Hei Ansiblen maailma.md",
     "obsidian-git-sync/200 - School/220 - Notes/H1 - Freedom of Action, Control, and Risk Mitigation.md",
     "obsidian-git-sync/200 - School/220 - Notes/H0 - compile and Analyze.md",
     "obsidian-git-sync/200 - School/220 - Notes/Attachments",
