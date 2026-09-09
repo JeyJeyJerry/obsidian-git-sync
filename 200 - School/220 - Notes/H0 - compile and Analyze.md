@@ -30,7 +30,7 @@ Hello World!
 
 - Tarkastelin tiedostoa vielä HEX-muodossa komennolla **xxd**
 
-
+![[H0 - compile and Analyze_2.png]]
 
 ## Lähteet
 

@@ -30,7 +30,7 @@
 
 ## Verkko- ja rajapintakaavio
 
-![[h1_1 1.png]]
+![[H1 - Freedom of Action, Control, and Risk Mitigation_1.png]]
 
 ## Mitä todisteita voisin antaa?
 
