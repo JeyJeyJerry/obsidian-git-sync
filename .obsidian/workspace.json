@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3eed77f207dd1912",
+        "id": "02a31bb58779b2a2",
         "type": "tabs",
         "children": [
           {
-            "id": "61c97ccd854ef00b",
+            "id": "26c633c5a1a61cce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H3 - No Strings Attached.md",
-                "mode": "preview",
+                "file": "obsidian-git-sync/README.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "H3 - No Strings Attached"
+              "title": "README"
             }
           }
         ]
@@ -231,8 +231,8 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
@@ -240,8 +240,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "c8f41adb0a47b5d8",
+  "active": "26c633c5a1a61cce",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H3 - No Strings Attached.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H2 - Break & Unbreak.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H1 - Freedom of Action, Control, and Risk Mitigation.md",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H3 - Demoni.md",
@@ -267,7 +268,6 @@
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Muistin toiminta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Piirisarjat.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/RAM-muisti.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Toiminnan periaate.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta",
