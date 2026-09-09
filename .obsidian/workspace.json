@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
+                "file": "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gruvbox color palette"
+              "title": "Johdanto ICT-infrastruktuuriin ja pilvipalveluihin"
             }
           }
         ]
@@ -53,7 +53,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -241,12 +241,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "e2fa59f1b022f6e0",
+  "active": "2c395ac0a9a17361",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Cache.md",
+    "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
     "obsidian-git-sync/100 - Index/Batocera Games.md",
     "obsidian-git-sync/100 - Index/Games To Play.md",
-    "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/README.md",
     "obsidian-git-sync/400 - Daily Notes/22-04-2026.md",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
@@ -279,7 +280,6 @@
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tietokoneen Arkkitehtuuri.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Tiedon esitys tietokoneessa.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/RAM-muisti.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen rakenne ja toimintalogiikka/Prosessorin toiminta.md",
     "Media DB/books",
     "Media DB",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Attachments/kvali_3.png",
