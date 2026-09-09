@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d949e8b2a49149aa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "obsidian-git-sync/500 - Files/Tietoturvan hallinta, riskin hallinta_1.png"
-              },
-              "icon": "lucide-image",
-              "title": "Tietoturvan hallinta, riskin hallinta_1"
-            }
-          },
-          {
             "id": "61c97ccd854ef00b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPUn historia.md",
+                "file": "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -40,11 +28,65 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CPUn historia"
+              "title": "Johdanto ICT-infrastruktuuriin ja pilvipalveluihin"
+            }
+          },
+          {
+            "id": "febdf507d82fe67e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPU.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CPU"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "38acf364d0778a7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08e5623b1379d612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Johdanto ICT-infrastruktuuriin ja pilvipalveluihin"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,23 +296,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "61c97ccd854ef00b",
+  "active": "08e5623b1379d612",
   "lastOpenFiles": [
-    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPU moniydin, hyperthreading.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPU.md",
+    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
+    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPUn toiminta.md",
+    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPU moniydin, hyperthreading.md",
+    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPUn historia.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Cache.md",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet.md",
     "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi.md",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
     "obsidian-git-sync/999 - Templates/Course Template.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
     "obsidian-git-sync/999 - Templates/Class Template.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen Arkkitehtuuri.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tiedon esitys tietokoneessa.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPUn historia.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPUn kello.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPUn toiminta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Emolevy.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Eri osien toiminta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Keskusmuisti.md",
