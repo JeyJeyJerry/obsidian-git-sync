@@ -2,7 +2,7 @@
   "imageNamePattern": "{{fileName}}",
   "dupNumberAtStart": false,
   "dupNumberDelimiter": "_",
-  "dupNumberAlways": false,
+  "dupNumberAlways": true,
   "autoRename": false,
   "handleAllAttachments": false,
   "excludeExtensionPattern": "",

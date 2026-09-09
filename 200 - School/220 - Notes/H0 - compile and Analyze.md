@@ -26,7 +26,7 @@ Hello World!
 
 - Seuraavaksi tarkastelin **hello** tiedostoa **file** komennolla ja sain selville, että tiedosto on **ELF 64-bit** tiedosto tarkoitettu Linuxille
 
-
+![[Pasted image 20260909184329.png]]
 
 - Tarkastelin tiedostoa vielä HEX-muodossa komennolla **xxd**
 
