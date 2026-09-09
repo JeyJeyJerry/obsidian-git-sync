@@ -1,5 +1,5 @@
 Course: [[Sovellusten hakkerointi]]
-Date: **25.08.2026**
+Date: **20.08.2026**
 
 ## a)
 
