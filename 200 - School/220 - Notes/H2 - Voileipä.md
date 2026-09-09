@@ -163,7 +163,7 @@ $ ansible-playbook site.yml -K
 ```
 
 ![[H2 - Voileipä_2.png]]
-![[h2_2.png]]
+![[H2 - Voileipä_3.png]]
 
 ### c)
 
@@ -181,11 +181,11 @@ $ ansible-playbook site.yml -K
 - Optio "state latest" varmistaa, että paketeista asennetaan uusin versio ja optio "update_cache: yes" ajaa "apt-get update" ennen pakettien asentamista
 - Ajetaan "ansible-playbook" ja varmistetaan, että muutokset meni läpi
 
-![[h2_3.png]]
+![[H2 - Voileipä_4.png]]
 
 - Tarkistetaan käyttäjällä bob, että paketit ovat asennettu
 
-![[h2_4.png]]
+![[H2 - Voileipä_5.png]]
 
 ### d)
 
@@ -204,7 +204,7 @@ $ ansible-playbook site.yml -K
   - Tämä tarkoittaa, että tiedoston omistajalla on oikeus lukea ja muokata tiedostoa ja ryhmällä sudoless ja muilla käyttäjillä on vain oikeus lukea
 - Ajetaan "ansible-playbook" ja tarkistetaan käyttäjän bob /tmp hakemistosta onko tiedosto luotu oikein
 
-![[h2_5.png]]
+![[H2 - Voileipä_6.png]]
 
 ### e)
 
@@ -220,7 +220,7 @@ $ ansible-playbook site.yml -K
     dest: /tmp/ansible_uptime
 ```
 
-![[h2_6.png]]
+![[H2 - Voileipä_7.png]]
 
 ## Lähteet
 - Tero Karvinen Sudo without password. Luettavissa: https://terokarvinen.com/passwordless-sudo/ Luettu 7.4.2026
