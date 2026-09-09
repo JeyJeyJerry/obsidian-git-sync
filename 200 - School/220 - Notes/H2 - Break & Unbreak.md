@@ -99,17 +99,17 @@ $ wget https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discover
 - Muistin, että tehtävä oli löytää **admin sivu** sekä **versionhallinta sivu**
   - Päätin ensin etsiä admin sivun ja vastauksissa oli vaihtoehto **wp-admin**, joten kokeilin sitä ja se olikin oikea reitti
 
-![Alt text](images/h2_images/h2_9.png)
+![[H2 - Break & Unbreak_9.png]]
 
 - Seuraavaksi olisi aika löytää versionhallinta sivu, joten kokeilin vastausta **".git"**, koska tiedän Gitin olevan versionhallintaohjelma. Tämäkin johti oikeaan paikkaan
 
-![Alt text](images/h2_images/h2_10.png)
+![[H2 - Break & Unbreak_10.png]]
 
 ## d) Break into 020-your-eyes-only
 
 - Ensimmäisenä loin tehtävälle virtuaalisen ympäristön ohjeiden mukaisesti
 
-![Alt text](images/h2_images/h2_11.png)
+![[H2 - Break & Unbreak_11.png]]
 
 - Tämän jälkeen menin selaimella sivulle ja aloin tutkimaan eri vaihtoehtoja
   - Kokeilin kirjoittaa kirjautumiskenttään käyttäjänimeksi ja salasanaksi **admin**, mutta yllättäen se ei toiminut
@@ -117,22 +117,22 @@ $ wget https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discover
 - Sitten päätin yrittää edellisen tehtävät ffuf menetelmää samalla seclistalla common.txt
   - Odotin saavani taas tuhansia vastauksia, mutta yllätyin kun sain vain yhden vastauksen ilman mitään suodatusta
 
-![Alt text](images/h2_images/h2_12.png)
+![[H2 - Break & Unbreak_12.png]]
 
 - Kokeilin vastausta **"admin-console"** selaimen URL-osoitteessa ja pääsin admin sivulle
 
-![Alt text](images/h2_images/h2_13.png)
+![[H2 - Break & Unbreak_13.png]]
 
 ## e) Fix the 020-your-eyes-only vulnerability
 
 - Lähdin tutkimaan sivun lähdekoodia ja löysin tiedostosta **/hats/views.py** kiinnostavan kohdan
 - Tiedostossa oli kaksi osaa, jotka käsittelivät admin sivuja ja vain toisessa luki, että tarkistetaan käyttäjän oikeudet
 
-![Alt text](images/h2_images/h2_14.png)
+![[H2 - Break & Unbreak_14.png]]
 
 - Kopioin puuttuvan koodipätkän niin, että se on nyt molemmissa kohdissa sama
 
-![Alt text](images/h2_images/h2_15.png)
+![[H2 - Break & Unbreak_15.png]]
 
 - Tämän jälkeen kirjauduin takaisin tililleni ja kokeilin kirjoittaa URL-osoitteeseen taas **admin-console** ja sain koodin **"403 forbidden"**, eli korjaus esti hyökkäyksen
 
@@ -140,7 +140,7 @@ $ wget https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discover
 
 - Suoritin harjoituksen jo tunnin aikana
 
-![Alt text](images/h2_images/h2_16.png)
+![[H2 - Break & Unbreak_16.png]]
 
 ## Lähteet
 
