@@ -50,18 +50,18 @@ date: 31-03-2026
 - Seuraavaksi valmistaudutaan tekemään Ansiblella "Hei Maailma"-testi asentamalla Ansible ja tarvittavat hyödylliset ohjelmat
 	- `ansible`, `micro`, `bash-completion` ja `tree`
 
-![[h1_6.png]]
+![[H1 - Hei Ansiblen maailma_6.png]]
 
 - Luodaan Ansiblen tarvittava hakemistorakenne ja tiedosto `hosts.ini`
 	- `hosts-ini`-tiedoston sisälle lisätään kaikki konfiguroitavat koneet
 		- Tässä tapauksessa pelkästään **localhost**
 
-![[h1_7.png]]
+![[H1 - Hei Ansiblen maailma_7.png]]
 
 - Testataan, että Ansible toimii ajamalla jokaisella koneella (eli vain localhost) komento `uptime`
 	- Tämä tehdään Ansiblella ajamalla komento `ansible all -a 'uptime' -i hosts.ini`, ansible-hakemiston sisällä
 
-![[h1_8.png]]
+![[H1 - Hei Ansiblen maailma_8.png]]
 
 - Luodaan ansible-kansion sisälle hakemisto **roles**, jossa sijaitsee kaikki roolit
 - Luodaan roles-hakemiston sisälle rooli **hello**, jonka avulla teemme "Hei Maailma"- testin
@@ -83,11 +83,11 @@ cat roles/hello/tasks/main.yml
 - Lisätään tiedostoon site.yml hello-rooli
 - Tämän jälkeen ajetaan komento `ansible-playbook site.yml` ansible-hakemiston sisällä ja varmistetaan, että muutokset menevät läpi
 
-![[h1_9.png]]
+![[H1 - Hei Ansiblen maailma_9.png]]
 
 - Lopputuloksena meillä on toimiva Ansible ympäristö ja oikea hakemistorakenne jatkoa varten
 
-![[h1_10.png]]
+![[H1 - Hei Ansiblen maailma_10.png]]
 
 ## Lähteet
 - Tero Karvinen SSH public key - Login without password. Luettavissa: https://terokarvinen.com/ssh-public-key-login-without-password/ Luettu 31.3.2026
