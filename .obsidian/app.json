@@ -8,7 +8,7 @@
   "attachmentFolderPath": "./Attachments",
   "trashOption": "none",
   "alwaysUpdateLinks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "strictLineBreaks": false,
   "pdfExportSettings": {
     "includeName": true,
@@ -17,5 +17,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": true
 }
