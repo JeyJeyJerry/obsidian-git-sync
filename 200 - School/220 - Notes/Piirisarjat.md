@@ -1,5 +1,5 @@
 Course: [[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]
-Date: 29.03.2025
+Date: **29.03.2025**
 
 - Piirisarja on "liima" emolevyn eri osien välillä.
 	- Kontrolloi väyliä

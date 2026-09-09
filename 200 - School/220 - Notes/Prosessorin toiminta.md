@@ -1,5 +1,5 @@
 Course: [[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]
-Date: 23.03.2025
+Date: **23.03.2025**
 
 - Prosessori, eng. Central Processing Unit (CPU)
 - CPU on tietokoneen tärkein osa. Se tekee suurimman osan työstä ja kontrolloi muita osia.
