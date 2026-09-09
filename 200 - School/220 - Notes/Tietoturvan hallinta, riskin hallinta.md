@@ -44,7 +44,7 @@ Date: **05-05-2026**
 		- Tavoitteena on estää tai minimoida **palvelunestohyökkäykset**, **tekniset vianaiheet**, **luonnonkatastrofit**, inhimilliset virheet ja muut tekijä
 			- Varmistamiseksi käytetään usein erilaisia toimenpiteitä, kuten **redundanssia**, **varmuuskopiointia**, **kuormanjakoa**, **häiriönsietokykyä** ja **vikasietoisuutta**
 
-![[tietoturva_graph.png]]
+![[Tietoturvan hallinta, riskin hallinta_1.png]]
 
 - **AAA -prosessi**
 	- **Identification** - tunnistaminen: Toimija ilmoittaa identiteettinsä järjestelmälle, jolloin AAA -prosessi käynnistyy
@@ -108,15 +108,15 @@ Date: **05-05-2026**
 	- Pitämällä suunnitelman ja ohjeet ajantasaisena
 	- Tietoturvakoulutuksella
 
-![[riskienhallinta_graph.png]]
+![[Tietoturvan hallinta, riskin hallinta_2.png]]
 
 - Riskien suuruutta voi arvioida käyttämällä **Kvalitatiivista riskinanalyysiä**
 	- Arvio ja tulokset ovat subjektiivisia ja perustuvat mielipiteisiin
 	- Ei anna rahallista arvoa kustannus / hyöty-analyysiin
 - Riskin suuruus = vakavuus * todennäköisyys
 
-![[kvali_1.png]]
-![[kvali_2.png]]
+![[Tietoturvan hallinta, riskin hallinta_3.png]]
+![[Tietoturvan hallinta, riskin hallinta_4.png]]
 ![[kvali_3.png]]
 
 - Kvantitatiivinen riskianalyysi on menetelmä, jolla arvioidaan riskin toteutumisen aiheuttamat **kustannukset**
