@@ -26,11 +26,11 @@ Hello World!
 
 - Seuraavaksi tarkastelin **hello** tiedostoa **file** komennolla ja sain selville, että tiedosto on **ELF 64-bit** tiedosto tarkoitettu Linuxille
 
-![[h0_1.png]]
+
 
 - Tarkastelin tiedostoa vielä HEX-muodossa komennolla **xxd**
 
-![[h0_2.png]]
+
 
 ## Lähteet
 
