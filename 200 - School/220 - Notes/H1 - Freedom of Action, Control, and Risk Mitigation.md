@@ -30,7 +30,7 @@
 
 ## Verkko- ja rajapintakaavio
 
-![[obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi/Attachments/h1_1.png]]
+![[h1_1 1.png]]
 
 ## Mitä todisteita voisin antaa?
 
