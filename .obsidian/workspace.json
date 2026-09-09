@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/220 - Notes/testi.md",
+                "file": "obsidian-git-sync/200 - School/220 - Notes/CPUn kello.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "testi"
+              "title": "CPUn kello"
             }
           }
         ]
@@ -241,8 +241,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "2c395ac0a9a17361",
+  "active": "d949e8b2a49149aa",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/220 - Notes/CPUn historia.md",
+    "obsidian-git-sync/200 - School/220 - Notes/CPU moniydin, hyperthreading.md",
+    "obsidian-git-sync/200 - School/220 - Notes/CPU.md",
+    "obsidian-git-sync/200 - School/220 - Notes/Cache.md",
     "obsidian-git-sync/999 - Templates/Class Template.md",
     "obsidian-git-sync/200 - School/220 - Notes/testi.md",
     "obsidian-git-sync/999 - Templates/Daily Note Template.md",
@@ -262,10 +266,6 @@
     "obsidian-git-sync/200 - School/220 - Notes/Emolevy.md",
     "obsidian-git-sync/200 - School/220 - Notes/CPUn toiminta.md",
     "obsidian-git-sync/200 - School/220 - Notes/CPUn kello.md",
-    "obsidian-git-sync/200 - School/220 - Notes/CPUn historia.md",
-    "obsidian-git-sync/200 - School/220 - Notes/CPU moniydin, hyperthreading.md",
-    "obsidian-git-sync/200 - School/220 - Notes/CPU.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Cache.md",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet.md",
     "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi.md",
     "obsidian-git-sync/200 - School/220 - Notes/H2 - Voileipä.md",

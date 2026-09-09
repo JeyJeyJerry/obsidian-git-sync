@@ -1,5 +1,5 @@
 course: [[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]
-date: 23.03.2025
+date: **23.03.2025**
 
 
 # Sisältö:
