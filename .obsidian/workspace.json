@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/README.md",
-                "mode": "preview",
+                "file": "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Gruvbox color palette"
             }
           }
         ]
@@ -243,8 +243,12 @@
   },
   "active": "e2fa59f1b022f6e0",
   "lastOpenFiles": [
-    "obsidian-git-sync/400 - Daily Notes/22-04-2026.md",
+    "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
+    "obsidian-git-sync/100 - Index/Batocera Games.md",
+    "obsidian-git-sync/100 - Index/Games To Play.md",
+    "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/README.md",
+    "obsidian-git-sync/400 - Daily Notes/22-04-2026.md",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet/Tietoturvan perusteet.md",
     "obsidian-git-sync/200 - School/210 - Courses/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin.md",
@@ -264,11 +268,7 @@
     "obsidian-git-sync/200 - School/Misc./Sales Pitch Script.md",
     "obsidian-git-sync/200 - School/Misc./Video Résumé Script.md",
     "obsidian-git-sync/Homepage - Jerry Sjövall.md",
-    "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
-    "obsidian-git-sync/100 - Index/Batocera Games.md",
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
-    "obsidian-git-sync/100 - Index/Games To Play.md",
-    "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
     "obsidian-git-sync/100 - Index/Attachments/sakamoto.png",
     "obsidian-git-sync/Attachments",
     "obsidian-git-sync/100 - Index/Attachments/gruvbox_colors.png",
