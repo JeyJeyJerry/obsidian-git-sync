@@ -1,4 +1,4 @@
-Course: "[[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]"
+Course: [[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]
 Date: 23.03.2025
 
 - Ensimmäinen PC:n CPU oli Intel 8088. se oli yksinkertainen 16 bitin prosessori.

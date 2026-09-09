@@ -1,4 +1,4 @@
-course: "[[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]"
+course: [[Johdanto ICT-infrastruktuuriin ja pilvipalveluihin]]
 date: 23.03.2025
 
 
