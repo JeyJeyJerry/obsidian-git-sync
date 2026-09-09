@@ -49,17 +49,17 @@ date: 28-04-2026
 
 - Tarkistetaan, että muutokset tulivat näkyviin weppiliittymään
 
-![[h5_6.png]]
+![[H5 - Gitar Hero_6.png]]
 
 ### c)
 
 - Luodaan virtuaalikoneella varastoon **tyhmä-tiedosto** ja lisätään sen sisälle hieman tekstiä
 
-![[h5_7.png]]
+![[H5 - Gitar Hero_7.png]]
 
 - Lisätään muutokset komennolla `git add --all`, mutta ei tehdä commit:tia vaan tuhotaan tyhmä muutos komennolla `git reset --hard`
 
-![[h5_8.png]]
+![[H5 - Gitar Hero_8.png]]
 
 - Ajamalla komennon `git status` näämme, että muutokset ovat poistuneet ja varaston tila on siirtynyt siihen, missä se oli edellisen commitin jälkeen
 
@@ -68,7 +68,7 @@ date: 28-04-2026
 - Tarkastellaan varaston **lokia** komennolla `git log -p`
   - `-p` on lyhenne optiosta `--patch`
 
-![[h5_9.png]]
+![[H5 - Gitar Hero_9.png]]
 
 - Lokissa näkyy ensin alkuperäinen committi **(Initial commit)**, jossa luotiin **README.md** tiedosto ja lisättiin lisenssi
 - Seuraavana lokissa näkyy muokkaus **README.md** tiedostoon
@@ -80,7 +80,7 @@ date: 28-04-2026
 
 - Tehdään kansiosta `~/ansible/roles` git-varasto komennolla `git init`
 
-![[h5_10.png]]
+![[H5 - Gitar Hero_10.png]]
 
 - Tehdään ensimmäinen commit **(Initial commit)** heti varaston luomisen jälkeen, koska varasto ei toimi jos se on tyhjä
 
@@ -91,11 +91,11 @@ $ git commit
 
 - Tiedosto `hello/tasks/main.yml` tekee tiedoston hakemistoon `/tmp/hei_ansible`, jossa lukee "Hei Maailma". Muokataan se sanomaan "Hei Git"
 
-![[h5_11.png]]
+![[H5 - Gitar Hero_11.png]]
 
 - Ajetaan ensin komento `ansible-playbook site.yml -K` ja varmistetaan, että muutokset menevät läpi
 
-![[h5_12.png]]
+![[H5 - Gitar Hero_12.png]]
 
 - Kun muutokset ovat menneet läpi, tehdään niistä myös commit
 
