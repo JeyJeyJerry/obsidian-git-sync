@@ -11,24 +11,12 @@
             "id": "d949e8b2a49149aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "obsidian-git-sync/200 - School/220 - Notes/H1 - Freedom of Action, Control, and Risk Mitigation.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "obsidian-git-sync/500 - Files/h1_1.png"
               },
-              "icon": "lucide-file",
-              "title": "H1 - Freedom of Action, Control, and Risk Mitigation"
+              "icon": "lucide-image",
+              "title": "h1_1"
             }
           }
         ]
@@ -243,6 +231,8 @@
   },
   "active": "d949e8b2a49149aa",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/220 - Notes/H1 - Hei Ansiblen maailma.md",
+    "obsidian-git-sync/200 - School/220 - Notes/H1 - Freedom of Action, Control, and Risk Mitigation.md",
     "obsidian-git-sync/500 - Files/H1 - Freedom of Action, Control, and Risk Mitigation_1.png",
     "obsidian-git-sync/200 - School/220 - Notes/H0 - compile and Analyze.md",
     "obsidian-git-sync/500 - Files/H0 - compile and Analyze_2.png",
@@ -275,11 +265,9 @@
     "obsidian-git-sync/999 - Templates/Chapter Template.md",
     "obsidian-git-sync/999 - Templates/Book Template.md",
     "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi.md",
     "obsidian-git-sync/500 - Files/kvali_1.png",
     "obsidian-git-sync/500 - Files/kvali_3.png",
     "obsidian-git-sync/500 - Files/kvali_2.png",
-    "obsidian-git-sync/500 - Files/h5_1.png",
     "obsidian-git-sync/500 - Files",
     "obsidian-git-sync/200 - School/220 - Notes",
     "obsidian-git-sync/300 - Books/Book view.base",
