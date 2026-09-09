@@ -33,19 +33,19 @@ date: 28-04-2026
 
 - Luodaan Githubiin varasto nimeltä **sunshine-h5**, lisätään **README.md** tiedosto ja valitaan varaston lisenssiksi **GNU General Public License 3**
 
-![[h5_1.png]]
-![[h5_2.png]]
+![[H5 - Gitar Hero_1.png]]
+![[H5 - Gitar Hero_2.png]]
 
 ### b)
 
 - Kloonataan varasto **sunshine-h5** virtuaalikoneelle komennolla `git clone` ja varaston SSH URL-osoitteella
 
-![[h5_3.png]]
+![[H5 - Gitar Hero_3.png]]
 
 - Muokataan tiedostoa **README.md** ja pusketaan ne palvelimelle
 
-![[h5_4.png]]
-![[h5_5.png]]
+![[H5 - Gitar Hero_4.png]]
+![[H5 - Gitar Hero_5.png]]
 
 - Tarkistetaan, että muutokset tulivat näkyviin weppiliittymään
 
