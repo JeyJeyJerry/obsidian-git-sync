@@ -14,7 +14,7 @@ date: 07-04-2026
 
 ### xkcd 149: Sandwich
 
-![[sandwich.png]]
+![[H2 - Voileipä_1.png]]
 
 - Sarjakuva kertoo, että sudo komento on kuin taikasana, jolla saa järjestelmän tekemään, mitä haluaa
 
@@ -162,7 +162,7 @@ $ cat roles/sudoless/tasks/main.yml
 $ ansible-playbook site.yml -K
 ```
 
-![[h2_1.png]]
+![[H2 - Voileipä_2.png]]
 ![[h2_2.png]]
 
 ### c)
