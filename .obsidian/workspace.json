@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/README.md",
+                "file": "obsidian-git-sync/400 - Daily Notes/22-04-2026.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "22-04-2026"
             }
           }
         ]
@@ -246,8 +246,8 @@
   },
   "active": "d17d1c84967e59d5",
   "lastOpenFiles": [
-    "obsidian-git-sync/Testi.md",
     "obsidian-git-sync/README.md",
+    "obsidian-git-sync/Testi.md",
     "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
     "obsidian-git-sync/500 - Files/Gruvbox color palette_1.png",
