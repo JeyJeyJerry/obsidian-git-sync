@@ -1,5 +1,5 @@
 {
-  "format": "DD-MM-YYYY",
+  "format": "DD.MM.YYYY",
   "folder": "obsidian-git-sync/400 - Daily Notes",
   "template": "obsidian-git-sync/999 - Templates/Daily Note Template.md"
 }
