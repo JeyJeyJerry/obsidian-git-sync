@@ -5,5 +5,7 @@
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "accentColor": "",
   "enabledCssSnippets": [],
-  "nativeMenus": false
+  "nativeMenus": false,
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font"
 }
