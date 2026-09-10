@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Testi.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Testi"
             }
           }
         ]
@@ -192,6 +192,6 @@
   },
   "active": "dd5c67ede45b7692",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Testi.md"
   ]
 }
