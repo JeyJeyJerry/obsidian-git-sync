@@ -4,7 +4,7 @@
   "dupNumberDelimiter": "_",
   "dupNumberAlways": true,
   "autoRename": false,
-  "handleAllAttachments": false,
+  "handleAllAttachments": true,
   "excludeExtensionPattern": "",
   "disableRenameNotice": false
 }
