@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/400 - Daily Notes/22-04-2026.md",
+                "file": "obsidian-git-sync/999 - Templates/Daily Note Template.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "22-04-2026"
+              "title": "Daily Note Template"
             }
           }
         ]
@@ -244,8 +244,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "d17d1c84967e59d5",
+  "active": "2c395ac0a9a17361",
   "lastOpenFiles": [
+    "obsidian-git-sync/999 - Templates/Course Template.md",
+    "obsidian-git-sync/999 - Templates/Class Template.md",
+    "obsidian-git-sync/999 - Templates/Chapter Template.md",
+    "obsidian-git-sync/999 - Templates/Book Template.md",
+    "obsidian-git-sync/400 - Daily Notes/22.04.2026.md",
+    "obsidian-git-sync/400 - Daily Notes/10.09.2026.md",
     "obsidian-git-sync/README.md",
     "obsidian-git-sync/Testi.md",
     "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
@@ -265,14 +271,8 @@
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPU moniydin, hyperthreading.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPUn historia.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Cache.md",
-    "obsidian-git-sync/999 - Templates/Course Template.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
-    "obsidian-git-sync/999 - Templates/Class Template.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tietokoneen Arkkitehtuuri.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Tiedon esitys tietokoneessa.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPUn kello.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Emolevy.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Eri osien toiminta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta",
