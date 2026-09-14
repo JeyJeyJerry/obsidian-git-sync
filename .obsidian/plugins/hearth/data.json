@@ -194,7 +194,22 @@
         "blur": 2
       },
       "backgroundLayout": "full",
-      "dashboardSwitcherVisibility": "hover"
+      "dashboardSwitcherVisibility": "hover",
+      "hiddenFilters": [
+        "other",
+        "3d",
+        "presentations",
+        "spreadsheets",
+        "documents",
+        "pdf",
+        "audio",
+        "videos",
+        "images",
+        "bases",
+        "canvas",
+        "excalidraw",
+        "folders"
+      ]
     }
   ],
   "activeDashboardId": "dash-mu1uar4w-269",
