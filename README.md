@@ -11,4 +11,13 @@
 ## Community plugins used
 
 - [](obsidian://show-plugin?id=better-word-count)
+- [](obsidian://show-plugin?id=dataview)
+- [](obsidian://show-plugin?id=obsidian-git)
+- [](obsidian://show-plugin?id=calendar)
+- [](obsidian://show-plugin?id=obsidian-icon-folder)
+- [](obsidian://show-plugin?id=omnisearch)
+- [](obsidian://show-plugin?id=better-word-count)
+- [](obsidian://show-plugin?id=file-explorer-note-count)
+- [](obsidian://show-plugin?id=pretty-properties)
+- [](obsidian://show-plugin?id=code-styler)
 - 
