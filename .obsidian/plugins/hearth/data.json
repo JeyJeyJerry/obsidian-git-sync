@@ -101,20 +101,6 @@
           "fh": 200
         },
         {
-          "kind": "tasks",
-          "title": "Tasks",
-          "x": 6,
-          "y": 2,
-          "w": 6,
-          "h": 5,
-          "tasks": {},
-          "id": "card-mu1uce3u-2-9529",
-          "fx": 0,
-          "fw": 0.495,
-          "fy": 216,
-          "fh": 270
-        },
-        {
           "kind": "recent",
           "title": "Recent",
           "count": 8,

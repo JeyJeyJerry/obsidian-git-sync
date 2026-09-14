@@ -36,11 +36,7 @@
             "type": "leaf",
             "state": {
               "type": "hearth-home-view",
-              "state": {
-                "scroll": {
-                  "dash-mu1uar4w-269": 67
-                }
-              },
+              "state": {},
               "icon": "hearth-crystal",
               "title": "Home"
             }
