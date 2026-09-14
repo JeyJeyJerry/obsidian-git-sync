@@ -41,8 +41,8 @@ sudo apt install wget unzip python3-flask python3-flask-sqlalchemy
 ```
 
 ```bash
-$ cd challenges/010-staff-only/
-$ python3 staff-only.py
+cd challenges/010-staff-only/
+python3 staff-only.py
 ```
 
 - Pääsin nettisivulle ja aloin kokeilla erilaisia menetelmiä
@@ -83,9 +83,9 @@ $ python3 staff-only.py
 - Sitten latasin **ffuf** ohjelman ja ohjeissa mainitun **Seclistan**
 
 ```bash
-$ sudo apt-get update
-$ sudo apt-get install ffuf
-$ wget https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/common.txt
+sudo apt-get update
+sudo apt-get install ffuf
+wget https://raw.githubusercontent.com/danielmiessler/SecLists/master/Discovery/Web-Content/common.txt
 ```
 
 - Ensimmäisenä ajoin ffuf ohjelman ilman mitään suodattimia ja käyttäen seclistaa **common.txt**

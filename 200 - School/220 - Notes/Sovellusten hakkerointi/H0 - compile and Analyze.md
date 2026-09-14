@@ -17,13 +17,13 @@ int main() {
 - Sitten käänsin c++ ohjelman g++ kääntäjällä suoritettavaksi binääritiedostoksi nimeltä **hello**
 
 ```bash
-$ g++ hello.cpp -o hello
+g++ hello.cpp -o hello
 ```
 
 - Tarkistin, että ohjelma toimii ajamalla sen
 
 ```bash
-$ ./hello
+./hello
 Hello World!
 ```
 

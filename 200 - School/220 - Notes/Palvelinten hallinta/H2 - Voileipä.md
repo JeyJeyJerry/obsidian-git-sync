@@ -73,21 +73,21 @@ date: **07.04.2026**
 - Ensin luodaan käyttäjä **jerry**, luodaan ryhmä **sudoless** ja lisätään käyttäjä ryhmään
 
 ```bash
-$ sudo adduser jerry
-$ sudo groupadd sudoless
-$ sudo adduser jerry sudoless
+sudo adduser jerry
+sudo groupadd sudoless
+sudo adduser jerry sudoless
 ```
 
 - Avataan erillisessä terminaali-ikkunassa **root shell** sitä varten jos asiat menevät rikki ja täytyy tehdä korjauksia
 
 ```bash
-$ sudo -i
+sudo -i
 ```
 
 - Lisätään **sudoers** sääntö, joka antaa sudoless-ryhmälle oikeudet käyttää sudoa ilman salasanaa
 
 ```bash
-$ sudo visudo /etc/sudoers.d/sudoless
+sudo visudo /etc/sudoers.d/sudoless
 
 %sudoless ALL = (ALL) NOPASSWD: ALL
 ```
@@ -95,8 +95,8 @@ $ sudo visudo /etc/sudoers.d/sudoless
 - Testataan käyttäjällä jerry sudo-komentoa
 
 ```bash
-$ ssh jerry@localhost
-$ sudo -k
+ssh jerry@localhost
+sudo -k
 $ sudo echo "testi moi"
 testi moi
 ```
