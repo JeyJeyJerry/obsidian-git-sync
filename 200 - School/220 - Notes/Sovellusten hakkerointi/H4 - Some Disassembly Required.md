@@ -14,7 +14,7 @@ Date: **15.09.2026**
 - Asensin **ghidran** Kali Linux virtuaalikoneelleni
 
 ```bash
-$ sudo apt update && sudo apt install ghidra -y
+sudo apt update && sudo apt install ghidra -y
 ```
 
 ![[H4 - Some Disassembly Required_1.png]]
@@ -60,7 +60,7 @@ $ sudo apt update && sudo apt install ghidra -y
   - Yritin kääntää lähdekoodin ohjelmaksi nimeltä **ghidra_passtr**, mutta sain paljon virheilmoituksia
 
 ```bash
-$ gcc ghidra_passtr.c ghidra_passtr
+gcc ghidra_passtr.c ghidra_passtr
 ```
 
 ![[H4 - Some Disassembly Required_9.png]]
@@ -94,13 +94,13 @@ gcc ghidra_passtr.c ghidra_passtr
 - Latasin tiedostot GitHubista
 
 ```bash
-$ git clone https://github.com/NoraCodes/crackmes.git
+git clone https://github.com/NoraCodes/crackmes.git
 ```
 
 - Varmistin myös, että minulla on tarvittavat ohjelmat
 
 ```bash
-$ sudo apt install build-essential gcc xxd binutils
+sudo apt install build-essential gcc xxd binutils
 ```
 
 ## e) Nora crackme01
@@ -108,7 +108,7 @@ $ sudo apt install build-essential gcc xxd binutils
 - Ensin käänsin lähdekoodista ohjelman **README.md** ohjeilla
 
 ```bash
-$ make crackme01
+make crackme01
 ```
 
 - Tämän jälkeen lisäsin ohjelman ghidra projektiin, avasin sen ghidrassa ja löysin main funktion

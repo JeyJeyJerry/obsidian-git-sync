@@ -35,9 +35,9 @@ Date: **01.09.2026**
 - Ensimmäisenä latasin tarvittavat ohjelmat ja tiedostot ja ajoin python koodin
 
 ```bash
-$ wget https://terokarvinen.com/hack-n-fix/teros-challenges.zip
-$ unzip teros-challenges.zip
-$ sudo apt install wget unzip python3-flask python3-flask-sqlalchemy
+wget https://terokarvinen.com/hack-n-fix/teros-challenges.zip
+unzip teros-challenges.zip
+sudo apt install wget unzip python3-flask python3-flask-sqlalchemy
 ```
 
 ```bash

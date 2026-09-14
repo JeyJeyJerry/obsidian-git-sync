@@ -6,7 +6,7 @@ Date: **08.09.2026**
 - Ensin latasin tiedoston **ezbin-challenges.zip**, purin sen ja ajoin ohjelman **passtr**
 
 ```bash
-$ ./passtr
+./passtr
 What's the password?
 ```
 
@@ -80,8 +80,8 @@ int main() {
   - Selvitin **UPX:n** manuaalisivuilta, että tiedoston voi purkaa komennolla `upx -d`
 
 ```bash
-$ sudo apt install upx
-$ upx -d packd
+sudo apt install upx
+upx -d packd
 ```
 
 - Tämän jälkeen katsoin tiedostoa taas **strings** komennolla ja näin rivin, jolla luki **"piilos-AnAnAs"** heti tehtävän lipun yläpuolella
