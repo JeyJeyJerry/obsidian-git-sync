@@ -13,7 +13,7 @@
   "newNoteFolder": "",
   "newNoteFilename": "",
   "searchContents": true,
-  "searchEngine": "builtin",
+  "searchEngine": "omnisearch",
   "webSearchEngine": "duckduckgo",
   "backgroundKind": "default",
   "backgroundValue": "",
