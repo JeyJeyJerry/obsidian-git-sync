@@ -1,8 +1,8 @@
-# My Obsidian Vault
+# Jerry's Obsidian Vault
 
-## Contents:
+## Contents
 
-- School notes
+- School notes 
 - Personal projects
 - Daily thoughts
 - Programming notes
