@@ -9,3 +9,6 @@
 - Book notes 📔
 
 ## Community plugins used
+
+- [](obsidian://show-plugin?id=better-word-count)
+- 
