@@ -78,7 +78,6 @@ sudo systemctl start apache2
 ```bash
 sudo rm /etc/apache2/sites-available/000-default.conf
 sudo rm /etc/apache2/sites-enabled/000-default.conf
-
 sudo touch /etc/apache2/sites-available/sivusto.com.conf
 sudo ln -s /etc/apache2/sites-available/sivusto.com.conf /etc/apache2/sites-enabled/sivusto.com.conf
 ```
@@ -119,7 +118,6 @@ chmod ugo+r /home/jerry/public_site/index.html
 
 ```console
 ssh bob@localhost
-
 nano /home/jerry/public_site/index.html
 ```
 
@@ -132,15 +130,15 @@ nano /home/jerry/public_site/index.html
 - Asennetaan `nginx`-paketti
 
 ```bash
-$ sudo apt update
-$ sudo apt install nginx
+sudo apt update
+sudo apt install nginx
 ```
 
 - Sammutetaan apache2-demoni ja käynnistetään nginx-demoni
 
 ```bash
-$ sudo systemctl stop apache2
-$ sudo systemctl start nginx
+sudo systemctl stop apache2
+sudo systemctl start nginx
 ```
 
 - Varmistetaan, että nginx toimii avaamalla selaimella **http://localhost**
@@ -152,7 +150,7 @@ $ sudo systemctl start nginx
   - Sivuston luomisprosessi olisi identtinen edelliseen tehtävään, eli voimme käyttää vain samaa hakemistoa **/home/jerry/public_site**
 
 ```bash
-$ sudo nano /etc/nginx/sites-available/default
+sudo nano /etc/nginx/sites-available/default
 ```
 
 - **default** tiedoston sisällä muokataan riviä **root /var/www/html;** ja muutetaan se **root /home/jerry/public_site;**
@@ -164,9 +162,8 @@ $ sudo nano /etc/nginx/sites-available/default
   - Hakemistojen oikeudet on jo muokattu edellisessä tehtävässä, joten voimme heti kokeilla toisella käyttäjällä muokkaamista
 
 ```bash
-$ ssh bob@localhost
-
-$ nano /home/jerry/public_site/index.html
+ssh bob@localhost
+nano /home/jerry/public_site/index.html
 ```
 
 - Varmistetaan, että muutokset tulivat näkyviin **http://localhost**
@@ -178,7 +175,7 @@ $ nano /home/jerry/public_site/index.html
 - Ensin luodaan ansible rooli nimeltä nginx ja luodaan sille oikea hakemistorakenne ja tiedostot
 
 ```bash
-$ tree -F roles/nginx
+tree -F roles/nginx
 
 roles/nginx/
 └── tasks/
@@ -188,7 +185,7 @@ roles/nginx/
 - Muokataan tiedostoa **main.yml** asentamaan nginx-paketti
 
 ```bash
-$ cat /roles/nginx/main.yml
+cat /roles/nginx/main.yml
 
 - apt:
     name: nginx
@@ -203,7 +200,7 @@ $ cat /roles/nginx/main.yml
 - Lisätään rooli nginx tiedostoon **site.yml**, ajetaan ansible-playbook ja tarkistetaan, että nginx asentuu
 
 ```bash
-$ ansible-playbook site.yml -K
+ansible-playbook site.yml -K
 ```
 
 ![[H3 - Demoni_5.png]]

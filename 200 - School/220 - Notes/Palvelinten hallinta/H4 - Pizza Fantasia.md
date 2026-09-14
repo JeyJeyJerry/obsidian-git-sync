@@ -41,10 +41,10 @@ Date: **21.04.2026**
 - Ensin asennetaan tarvittavat paketit, eli **samba** ja **smbclient** ja laitetaan **smb demoni** päälle
 
 ```bash
-$ sudo apt update
-$ sudo apt install samba smbclient
+sudo apt update
+sudo apt install samba smbclient
 
-$ sudo systemctl start smbd
+sudo systemctl start smbd
 ```
 
 ![[H4 - Pizza Fantasia_1.png]]
@@ -54,7 +54,7 @@ $ sudo systemctl start smbd
 - Ensin luodaan ansiblee rooli nimeltä **samba**
 
 ```bash
-$ tree -F roles/samba
+tree -F roles/samba
 
 roles/samba/
 └── tasks/
@@ -81,8 +81,8 @@ roles/samba/
 - Ensin poistetaan Samba-paketit ja ajetaan ansible-playbook tarkistaakseen toimiiko asennus
 
 ```bash
-$ sudo apt purge samba smbclient
-$ ansible-playbook site.yml -K
+sudo apt purge samba smbclient
+ansible-playbook site.yml -K
 ```
 
 ![[H4 - Pizza Fantasia_2.png]]
