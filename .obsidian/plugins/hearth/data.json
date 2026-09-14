@@ -197,14 +197,15 @@
       "cardBlur": 0,
       "cardRadius": 12,
       "cardBorderWidth": 1,
-      "compact": false,
+      "compact": true,
       "background": {
         "kind": "none",
         "value": "",
         "opacity": 0.35,
         "blur": 2
       },
-      "backgroundLayout": "full"
+      "backgroundLayout": "full",
+      "dashboardSwitcherVisibility": "hover"
     }
   ],
   "activeDashboardId": "dash-mu1uar4w-269",
