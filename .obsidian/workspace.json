@@ -13,7 +13,7 @@
             "state": {
               "type": "hearth-home-view",
               "state": {},
-              "icon": "hearth-crystal",
+              "icon": "hearth-crystal-themed",
               "title": "Home"
             }
           }
