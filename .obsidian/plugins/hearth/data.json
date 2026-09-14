@@ -123,7 +123,7 @@
         },
         {
           "kind": "stats",
-          "title": "Vault",
+          "title": "",
           "x": 8,
           "y": 7,
           "w": 4,
@@ -139,7 +139,7 @@
         },
         {
           "kind": "heatmap",
-          "title": "Activity",
+          "title": "",
           "heatmap": {},
           "x": 4,
           "y": 10,
@@ -167,7 +167,7 @@
         },
         {
           "kind": "embed",
-          "title": "Book view",
+          "title": "Books",
           "target": "obsidian-git-sync/300 - Books/Book view.base",
           "x": 0,
           "y": 17,
