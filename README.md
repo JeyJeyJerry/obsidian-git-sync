@@ -7,3 +7,5 @@
 - Daily thoughts 💭
 - Programming notes 🤖
 - Book notes 📔
+
+## Community plugins used

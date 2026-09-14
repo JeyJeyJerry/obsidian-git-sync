@@ -6,11 +6,7 @@
   ],
   "markdownProperties": [],
   "propertyPillColors": {},
-  "propertyLongtextColors": {
-    "⭐⭐⭐⭐⭐": {
-      "textColor": "default"
-    }
-  },
+  "propertyLongtextColors": {},
   "tagColors": {},
   "enableBanner": true,
   "enableIcon": true,
@@ -120,6 +116,7 @@
     "tags": {}
   },
   "propertyColorSettingRevealed": "",
+  "coverClassesMigrated2": true,
   "coverClassesMigrated": true,
   "allTasksCount": "tasks",
   "completedTasksCount": "tasks_completed",
