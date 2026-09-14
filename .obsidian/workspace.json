@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/README.md.md",
+                "file": "obsidian-git-sync/README.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "README"
             }
           }
         ]
@@ -229,8 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.918701171875,
-    "collapsed": true
+    "width": 353.918701171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,7 +273,7 @@
     "obsidian-git-sync/999 - Templates/Book Template.md",
     "obsidian-git-sync/400 - Daily Notes/22.04.2026.md",
     "obsidian-git-sync/400 - Daily Notes/10.09.2026.md",
-    "obsidian-git-sync/README.md.md",
+    "obsidian-git-sync/README.md",
     "obsidian-git-sync/Testi.md",
     "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",

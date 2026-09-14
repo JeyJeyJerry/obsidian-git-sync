@@ -8,7 +8,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "obsidian-git-sync/README.md.md",
+        "pattern": "obsidian-git-sync/README.md",
         "patternType": "STRICT"
       },
       {
