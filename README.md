@@ -7,7 +7,7 @@
 - School notes @ Haaga-Helia UAS 🏫
 - Personal projects ⚙️
 - Daily thoughts 💭
-- Programming notes `` 🤖
+- Programming notes `Linux` `Python` `C & C++`  🤖
 - Book notes and database 📔
 
 ## Community plugins used
