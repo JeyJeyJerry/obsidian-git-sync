@@ -176,7 +176,7 @@
       "fitToPage": false,
       "header": {
         "showTitle": true,
-        "titleIcon": "",
+        "titleIcon": "home",
         "themeColorTarget": "both",
         "title": "Obsidian",
         "align": "center"
