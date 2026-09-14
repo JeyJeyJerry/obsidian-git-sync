@@ -81,7 +81,7 @@ $ gcc ghidra_passtr.c ghidra_passtr
 - Kokeilin uudestaan kääntää lähdekoodin
 
 ```bash
-$ gcc ghidra_passtr.c ghidra_passtr
+gcc ghidra_passtr.c ghidra_passtr
 ```
 
 - Tällä kertaa käännös onnistui
