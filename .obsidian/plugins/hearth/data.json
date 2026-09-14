@@ -183,7 +183,7 @@
       "fitToPage": false,
       "header": {
         "showTitle": true,
-        "titleIcon": "home",
+        "titleIcon": "",
         "themeColorTarget": "both",
         "title": "Obsidian",
         "align": "center"
@@ -201,22 +201,7 @@
         "blur": 2
       },
       "backgroundLayout": "full",
-      "dashboardSwitcherVisibility": "hover",
-      "hiddenFilters": [
-        "other",
-        "3d",
-        "presentations",
-        "spreadsheets",
-        "documents",
-        "pdf",
-        "audio",
-        "videos",
-        "images",
-        "bases",
-        "canvas",
-        "excalidraw",
-        "folders"
-      ]
+      "dashboardSwitcherVisibility": "hover"
     }
   ],
   "activeDashboardId": "dash-mu1uar4w-269",
