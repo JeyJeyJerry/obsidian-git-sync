@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "ab09e004c8259a49",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal",
+              "title": "Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-git-sync/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian-git-sync/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -200,7 +209,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-git-sync/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -241,15 +249,16 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "hearth:Open Hearth home": false
     }
   },
-  "active": "18aa255744fcca57",
+  "active": "ab09e004c8259a49",
   "lastOpenFiles": [
+    "obsidian-git-sync/README.md",
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
     "obsidian-git-sync/500 - Files/readme.png",
     "obsidian-git-sync/300 - Books/Book view.base",
-    "obsidian-git-sync/README.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H6 - Ansible Gaming Setup (project).md",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H5 - Gitar Hero.md",
