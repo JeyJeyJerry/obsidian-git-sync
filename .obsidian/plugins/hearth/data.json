@@ -189,7 +189,8 @@
         "showTitle": true,
         "titleIcon": "",
         "themeColorTarget": "both",
-        "title": "Obsidian"
+        "title": "Obsidian",
+        "align": "center"
       },
       "showSearch": true,
       "cardOpacity": 1,
