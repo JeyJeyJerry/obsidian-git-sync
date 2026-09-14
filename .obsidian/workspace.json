@@ -16,19 +16,8 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "62e4767588a30b7b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -40,6 +29,7 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
+        "dimension": 69.5754716981132,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -87,10 +77,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "42fc6d47588712b1",
+        "type": "tabs",
+        "dimension": 30.424528301886795,
+        "children": [
+          {
+            "id": "62e4767588a30b7b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 399.3405342102051
+    "width": 346.3940315246582
   },
   "right": {
     "id": "77bcd734db37ed44",
