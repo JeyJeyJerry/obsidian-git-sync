@@ -97,7 +97,7 @@ ansible-playbook site.yml -K
   - files/smb.conf tiedosto on kopioitu suoraan tiedostosta /etc/samba/smb.conf
 
 ```bash
-$ tree -F roles/samba
+tree -F roles/samba
 
 roles/samba/
 └── files/
@@ -162,8 +162,8 @@ become: true
 - Rikotaan Samba poistamalla tarvittavat paketit sekä konfiguraatiotiedostot
 
 ```bash
-$ sudo apt purge samba smbclient
-$ sudo rm -r /etc/samba
+sudo apt purge samba smbclient
+sudo rm -r /etc/samba
 ```
 
 ![[H4 - Pizza Fantasia_6.png]]

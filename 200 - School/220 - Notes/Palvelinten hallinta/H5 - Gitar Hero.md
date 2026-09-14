@@ -84,8 +84,8 @@ Date: **28.04.2026**
 - Tehdään ensimmäinen commit **(Initial commit)** heti varaston luomisen jälkeen, koska varasto ei toimi jos se on tyhjä
 
 ```bash
-$ git add --all
-$ git commit
+git add --all
+git commit
 ```
 
 - Tiedosto `hello/tasks/main.yml` tekee tiedoston hakemistoon `/tmp/hei_ansible`, jossa lukee "Hei Maailma". Muokataan se sanomaan "Hei Git"
