@@ -201,7 +201,8 @@
         "blur": 2
       },
       "backgroundLayout": "full",
-      "dashboardSwitcherVisibility": "hover"
+      "dashboardSwitcherVisibility": "hover",
+      "searchPlaceholder": "Omnisearch"
     }
   ],
   "activeDashboardId": "dash-mu1uar4w-269",
