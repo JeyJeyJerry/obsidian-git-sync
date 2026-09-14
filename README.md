@@ -1,5 +1,7 @@
 # Jerry's Obsidian Vault
 
+![Alt text](https://github.com/JeyJeyJerry/obsidian-git-sync/blob/c8686b63db873a54afccb80f073182e225301750/500%20-%20Files/readme.png) 
+
 ## Contents
 
 - School notes 🏫
