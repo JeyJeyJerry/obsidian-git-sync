@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9e08caabdfa029ad",
+        "id": "23853068c0f33a9f",
         "type": "tabs",
         "children": [
           {
-            "id": "c142284f5ed5815c",
+            "id": "0af9344459cf5613",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/100 - Index/H4 - Some Disassembly Required.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "H4 - Some Disassembly Required"
             }
           }
         ]
@@ -220,7 +234,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
@@ -230,8 +243,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "62e4767588a30b7b",
+  "active": "0af9344459cf5613",
   "lastOpenFiles": [
+    "obsidian-git-sync/100 - Index/H4 - Some Disassembly Required.md",
     "obsidian-git-sync/999 - Templates/Daily Note Template.md",
     "obsidian-git-sync/999 - Templates/Course Template.md",
     "obsidian-git-sync/999 - Templates/Class Template.md",
@@ -258,7 +272,6 @@
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPU moniydin, hyperthreading.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPUn historia.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/Cache.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta",
