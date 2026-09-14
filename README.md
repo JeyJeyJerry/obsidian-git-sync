@@ -4,7 +4,7 @@
 
 ## Contents
 
-- School notes 🏫
+- School notes @ Haaga-Helia UAS 🏫
 - Personal projects ⚙️
 - Daily thoughts 💭
 - Programming notes 🤖
