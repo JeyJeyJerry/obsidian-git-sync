@@ -98,7 +98,14 @@
           "fx": 0.2475,
           "fw": 0.298125,
           "fy": 0,
-          "fh": 200
+          "fh": 200,
+          "clock": {
+            "hourFormat": "24",
+            "showSeconds": true,
+            "showGreeting": false,
+            "dateMode": "custom",
+            "dateFormat": "DD.MM.YYYY"
+          }
         },
         {
           "kind": "recent",
