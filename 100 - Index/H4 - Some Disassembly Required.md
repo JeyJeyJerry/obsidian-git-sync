@@ -43,7 +43,7 @@ $ sudo apt update && sudo apt install ghidra -y
 - Ensin lisäsin aiemmin luomaani ghidra projektiin ohjelman **passtr** ja avasin sen ghidrassa
   - Etsin samalla tavalla kuin aiemmassa tehtävässä ohjelman main funktion
 
-![Alt text](images/h4_images/h4_6.png)
+![[H4 - Some Disassembly Required_6.png]]
 
 - Koodissa on sama kohta kuin aiemmassa ohjelmassa, missä tarkistetaan, että **iVarl == 0**
   - Ghidran vasemmassa ikkunassa **iVarl == 0** on rivillä, jossa lukee TEST
@@ -53,8 +53,8 @@ $ sudo apt update && sudo apt install ghidra -y
 - Valitsin rivillä, jossa lukee **"JNZ"** **"patch instruction"** ja vaihdoin siihen **"JZ"**
   - Main funktion sisäinen koodi kääntyi oikealla tavalla ympäri
 
-![Alt text](images/h4_images/h4_7.png)
-![Alt text](images/h4_images/h4_8.png)
+![[H4 - Some Disassembly Required_7.png]]
+![[H4 - Some Disassembly Required_8.png]]
 
 - Muutosten jälkeen painoin **"export the current function to C"** ja loin uuden tiedoston nimeltä **ghidra_passtr.c**
   - Yritin kääntää lähdekoodin ohjelmaksi nimeltä **ghidra_passtr**, mutta sain paljon virheilmoituksia
@@ -63,20 +63,20 @@ $ sudo apt update && sudo apt install ghidra -y
 $ gcc ghidra_passtr.c ghidra_passtr
 ```
 
-![Alt text](images/h4_images/h4_9.png)
+![[H4 - Some Disassembly Required_9.png]]
 
 - Sain selväksi virheistä, että koodissa on joitain virheitä, sillä ghidra ei näytä täydellistä C koodia
   - Lähdin tutkimaan luomaani lähdekoodia korjatakseni virheet
 
-![Alt text](images/h4_images/h4_10.png)
+![[H4 - Some Disassembly Required_10.png]]
 
 - En osaa C koodia oikeastaan yhtään, joten kysyin Tekoälyltä (ChatGPT) ohjeita muokkauksiin
 
-![Alt text](images/h4_images/h4_11.png)
+![[H4 - Some Disassembly Required_11.png]]
 
 - Tein tekoälyn ehdottamat muutokset ja koodi näytti heti selkeämmältä
 
-![Alt text](images/h4_images/h4_12.png)
+![[H4 - Some Disassembly Required_12.png]]
 
 - Kokeilin uudestaan kääntää lähdekoodin
 
@@ -87,7 +87,7 @@ $ gcc ghidra_passtr.c ghidra_passtr
 - Tällä kertaa käännös onnistui
 - Seuraavaksi kokeilin toimiiko ohjelma nyt väärillä salasanoilla
 
-![Alt text](images/h4_images/h4_13.png)
+![[H4 - Some Disassembly Required_13.png]]
 
 ## d) Nora CrackMe
 
