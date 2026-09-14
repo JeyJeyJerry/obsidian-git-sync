@@ -97,7 +97,7 @@ sudo visudo /etc/sudoers.d/sudoless
 ```bash
 ssh jerry@localhost
 sudo -k
-$ sudo echo "testi moi"
+sudo echo "testi moi"
 testi moi
 ```
 
@@ -106,7 +106,7 @@ testi moi
 - Ensin varmistetaan, että on olemassa toimiva Ansible järjestelmä ja hakemistorakenne
 
 ```bash
-$ tree -F
+tree -F
 ./
 ├── ansible.cfg
 ├── hosts.ini
@@ -123,7 +123,7 @@ $ tree -F
 - Lisätään rooliin sudoless komennot, jotka luovat uuden käyttäjän, lisäävät käyttäjän sudoless-ryhmään ja antaa oikeudet käyttää sudoa ilman salasanaa
 
 ```bash
-$ cat roles/sudoless/tasks/main.yml
+cat roles/sudoless/tasks/main.yml
 ```
 
 ```YAML
@@ -158,7 +158,7 @@ $ cat roles/sudoless/tasks/main.yml
 - Ajetaan ansible-playbook ja kysytään sudo salasana
 
 ```bash
-$ ansible-playbook site.yml -K
+ansible-playbook site.yml -K
 ```
 
 ![[H2 - Voileipä_2.png]]

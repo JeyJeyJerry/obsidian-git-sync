@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H2 - Voileipä.md",
+                "file": "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H3 - Demoni.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "H2 - Voileipä"
+              "title": "H3 - Demoni"
             }
           }
         ]
@@ -245,6 +245,7 @@
   },
   "active": "0af9344459cf5613",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H2 - Voileipä.md",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H1 - Hei Ansiblen maailma.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H0 - compile and Analyze.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H1 - Freedom of Action, Control, and Risk Mitigation.md",
@@ -280,7 +281,6 @@
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPUn toiminta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPU.md",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPU moniydin, hyperthreading.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin/CPUn historia.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta",

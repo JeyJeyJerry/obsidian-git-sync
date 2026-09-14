@@ -59,14 +59,14 @@ Date: **14.04.2026**
 - Ensin asennetaan `apache2`-paketti
 
 ```bash
-$ sudo apt update
-$ sudo apt install apache2
+sudo apt update
+sudo apt install apache2
 ```
 
 - Käynnistetään apache2 demoni
 
 ```bash
-$ sudo systemctl start apache2
+sudo systemctl start apache2
 ```
 
 - Tarkistetaan, että apache2 toimii avaamalla selaimessa **http://localhost**. Näkyviin piätisi tulla apache2 oletussivu
@@ -76,17 +76,17 @@ $ sudo systemctl start apache2
 - Kun apache2 todetaan toimivaksi, niin poistetaan apache2:n konfiguraatiotiedostoista **/etc/apache2/sites-available/000-default.conf** ja lisätään tilalle oma **sivusto.com.conf** ja linkitetään se hakemistoon **/etc/apache2/sites-enabled/**
 
 ```bash
-$ sudo rm /etc/apache2/sites-available/000-default.conf
-$ sudo rm /etc/apache2/sites-enabled/000-default.conf
+sudo rm /etc/apache2/sites-available/000-default.conf
+sudo rm /etc/apache2/sites-enabled/000-default.conf
 
-$ sudo touch /etc/apache2/sites-available/sivusto.com.conf
-$ sudo ln -s /etc/apache2/sites-available/sivusto.com.conf /etc/apache2/sites-enabled/sivusto.com.conf
+sudo touch /etc/apache2/sites-available/sivusto.com.conf
+sudo ln -s /etc/apache2/sites-available/sivusto.com.conf /etc/apache2/sites-enabled/sivusto.com.conf
 ```
 
 - Muokataan tiedostoa **sivusto.com.conf** siirtämään sivuston juuri kotihakemistoon
 
 ```bash
-$ cat /etc/apache2/sites-available/sivusto.com.conf
+cat /etc/apache2/sites-available/sivusto.com.conf
 
 <VirtualHost *:80>
         ServerName sivusto.com
@@ -101,7 +101,7 @@ $ cat /etc/apache2/sites-available/sivusto.com.conf
 - Käynnistetään apache2 uudelleen ja varmistetaan, että se tunnistaa uuden sivuston sijainnin avaamalla uudestaan selaimessa **http://localhost**
 
 ```bash
-$ sudo systemctl restart apache2
+sudo systemctl restart apache2
 ```
 
 ![[H3 - Demoni_2.png]]
@@ -110,17 +110,17 @@ $ sudo systemctl restart apache2
 - Seuraavaksi muutetaan kotihakemiston, public_site-hakemiston sekä index.html:n oikeuksia, niin että muut käyttäjät voivat muokata niitä ilman sudo-oikeuksia
 
 ```bash
-$ chmod ugo+x /home/jerry/
-$ chmod ugo+x /home/jerry/public_site/
-$ chmod ugo+r /home/jerry/public_site/index.html
+chmod ugo+x /home/jerry/
+chmod ugo+x /home/jerry/public_site/
+chmod ugo+r /home/jerry/public_site/index.html
 ```
 
 - Kirjaudutaan toiselle käyttäjälle ja kokeillaan muokata sivua ilman sudo-oikeuksia
 
 ```console
-$ ssh bob@localhost
+ssh bob@localhost
 
-$ nano /home/jerry/public_site/index.html
+nano /home/jerry/public_site/index.html
 ```
 
 - Varmistetaan, että muutokset tulivat näkyviin **http://localhost**
