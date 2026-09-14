@@ -113,33 +113,33 @@ $ make crackme01
 
 - Tämän jälkeen lisäsin ohjelman ghidra projektiin, avasin sen ghidrassa ja löysin main funktion
 
-![Alt text](images/h4_images/h4_14.png)
+![[H4 - Some Disassembly Required_14.png]]
 
 - Koodista näkyy, että oikea salasana on **"password1"**
 
-![Alt text](images/h4_images/h4_15.png)
+![[H4 - Some Disassembly Required_15.png]]
 
 ## e) Nora crackme01e
 
 - Käänsin lähdekoodista taas ohjelman ja avasin sen samalla tavalla ghidrassa
 
-![Alt text](images/h4_images/h4_16.png)
+![[H4 - Some Disassembly Required_16.png]]
 
 - Koodi oli hyvin samanlainen edelliseen tehtävään verrattuna ja sain selville, että oikea salasana on **"slm!paas.k"**
 - Kokeiltuani salasanaa sain virheilmoituksen
 
-![Alt text](images/h4_images/h4_17.png)
+![[H4 - Some Disassembly Required_17.png]]
 
 - Ilmoituksessa luki **"zsh"**, eli tiesin ongelman liittyvän käyttämääni **shelliin** eikä koodiin
   - Etsin vastausta netistä ja sain selville, että stringi täytyy olla **''** merkkien sisällä
 
-![Alt text](images/h4_images/h4_18.png)
+![[H4 - Some Disassembly Required_18.png]]
 
 ## f) Nora crackme02
 
 - Käänsin lähdekoodin ohjelmaksi samalla tavalla kuin aiemmin, avasin sen ghidrassa ja löysin main funktion
 
-![Alt text](images/h4_images/h4_19.png)
+![[H4 - Some Disassembly Required_19.png]]
 
 - Main funktion muuttujien uudet nimet voisivat olla:
   - **param_1** = argc
@@ -154,7 +154,7 @@ $ make crackme01
   - Ohjelma ottaa käyttäjän antaman salasanan ja **miinustaa** jokaisesta merkista yhden ascii merkin alaspäin ja tarkistaa tuleeko siitä **"password1"**
   - Eli oikea vastaus on **"o`rrvnqc0"**
 
-![Alt text](images/h4_images/h4_20.png)
+![[H4 - Some Disassembly Required_20.png]]
 
 ## Lähteet
 
