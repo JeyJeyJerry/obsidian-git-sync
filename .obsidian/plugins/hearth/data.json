@@ -3,7 +3,7 @@
   "showTitle": true,
   "titleIcon": "",
   "tabIcon": "",
-  "themeColorTarget": "none",
+  "themeColorTarget": "icon",
   "showSearch": true,
   "searchPlaceholder": "Search or command",
   "showNewNoteButton": true,
