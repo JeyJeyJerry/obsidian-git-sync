@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "601e77fd5ea23a64",
+        "id": "57528df3a4b8f91a",
         "type": "tabs",
         "children": [
           {
-            "id": "a5e2b95f8f48110f",
+            "id": "978bfeada7c13fde",
             "type": "leaf",
             "state": {
               "type": "hearth-home-view",
@@ -81,7 +81,7 @@
       {
         "id": "42fc6d47588712b1",
         "type": "tabs",
-        "dimension": 29.96146435452794,
+        "dimension": 29.961464354527937,
         "children": [
           {
             "id": "62e4767588a30b7b",
@@ -228,7 +228,7 @@
       "hearth:Open Hearth home": false
     }
   },
-  "active": "2c395ac0a9a17361",
+  "active": "978bfeada7c13fde",
   "lastOpenFiles": [
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
     "obsidian-git-sync/README.md",
