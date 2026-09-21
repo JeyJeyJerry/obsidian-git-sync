@@ -11,10 +11,24 @@
             "id": "ab09e004c8259a49",
             "type": "leaf",
             "state": {
-              "type": "hearth-home-view",
-              "state": {},
-              "icon": "hearth-crystal-themed",
-              "title": "Home"
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H4 - Some Disassembly Required.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "H4 - Some Disassembly Required"
             }
           }
         ]
@@ -229,11 +243,11 @@
       "hearth:Open Hearth home": false
     }
   },
-  "active": "ab09e004c8259a49",
+  "active": "2c395ac0a9a17361",
   "lastOpenFiles": [
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
     "obsidian-git-sync/README.md",
-    "obsidian-git-sync/500 - Files/readme.png",
+    "obsidian-git-sync/600 - Files/readme.png",
     "obsidian-git-sync/300 - Books/Book view.base",
     "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet/Tietoturvan hallinta, riskin hallinta.md",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H6 - Ansible Gaming Setup (project).md",
@@ -247,21 +261,21 @@
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H2 - Break & Unbreak.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H3 - No Strings Attached.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H4 - Some Disassembly Required.md",
-    "obsidian-git-sync/500 - Files/H4 - Some Disassembly Required_20.png",
-    "obsidian-git-sync/500 - Files/H4 - Some Disassembly Required_19.png",
-    "obsidian-git-sync/500 - Files/H4 - Some Disassembly Required_18.png",
-    "obsidian-git-sync/500 - Files/H4 - Some Disassembly Required_17.png",
-    "obsidian-git-sync/500 - Files/H4 - Some Disassembly Required_16.png",
-    "obsidian-git-sync/500 - Files/H4 - Some Disassembly Required_15.png",
-    "obsidian-git-sync/500 - Files/H4 - Some Disassembly Required_14.png",
-    "obsidian-git-sync/500 - Files/H4 - Some Disassembly Required_13.png",
-    "obsidian-git-sync/500 - Files/H4 - Some Disassembly Required_12.png",
+    "obsidian-git-sync/600 - Files/H4 - Some Disassembly Required_20.png",
+    "obsidian-git-sync/600 - Files/H4 - Some Disassembly Required_19.png",
+    "obsidian-git-sync/600 - Files/H4 - Some Disassembly Required_18.png",
+    "obsidian-git-sync/600 - Files/H4 - Some Disassembly Required_17.png",
+    "obsidian-git-sync/600 - Files/H4 - Some Disassembly Required_16.png",
+    "obsidian-git-sync/600 - Files/H4 - Some Disassembly Required_15.png",
+    "obsidian-git-sync/600 - Files/H4 - Some Disassembly Required_14.png",
+    "obsidian-git-sync/600 - Files/H4 - Some Disassembly Required_13.png",
+    "obsidian-git-sync/600 - Files/H4 - Some Disassembly Required_12.png",
     "obsidian-git-sync/999 - Templates/Daily Note Template.md",
     "obsidian-git-sync/999 - Templates/Course Template.md",
     "obsidian-git-sync/999 - Templates/Class Template.md",
     "obsidian-git-sync/999 - Templates/Chapter Template.md",
     "obsidian-git-sync/999 - Templates/Book Template.md",
-    "obsidian-git-sync/400 - Daily Notes/22.04.2026.md",
+    "obsidian-git-sync/500 - Daily Notes/22.04.2026.md",
     "obsidian-git-sync/400 - Daily Notes/10.09.2026.md",
     "obsidian-git-sync/Testi.md",
     "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
@@ -273,7 +287,7 @@
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin",
     "obsidian-git-sync/200 - School/220 - Notes/Attachments",
-    "obsidian-git-sync/500 - Files",
+    "obsidian-git-sync/600 - Files",
     "obsidian-git-sync/200 - School/220 - Notes",
     "obsidian-git-sync/200 - School/210 - Courses/Palvelinten hallinta/Untitled.base",
     "obsidian-git-sync/200 - School/210 - Courses/Sovellusten hakkerointi/Attachments"
