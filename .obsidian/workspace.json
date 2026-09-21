@@ -13,6 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "obsidian-git-sync/400 - Projects/Homelab/network/Topology.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Topology"
+            }
+          }
+        ]
+      },
+      {
+        "id": "042b8c5e927cadeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8426138ddbe4266e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "obsidian-git-sync/400 - Projects/Homelab/Homelab.md",
                 "mode": "source",
                 "source": true,
@@ -245,8 +275,10 @@
   },
   "active": "ab09e004c8259a49",
   "lastOpenFiles": [
-    "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H4 - Some Disassembly Required.md",
     "obsidian-git-sync/400 - Projects/Homelab/Homelab.md",
+    "obsidian-git-sync/400 - Projects/Homelab/network/Topology.md",
+    "obsidian-git-sync/400 - Projects/Homelab/network",
+    "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H4 - Some Disassembly Required.md",
     "obsidian-git-sync/400 - Projects/Homelab",
     "obsidian-git-sync/400 - Projects",
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
@@ -283,13 +315,11 @@
     "obsidian-git-sync/Testi.md",
     "obsidian-git-sync/100 - Index/Mototrcycle Brainstorm.md",
     "obsidian-git-sync/100 - Index/Gruvbox color palette.md",
-    "obsidian-git-sync/200 - School/210 - Courses/Tietoturvan perusteet.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta",
     "obsidian-git-sync/200 - School/220 - Notes/Johdanto ICT-infrastruktuuriin ja pilvipalveluihin",
     "obsidian-git-sync/200 - School/220 - Notes/Attachments",
-    "obsidian-git-sync/600 - Files",
-    "obsidian-git-sync/200 - School/220 - Notes"
+    "obsidian-git-sync/600 - Files"
   ]
 }
