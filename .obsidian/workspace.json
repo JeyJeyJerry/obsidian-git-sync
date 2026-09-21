@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57528df3a4b8f91a",
+        "id": "091d4d5efedb1558",
         "type": "tabs",
         "children": [
           {
-            "id": "978bfeada7c13fde",
+            "id": "ab09e004c8259a49",
             "type": "leaf",
             "state": {
               "type": "hearth-home-view",
@@ -29,7 +29,7 @@
       {
         "id": "9a1327595405c7e9",
         "type": "tabs",
-        "dimension": 70.03853564547207,
+        "dimension": 69.5754716981132,
         "children": [
           {
             "id": "2c395ac0a9a17361",
@@ -81,7 +81,7 @@
       {
         "id": "42fc6d47588712b1",
         "type": "tabs",
-        "dimension": 29.961464354527937,
+        "dimension": 30.424528301886795,
         "children": [
           {
             "id": "62e4767588a30b7b",
@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.98046875
+    "width": 346.3940315246582
   },
   "right": {
     "id": "77bcd734db37ed44",
@@ -214,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.918701171875
+    "width": 353.918701171875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,13 +223,13 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
+      "bases:Create new base": false,
       "hearth:Open Hearth home": false
     }
   },
-  "active": "978bfeada7c13fde",
+  "active": "ab09e004c8259a49",
   "lastOpenFiles": [
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
     "obsidian-git-sync/README.md",
