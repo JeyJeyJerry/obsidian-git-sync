@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#d79921",
     "recentlyUsedIcons": [
+      "FasGears",
       "LiFile",
       "LiHouse",
       "LiHome",
-      "LiVault",
-      "LiBookTemplate"
+      "LiVault"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "obsidian-git-sync/999 - Templates": "LiBookTemplate",
   "obsidian-git-sync": "LiVault",
   "obsidian-git-sync/600 - Files": "LiFile",
-  "obsidian-git-sync/500 - Daily Notes": "LiCalendarDays"
+  "obsidian-git-sync/500 - Daily Notes": "LiCalendarDays",
+  "obsidian-git-sync/400 - Projects": "FasGears"
 }
