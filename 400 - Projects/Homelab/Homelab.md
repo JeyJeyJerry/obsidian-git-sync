@@ -1,3 +1,7 @@
+switch: **TL-SG1016DE**
+modem: **TP-Link VX800v**
+machine: **dell precicion tower 3420**
+
 ```bash
 homelab-docs/
 ├── Homelab.md              # Overview and quick reference

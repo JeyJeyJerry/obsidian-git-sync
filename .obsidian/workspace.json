@@ -11,10 +11,24 @@
             "id": "09753b6fbef1735c",
             "type": "leaf",
             "state": {
-              "type": "hearth-home-view",
-              "state": {},
-              "icon": "hearth-crystal-themed",
-              "title": "Home"
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-git-sync/400 - Projects/Homelab/Homelab.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homelab"
             }
           }
         ]
@@ -214,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.918701171875,
-    "collapsed": true
+    "width": 353.918701171875
   },
   "left-ribbon": {
     "hiddenItems": {
