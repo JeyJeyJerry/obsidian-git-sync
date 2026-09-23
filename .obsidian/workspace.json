@@ -8,37 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09753b6fbef1735c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-git-sync/400 - Projects/Homelab/Homelab.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homelab"
-            }
-          },
-          {
             "id": "1c4f91b172429a03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testi.md",
-                "mode": "source",
+                "file": "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H3 - No Strings Attached.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "testi"
+              "title": "H3 - No Strings Attached"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,6 +245,10 @@
   },
   "active": "1c4f91b172429a03",
   "lastOpenFiles": [
+    "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H1 - Freedom of Action, Control, and Risk Mitigation.md",
+    "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H2 - Break & Unbreak.md",
+    "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H3 - No Strings Attached.md",
+    "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H4 - Some Disassembly Required.md",
     "testi.md",
     "obsidian-git-sync/400 - Projects/Homelab/Homelab.md",
     "obsidian-git-sync/400 - Projects/Homelab/services/proxmox.md",
@@ -284,7 +263,6 @@
     "obsidian-git-sync/400 - Projects/Homelab/network/ip-assignments.md",
     "obsidian-git-sync/400 - Projects/Homelab/network/topology.md",
     "obsidian-git-sync/400 - Projects/Homelab/network",
-    "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H4 - Some Disassembly Required.md",
     "obsidian-git-sync/400 - Projects/Homelab",
     "obsidian-git-sync/400 - Projects",
     "obsidian-git-sync/300 - Books/Dune/Dune.md",
@@ -299,9 +277,6 @@
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H2 - Voileipä.md",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta/H1 - Hei Ansiblen maailma.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H0 - compile and Analyze.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H1 - Freedom of Action, Control, and Risk Mitigation.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H2 - Break & Unbreak.md",
-    "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H3 - No Strings Attached.md",
     "obsidian-git-sync/600 - Files/H4 - Some Disassembly Required_20.png",
     "obsidian-git-sync/600 - Files/H4 - Some Disassembly Required_19.png",
     "obsidian-git-sync/600 - Files/H4 - Some Disassembly Required_18.png",
