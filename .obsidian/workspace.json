@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "Homelab"
             }
+          },
+          {
+            "id": "1c4f91b172429a03",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal-themed",
+              "title": "Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.918701171875
+    "width": 353.918701171875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,13 +254,13 @@
       "hearth:Open Hearth home": false
     }
   },
-  "active": "09753b6fbef1735c",
+  "active": "1c4f91b172429a03",
   "lastOpenFiles": [
+    "obsidian-git-sync/400 - Projects/Homelab/Homelab.md",
     "obsidian-git-sync/400 - Projects/Homelab/services/proxmox.md",
     "obsidian-git-sync/400 - Projects/Homelab/services/inventory.md",
     "obsidian-git-sync/400 - Projects/Homelab/procedures/new-vm.md",
     "obsidian-git-sync/400 - Projects/Homelab/procedures/backup-restore.md",
-    "obsidian-git-sync/400 - Projects/Homelab/Homelab.md",
     "obsidian-git-sync/400 - Projects/Homelab/diagrams",
     "obsidian-git-sync/400 - Projects/Homelab/procedures",
     "obsidian-git-sync/400 - Projects/Homelab/services",
