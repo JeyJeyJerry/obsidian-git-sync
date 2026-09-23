@@ -35,10 +35,24 @@
             "id": "1c4f91b172429a03",
             "type": "leaf",
             "state": {
-              "type": "hearth-home-view",
-              "state": {},
-              "icon": "hearth-crystal-themed",
-              "title": "Home"
+              "type": "markdown",
+              "state": {
+                "file": "testi.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "testi"
             }
           }
         ],
@@ -256,6 +270,7 @@
   },
   "active": "1c4f91b172429a03",
   "lastOpenFiles": [
+    "testi.md",
     "obsidian-git-sync/400 - Projects/Homelab/Homelab.md",
     "obsidian-git-sync/400 - Projects/Homelab/services/proxmox.md",
     "obsidian-git-sync/400 - Projects/Homelab/services/inventory.md",
@@ -298,7 +313,6 @@
     "obsidian-git-sync/600 - Files/H4 - Some Disassembly Required_12.png",
     "obsidian-git-sync/999 - Templates/Daily Note Template.md",
     "obsidian-git-sync/999 - Templates/Course Template.md",
-    "obsidian-git-sync/999 - Templates/Class Template.md",
     "obsidian-git-sync/200 - School/220 - Notes/Tietoturvan perusteet",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi",
     "obsidian-git-sync/200 - School/220 - Notes/Palvelinten hallinta"
