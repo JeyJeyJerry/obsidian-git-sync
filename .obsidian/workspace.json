@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "Homelab"
             }
+          },
+          {
+            "id": "523f2aaace9db8a6",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "icon": "hearth-crystal-themed",
+              "title": "Home"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,14 +254,14 @@
       "hearth:Open Hearth home": false
     }
   },
-  "active": "70bd11236126dfc1",
+  "active": "523f2aaace9db8a6",
   "lastOpenFiles": [
+    "obsidian-git-sync/400 - Projects/Homelab/Homelab.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H3 - No Strings Attached.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H1 - Freedom of Action, Control, and Risk Mitigation.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H2 - Break & Unbreak.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H4 - Some Disassembly Required.md",
     "testi.md",
-    "obsidian-git-sync/400 - Projects/Homelab/Homelab.md",
     "obsidian-git-sync/400 - Projects/Homelab/services/proxmox.md",
     "obsidian-git-sync/400 - Projects/Homelab/services/inventory.md",
     "obsidian-git-sync/400 - Projects/Homelab/procedures/new-vm.md",
