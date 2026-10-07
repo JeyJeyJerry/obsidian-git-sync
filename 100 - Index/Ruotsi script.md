@@ -4,7 +4,7 @@ Hej! Jag heter Jerry och jag studerar vid Haaga-Helia yrkeshögskola. Jag studer
 
 ## 2: Min dag
 
-Igår hade jag en lugn och trevlig dag. Jag åkte till Östra centrum i Helsingfors tillsammans med mina bröder. Vi gick runt i olika butiker och tittade på saker. Det var mycket folk där, och jag hörde musik och prat överallt. Sedan åt vi tillsammans på en restaurang. Maten var god och jag kände mig mätt och nöjd. När jag kom hem pratade jag i telefon med mina klasskamrater. Vi pratade om skolan och jag gjorde mina uppgifter. Efter det spelade jag videospel och tittade på videor. På kvällen kände jag mig lite trött, men jag var glad. Det var en bra dag.
+Igår hade jag en lugn och trevlig dag. Jag åkte till Östra centrum i Helsingfors tillsammans med mina bröder. Vi gick runt i olika butiker och tittade på saker. Det var mycket folk där, och jag hörde musik och prat överallt. Sedan åt vi tillsammans på en restaurang. Maten var god och jag kände mig mätt och nöjd. När jag kom hem pratade jag pratade med mina kompisar på Discord. Vi pratade om skolan och jag gjorde mina uppgifter. Efter det spelade jag videospel och tittade på videor. På kvällen kände jag mig lite trött, men jag var glad. Det var en bra dag.
 
 ## 3: Tio åsikter om studier och arbetsliv
 
