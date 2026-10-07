@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.3940315246582
+    "width": 346.3940315246582,
+    "collapsed": true
   },
   "right": {
     "id": "77bcd734db37ed44",
@@ -245,8 +246,8 @@
   },
   "active": "523f2aaace9db8a6",
   "lastOpenFiles": [
-    "testi.md",
     "obsidian-git-sync/100 - Index/Ruotsi script.md",
+    "testi.md",
     "obsidian-git-sync/400 - Projects/Homelab/Homelab.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H3 - No Strings Attached.md",
     "obsidian-git-sync/200 - School/220 - Notes/Sovellusten hakkerointi/H1 - Freedom of Action, Control, and Risk Mitigation.md",
